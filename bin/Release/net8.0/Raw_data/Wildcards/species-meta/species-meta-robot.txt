@@ -1,0 +1,62 @@
+(animate inanimate:1.25), machine, metallic body, blue body
+(animatronic:1.25), machine, teeth, crossgender
+(appmon \(species\):1.25), chest tuft, hair, tuft, green hair, yellow eyes, bathing, white body
+(assaultron \(fallout\):1.25), machine, metallic body, ladder
+(atronach:1.25), machine, long torso, crossgender, small head, yellow eyes
+(bakugan \(series\):1.25), machine, blue eyes, claws, spikes
+(bakugan:1.25), machine, blue eyes, claws, armor
+(battle droid:1.25), machine, metallic body, ladder
+(baymax:1.25), white body, white fur, slightly chubby, butt male
+(bellabot:1.25), machine, amber eyes, yellow eyes
+(bionicle:1.25), machine, armor, blue eyes, helmet, synthetic
+(bunnie rabbot:1.25), machine, purple eyes, blonde hair, cybernetics
+(cordite:1.25), hair, green eyes, blonde hair, blue body
+(cyborg:1.25), machine, tuft, brown eyes, chest tuft, prosthetic arm, prosthetic, cybernetics, cybernetic limb
+(district 9:1.25), machine, metallic body, blue eyes, metal, horn
+(doom slayer:1.25), helmet, armor, chest hair, pecs, body hair, hairy, green body, green skin, machine, serratus, v-cut, headgear, pond
+(drago \(bakugan\):1.25), armor, horn, machine, claws
+(droid:1.25), blue eyes, machine, tuft, black nose, tan fur, multicolored body, orange fur, orange body, tan body, multicolored fur, cheek tuft, facial tuft, brown body, brown fur
+(drossel von flugel \(fireball\):1.25), machine, blue eyes, joints, backlighting, blue sclera
+(ed ryujin:1.25), pecs, biceps, serratus, blue body
+(electro current \(oc\):1.25), hair, yellow eyes, blonde hair, black body, chair, black fur, yellow nipples, multicolored hair, green fur
+(evangelion \(cyborg\):1.25), machine, yellow eyes, white body, armor, joints
+(exo:1.25), machine, armor, helmet
+(flame atronach:1.25), machine, fire, yellow eyes
+(ghost in the shell:1.25), blue eyes, black hair, hair
+(glados:1.25), machine, synthetic, thigh gap
+(haydee \(game\):1.25), machine, armor, helmet
+(haydee:1.25), armor, helmet, machine
+(helper drone \(vader-san\):1.25), rubber, synthetic, glistening, machine, black body, big hands, antennae \(anatomy\), yellow eyes, exoskeleton
+(iron man:1.25), machine, armor, glowing eyes, glowing, power armor, helmet
+(jenny wakeman:1.25), machine, blue eyes, thigh gap, blue body, eyelashes, white body
+(living machine:1.25), machine, metallic body, blue eyes, vehicle
+(mass effect:1.25), armor, blue eyes
+(mechanical dragon:1.25), machine, metallic body, horn, cybernetics, yellow eyes, scales
+(medabots \(models\):1.25), machine, armor, helmet, yellow eyes, white body
+(mega man \(character\):1.25), helmet, blue eyes, armor, sea, headgear, yellow body
+(meta knight:1.25), purple body, horn, pecs
+(metal gear rising revengeance:1.25), machine, cybernetics, armor, synthetic
+(metroid prime:1.25), armor, machine, blue eyes, glowing, glowing eyes, blue body
+(mettaton ex:1.25), makeup, hair, pink eyes, lipstick, eyelashes
+(neon mitsumi:1.25), markings, furball \(artist\), white body, head markings, facial markings, white fur, black body
+(omnic:1.25), machine, glowing eyes, glowing
+(optimus prime:1.25), armor, blue body, headgear, helmet
+(orb robot:1.25), machine, 1 eye
+(orisa \(overwatch\):1.25), horn, green eyes, machine, armor, curvy figure
+(pacific rim:1.25), armor, helmet, horn, machine
+(prime warframe:1.25), armor, thigh gap, black body
+(protogen:1.25), machine, screen, cybernetics, tuft, neck tuft, fluffy
+(robot dog:1.25), machine, blue eyes, metallic body, sea
+(robot master:1.25), machine, yellow eyes, synthetic, metallic body, glowing eyes, glowing, blue body
+(robot unicorn attack:1.25), machine, horn, hair, purple hair, pond, amber eyes, long hair
+(robot:1.25), machine, glowing eyes, glowing, blue eyes, metallic body, thigh gap
+(saybin iacere:1.25), horn, scales
+(seeker \(transformers\):1.25), machine, red eyes
+(starscream:1.25), 
+(stormtrooper:1.25), armor, helmet, holding ball, ball, warrior
+(synth \(vader-san\):1.25), machine, synthetic, cybernetics, metallic body, vehicle, screen face
+(tasque manager:1.25), machine, yellow eyes
+(tasque:1.25), yellow eyes, machine, furball \(artist\)
+(teri \(tawog\):1.25), machine, eyelashes, white body, bow tie, white fur
+(tron:1.25), black fur, black body, glowing markings, blue eyes, glowing, black nose, hair
+(valkyr \(warframe\):1.25), armor, glowing, blue eyes, claws

@@ -1,0 +1,27 @@
+(ahab \(tas\):1.25), pecs, white body, beard, facial hair, white fur, white hair, hair, biceps, black body, body hair, fangs, black fur, chest hair, multicolored body, multicolored fur, island, black nose, tuft, mature male, eyebrows, humanoid hands, big muscles, two tone body, claws
+(alp \(tas\):1.25), young, purple body, purple fur, slightly chubby, purple hair, purple eyes
+(bandaid protagonist \(tas\):1.25), bandage, band-aid, brown hair, hair, pecs, v-cut, eyebrows, brown eyes, biped, teeth, short hair, white body
+(barguest \(tas\):1.25), chest hair, pecs, body hair, hair, facial hair, biceps, beard, fangs, brown body, hairy, tuft, chest tuft, brown fur, orange hair, black nose, claws
+(catoblepas \(tas\):1.25), hair, green eyes, brown body, brown fur, brown hair, tuft, eyebrows, webcomic, dark body, long hair, chest tuft
+(chubby protagonist \(tas\):1.25), blush, slightly chubby, humanoid hands male, thick eyebrows, hair, young
+(cthugha \(tas\):1.25), pseudo hair, horn, tentacles, yellow eyes, tentacle hair, claws, pupils, red body, markings, spikes \(anatomy\), scales, chest markings, purple body
+(cu sith \(tas\):1.25), yellow fur, yellow body male, green eyes, slightly chubby, humanoid hands, tuft
+(female protagonist \(tas\):1.25), hair, brown eyes, brown hair, blush, long hair, thigh gap, tuft, brown fur, brown body, multicolored body, inner ear fluff, white body, white fur, black nose, black hair, chest tuft, multicolored fur
+(fenrir \(housamo\), @ male, musclegut, slightly chubby, grey body, grey fur, hair
+(goemon \(tas\):1.25), hair, chest tuft, black body, tuft, black fur, multicolored body, multicolored fur, horn, red body, pond, brown body, white body, white fur, brown fur
+(horkeu kamui \(tas\):1.25), headband, pecs, white body, white fur, chest hair, body hair, multicolored fur, accessory, multicolored body, blue eyes, biceps, tuft, black nose, chest tuft, two tone fur, two tone body, hair, grey body, grey fur, big muscles, biped, black body
+(jock protagonist \(tas\):1.25), pecs, body hair, biceps, chest hair, hair, thick eyebrows, brown hair, facial hair, brown body, eyebrows
+(kimun kamui \(tas\):1.25), tattoo, pecs, tribal, chest fur, headband, hair, facial hair, braided hair, beard, chest hair, biceps, body hair, blush, black nose, white body, accessory
+(leib \(tas\):1.25), pecs, biceps, green eyes, humanoid hands, necklace, hair, white body, white fur, black nose, big muscles
+(licho \(tas\):1.25), hair, blonde highlights, blonde hair, stripes
+(macan \(tas\):1.25), pecs, yellow body, yellow fur, green body, hair, blonde hair, biceps, stripes, green fur, eyebrows, tuft, body hair, claws, yellow tail, markings
+(marchosias \(tas\):1.25), facial hair, pecs, beard, horn, chest hair, hair, blue eyes, scar, biceps, body hair, big muscles, tuft, brown body, white body, eyebrows, brown fur
+(nomad \(tas\):1.25), hair, red hair, tuft, chest tuft, long hair, brown fur, multicolored body, brown body, inner ear fluff, black nose, multicolored fur, white body, white fur, eyelashes, markings
+(nyarlathotep \(housamo\):1.25), horn, purple body, pecs, musclegut
+(seth \(tas\):1.25), white body, tuft, pecs, white fur, yellow eyes, facial tuft, neck tuft, cheek tuft, multicolored body, markings, chest tuft, multicolored fur, black nose, v-cut, head markings
+(shino \(housamo\), @ male, blush, humanoid hands, musclegut, grey hair, grey fur, grey body
+(snow \(tas\):1.25), blue eyes, white hair, hair, white fur, white body, tuft, chest tuft
+(tindalos \(tas\):1.25), hair, horn, blue body, blue hair
+(twink protagonist \(tas\):1.25), hair, white body, white fur, tuft, brown hair, short hair, brown eyes, cheek tuft, facial tuft, shoulder tuft, blush, chest tuft, black nose, eyebrows, inner ear fluff, teenager, head tilt, multicolored body, multicolored fur
+(vapula \(tas\):1.25), hair, blush, brown hair, thigh gap, brown fur, short hair, brown body, multicolored body, multicolored fur
+(zhurong \(tas\):1.25), red body, red fur, hair, tuft, yellow eyes, chest tuft, white body, pink hair, white fur, multicolored body

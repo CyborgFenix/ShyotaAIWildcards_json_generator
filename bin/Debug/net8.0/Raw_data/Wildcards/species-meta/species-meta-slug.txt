@@ -1,0 +1,17 @@
+(amphibian:1.25), green body, yellow eyes, blue body, yellow body
+(aquatic gastropod:1.25), blue body, featureless chest
+(blue poison dart frog:1.25), blue body, blue eyes, spotted skin
+(caspar the frog:1.25), green body, green skin, yellow body, spotted skin
+(day gecko:1.25), yellow body, green body, spotted skin, yellow eyes, spots, biped, green skin
+(froggit:1.25), green body, green skin, yellow body, spots, spotted skin, featureless chest
+(frog:1.25), green body, spotted skin, green skin, yellow body, spots, spotted body
+(full frontal frog:1.25), green body, spotted skin, green skin, spots, yellow body, spotted body
+(gastropod:1.25), featureless chest, multicolored body, yellow body
+(poison dart frog:1.25), blue body, spots, spotted skin
+(sea slug:1.25), blue body, chest tuft, tuft, white body, multicolored body, slim, blue fur, shoulder tuft, narrowed eyes
+(slippy toad:1.25), green body, green skin, slightly chubby
+(slugcat \(rain world\):1.25), featureless chest, black eyes, white body, black body
+(slug:1.25), chest tuft, brown body
+(tadpole:1.25), green body, featureless chest, brown eyes, fin
+(toad \(frog\):1.25), green body, green skin
+(tree frog:1.25), green body, spotted skin, green skin, yellow body, yellow eyes, pecs

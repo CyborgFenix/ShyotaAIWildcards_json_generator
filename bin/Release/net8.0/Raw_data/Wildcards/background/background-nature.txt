@@ -1,0 +1,111 @@
+
+abyss
+alpine
+andes
+antarctic
+appalachian
+archipelago
+arctic
+arctic tundra
+badlands
+bay
+bayou
+beach
+bog
+boreal forest
+broadleaf forest
+canal
+canyon
+canyonlands
+cape
+cave
+cavern
+caves
+cenote
+channel
+cherry blossom forest
+cliff
+coastal forest
+coral atoll
+coral reef
+cove
+crystal cave
+deciduous forest
+delta
+desert
+dune
+ecological park
+estuary
+evergreen forest
+fen
+fjord
+forest
+garden
+geysers
+glacier
+gorge
+grassland
+grotto
+headland
+hill
+hills
+himalayan
+iceland
+inlet
+island
+isthmus
+jungle
+karst
+lagoon
+lake
+mangrove
+marsh
+marshlands
+meadow
+monsoon forest
+mountain
+mountains
+mushroom forest
+oasis
+ocean
+peatland
+peninsula
+plateau
+polar region
+polder
+prairie
+promontory
+rainforest
+rapids
+reservoir
+rice paddy
+ridge
+river
+rocky
+salt flat
+sandbar
+savanna
+savannah
+sea
+seamount
+shoal
+sinkhole
+space
+steppe
+strait
+swamp
+taiga
+temperate forest
+the river lethe
+trench
+tundra
+underwater
+underwater canyon
+valley
+volcano
+wasteland
+waterfall
+wetland
+wetlands
+wheat field
+woodlands

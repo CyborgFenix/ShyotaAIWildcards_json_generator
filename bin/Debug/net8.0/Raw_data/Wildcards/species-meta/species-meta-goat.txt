@@ -1,0 +1,39 @@
+(alpaca:1.25), nipple tuft, white body, pink nose, white fur, brown eyes, tuft, horn
+(alpine ibex:1.25), horn, brown eyes, detailed, tuft, white body, white fur, detailed fur, brown body, inner ear fluff, brown fur, multicolored fur, tan fur
+(antelope:1.25), horn, white body, multicolored body, multicolored fur, tuft, white fur, brown eyes, biped, chest tuft, antlers, featureless chest, brown body, depth of field, brown fur, detailed
+(asgore dreemurr:1.25), beard, facial hair, blonde hair, horn, hair, mature anthro, mature male, chest hair, long ears, body hair, blue eyes, white body, pecs, musclegut, white fur
+(asriel dreemurr:1.25), horn, white body, white fur, long ears
+(bighorn sheep:1.25), horn, bovid horn, ram horn, caprine horn, horizontal pupils, brown eyes, curved horn
+(caprine demon:1.25), red eyes, horn, caprine horn, ram horn, bovid horn, curved horn, pupils, black body, hair, black fur, black sclera, brown body, eyelashes, red sclera, brown fur
+(caprine:1.25), horn, chest tuft, tuft, caprine horn, bovid horn, ram horn, white fur, white body
+(dall sheep:1.25), horn, white hair, hair, yellow eyes, white body, white fur
+(dawn bellwether:1.25), eyelashes, bald crotch, seductive, wool \(fur\), eyebrows, bedroom eyes, neck tuft, narrowed eyes, tuft, soft shading, floppy ears
+(domestic goat:1.25), horn, white body, chest tuft, white fur, brown eyes, tuft
+(domestic sheep:1.25), wool \(fur\), white body, horn, white fur
+(dromedary:1.25), hair, brown hair
+(gazelle \(zootopia\):1.25), horn, holding object, purple eyes, eyelashes, tuft, slim, chest tuft, multicolored body
+(gazelle:1.25), horn, lighting, multicolored body, white body
+(gemsbok:1.25), white body, markings, thigh gap, slim, multicolored body, white fur
+(goat demon:1.25), red eyes, horn, tuft, hair, white body, white fur
+(goat:1.25), horn, chest tuft, tuft, white body, white fur
+(grant's gazelle:1.25), horn, white body
+(grazing antelope:1.25), horn, pecs, white body, white fur, body hair
+(ibex:1.25), horn, tuft, chest tuft, detailed, white fur, white body, brown eyes, multicolored fur, multicolored body, black nose, inner ear fluff, biped, brown body, brown fur
+(krampus:1.25), horn, black body, yellow eyes, black hair, black fur, pecs, hair, facial hair, island, biceps
+(kudu:1.25), horn, tuft, white body, white fur, chest tuft, detailed, black nose, detailed fur, brown eyes, multicolored fur, antlers, brown fur, multicolored body, brown body, yellow eyes
+(leggy lamb:1.25), hair, brown eyes, blonde hair
+(llama:1.25), chest tuft, tuft, blonde hair, pink nose, chest hair, white body, hair, white fur
+(oryx:1.25), horn, black body, pecs, black hair
+(pronk oryx-antlerson:1.25), antlers, horn, multicolored fur, multicolored body, brown fur, brown body, white fur, white body, tan fur, brown eyes, tan body, holding object, black nose, tuft, two tone fur, biped, two tone body, markings, gloves \(marking\), pose
+(rocky mountain goat:1.25), horn, brown eyes, white body, white fur
+(saanen goat:1.25), horn, chest tuft, tuft, white body, white fur, brown eyes, featureless chest, slim, eyelashes
+(sable antelope:1.25), horn, black body, hair
+(satyr:1.25), horn, hair, brown hair, brown body, brown fur, body hair, facial hair, pecs
+(sheep mom:1.25), wool \(fur\), black areola, horn, horizontal pupils
+(sheep:1.25), wool \(fur\), nipple tuft, white body, white fur, horn, brown eyes
+(suffolk sheep:1.25), wool \(fur\), horn, white body, white fur
+(thomsons gazelle:1.25), horn, blue eyes, white body
+(toriel:1.25), horn, long ears, white body, white fur, mature anthro, mature female, purple eyes, floppy ears, curvy figure
+(true antelope:1.25), horn, multicolored body, white body, multicolored fur, tuft, white fur, biped, chest tuft, featureless chest
+(wild sheep:1.25), horn, yellow eyes, neck tuft, tuft
+(wooloo:1.25), brown areola, wool \(fur\), brown nipples, dark skin, dark body, horn, brown body, black areola, wrist tuft, horizontal pupils, pupils, brown skin, brown fur, black skin, neck tuft

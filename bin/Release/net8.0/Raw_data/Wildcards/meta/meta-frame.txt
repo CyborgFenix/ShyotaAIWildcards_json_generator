@@ -1,0 +1,25 @@
+2 panel comic
+3 panel comic
+4 panel comic
+comic book
+comic panel
+eight frame image
+fan comic
+five frame image
+five frame sequence
+four frame grid
+four frame image
+four frame sequence
+four frame staggered grid
+multi frame sequence
+nine frame image
+photo frame
+picture frame
+seven frame image
+six frame grid
+six frame image
+six frame sequence
+six frame staggered grid
+ten frame image
+three frame image
+three frame sequence

@@ -1,0 +1,64 @@
+alligator
+anaconda
+anjanath
+argonian
+armadillo
+ball python
+bearded dragon
+blue anole
+boa \(snake\)
+chameleon
+cobra
+collared lizard
+common collared lizard
+crocodile skink
+crocodile
+crocodilian
+desert iguana
+eel
+elapid \(snake\)
+fire salamander \(salamander\)
+flap-necked chameleon
+flat-tailed gecko
+frilled lizard
+furred snake
+gecko
+gila monster
+gus the gator
+iguanid
+jar jar binks
+komodo dragon
+kraid
+kremling
+kroxigor
+krunch the kremling
+lizalfos
+lizardfolk
+lizardman \(overlord\)
+lizardman
+loch ness monster
+mamba
+master oogway
+milk snake
+mole salamander
+monitor lizard
+moray eel
+mr. snake \(the bad guys\)
+naga
+newt
+nile crocodile
+pangolin
+pit viper
+python \(genus\)
+python
+rattlesnake
+salamander \(amphibian\)
+saltwater crocodile
+sangheili
+scalie
+sharpclaw \(star fox\)
+skink
+snake
+spike \(extreme dinosaurs\)
+vector the crocodile
+viper

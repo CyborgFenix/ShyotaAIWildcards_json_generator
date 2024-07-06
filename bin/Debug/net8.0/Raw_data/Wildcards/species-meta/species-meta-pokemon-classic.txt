@@ -1,0 +1,1083 @@
+(Bulbasaur:1.25), red eyes, green body, fangs, claws, quadruped, toony, white claws
+(Ivysaur:1.25), red eyes, quadruped, fangs, claws, white claws, green body, blue body, 3 toes, toe claws, toes, feet, toony
+(Venusaur:1.25), venusaur, red eyes, claws, flower \(anatomy\), fangs, white claws, quadruped, toe claws, teeth, toes, feet, multicolored body, 3 toes
+(Charmander:1.25), blue eyes, fire, flaming tail, orange body, fangs, claws, orange skin, teeth, semi-anthro, feet, 3 toes, toes, happy, white claws, toe claws
+(Charmeleon:1.25), fire, claws, flaming tail, orange skin, blue eyes, white claws, orange body, countershade torso, 3 toes, toe claws, feet, toes, red body, grey eyes
+(Charizard:1.25), wings, membrane \(anatomy\), membranous wings, fire, orange body, white claws, claws, flaming tail, blue wings, countershade torso, orange wings, tan countershading, orange skin, toe claws, multicolored body, fangs, 3 toes, two tone wings, toes, feet, spread wings, long neck, two tone body, green wings, tan scales, orange tail, orange scales, orange horn, blue body, scales, countershade tail, tan body, toony, horn, frown, shadow, long tail
+(Squirtle:1.25), turtle shell, shell, blue body, wartortle, blue skin, semi-anthro
+(Wartortle:1.25), wartortle, shell, head wings, blue body, shell-less, blue skin, fangs, claws, brown eyes, turtle shell, wings, semi-anthro
+(Blastoise:1.25), shell, overweight ambiguous, blue body, wartortle, claws, white claws, toony, cannon, blue skin, feet, brown eyes, looking back, tan body, toes, toe claws, multicolored body, overweight, overweight feral, turtle shell, exoskeleton, tan countershading, 3 toes, biped
+(Caterpie:1.25), toony, larva, exoskeleton, featureless feet, antennae \(anatomy\), compound eyes, black eyes, multi leg, multi limb, green body, alternate species, multicolored body, featureless hands, tan countershading, two tone body, tan body
+(Metapod:1.25), green body, scales, shell, green scales
+(Butterfree:1.25), antennae \(anatomy\), toony, red eyes, insect wings, wings, fangs, multi limb, flying, suspended in midair, compound eyes, stinger
+(Weedle:1.25), larva, black eyes, toony, exoskeleton, brown body
+(Kakuna:1.25), toony, exoskeleton, black eyes, featureless feet, white eyes, multicolored body, multi leg, beady eyes, multi limb, alternate species, larva
+(Beedrill:1.25), stinger, insect wings, toony, antennae \(anatomy\), wings, red eyes, on model, multi limb, exoskeleton, multicolored body, featureless feet, flying, alternate species, suspended in midair
+(Pidgey:1.25), beak, feathers, pidgeot, tail feathers, talons, anisodactyl, toes, open beak, brown feathers, brown body, pink tongue, feet, claws, black eyes, cere \(anatomy\), wings, toe claws, feathered wings, multicolored feathers, white feathers, multicolored body, yellow beak, 3 toes, translated description
+(Pidgeotto:1.25), pidgeot, wings, feathers, talons, beak, suspended in midair, tail feathers, feathered wings, toony, spread wings, claws, flying, multicolored feathers, black eyes, two tone wings, toe claws, anisodactyl, feet, toes, brown feathers, white claws, multicolored body, winged arms, eye markings, red feathers, brown body, 3 toes, biped, brown wings, frown, tan feathers, red body, looking away, tan body, yellow feathers, head crest, feather tuft, white feathers, yellow body, feathered crest, cere \(anatomy\), multicolored wings, yellow wings
+(Pidgeot:1.25), pidgeot, feathers, beak, wings, feathered wings, tail feathers, multicolored feathers, brown feathers, orange feathers, flying, suspended in midair, feathered crest, feet, talons, multicolored body, tan feathers, toes, white feathers, eye markings, black eyes, frown, brown body, yellow beak, toony, looking away, tan body, spread wings, orange body, head crest, feather tuft, winged arms, yellow feathers, red feathers, two tone wings, 3 toes, biped
+(Rattata:1.25), purple body, red eyes, toony, white claws, fangs, claws, quadruped, 3 toes, toes, feet, multicolored body, toe claws, teeth, countershade torso, tan body, purple fur, open frown, two tone body, whiskers, pink tongue
+(Raticate:1.25), teeth, buckteeth, brown body, whiskers, toony, black eyes, brown fur, tan body, feet, toes, claws, 3 toes, multicolored body
+(Spearow:1.25), toes, feet, black eyes, feathers, brown body, claws, 3 toes, open frown, beak, talons, fangs, teeth, toe claws, pink tongue, tail feathers, multicolored body, countershade torso, brown feathers, multicolored feathers, toony, red body
+(Fearow:1.25), wings, feathers, beak, feathered wings, toony, toes, feet, talons, tail feathers, brown feathers, suspended in midair, multicolored body, spread wings, brown body, flying, orange feathers, multicolored feathers, toe claws, claws, 3 toes, open beak, brown wings, anisodactyl, white feathers, biped, head crest, orange body, black eyes, 4 toes, winged arms, pidgeot, looking away, countershade torso, white claws, feather tuft, two tone wings, frown, tan feathers, red body, yellow beak, eye markings, pink tongue
+(Ekans:1.25), rattle \(anatomy\), yellow eyes, serpentine, purple body
+(Arbok:1.25), snake hood, serpentine, forked tongue, toony, fangs, black eyes, teeth, sharp teeth, purple body, legless, grey scales, scales, black body
+(Pikachu:1.25), yellow body, black eyes, 3 toes, multicolored ears, yellow fur, toony, feet, toes, dipstick ears, happy, markings, semi-anthro
+(Raichu:1.25), toony, feet, 3 toes, toes, yellow body, alolan raichu, tan body, multicolored body, markings, :3, black eyes, brown body, on model
+(Sandshrew:1.25), toony, claws, exoskeleton, blue eyes, multi limb, white claws, multicolored body, toe claws, feet, 3 toes, countershade torso, toes, tan countershading, overweight ambiguous, two tone body, black eyes, biped, tan body
+(Sandslash:1.25), black eyes, white eyes, toony, claws, exoskeleton, toe claws, black sclera, on model, multicolored body, brown body, tan body, 3 toes, feet, toes, beady eyes, multi limb, 2 fingers, yellow body, white claws, alternate species, countershade torso, multi leg, horn, tan countershading, 2 toes, looking away
+(Nidoran-F:1.25), red eyes, blue body, fangs, blue skin, white claws, claws, teeth, toony
+(Nidorina:1.25), red eyes, blue body, claws, white claws, spikes, fangs, toony, quadruped, toe claws, 3 toes, blue skin, feet, toes, multicolored body
+(Nidoqueen:1.25), claws, blue body, white claws, 3 toes, tan countershading, toony, toe claws, feet, toes, countershade torso, blue skin, biped, semi-anthro, brown eyes, multicolored body, blue tail, spikes, pink tongue
+(Nidoran-M:1.25), red eyes, purple body, claws, fangs, quadruped, white claws, horn
+(Nidorino:1.25), claws, horn, white claws, spikes, fangs, purple body, toe claws, quadruped, brown eyes, toony, spots, spikes \(anatomy\), frown
+(Nidoking:1.25), toony, claws, white claws, purple body, on model, teeth, fangs, sharp teeth, toe claws, exoskeleton, spikes, black eyes, multicolored body, multi limb, feet, countershade torso, toes, 3 toes, biped, two tone body, purple skin, open frown, horn
+(Clefairy:1.25), pink body, claws, blue eyes, pink skin, semi-anthro, cute fangs, toony
+(Clefable:1.25), 3 toes, gesture, claws, toony, 2 toes, toes, feet, semi-anthro, overweight ambiguous, spread arms, pink skin, raised arm
+(Vulpix:1.25), multi tail, brown eyes, quadruped, black nose, orange body, brown body, markings, orange fur, 3 tails, brown fur, tan body, toes, 3 toes, tuft, feet
+(Ninetales:1.25), multi tail, red eyes, yellow body, quadruped, 9 tails, yellow fur, tan body
+(Jigglypuff:1.25), pink body, blue eyes, pink skin, pink fur
+(Wigglytuff:1.25), blue eyes, pink body, happy
+(Zubat:1.25), wings, blue wings, membrane \(anatomy\), two tone wings, spread wings, fangs, blue body, membranous wings, toony, suspended in midair, black eyes, flying, winged arms, spread arms, teeth
+(Golbat:1.25), suspended in midair, fangs, membrane \(anatomy\), wings, membranous wings, toony, blue wings, flying, two tone wings, blue body, spread wings, teeth, purple body, multicolored body, claws, black eyes, sharp teeth, feet
+(Oddish:1.25), toony, red eyes, green body
+(Gloom:1.25), bodily fluids, saliva, eyes closed, drooling, blue body, toony
+(Vileplume:1.25), fungus, red eyes, mushroom, toony, featureless feet, multicolored body, blue body
+(Paras:1.25), fungus, mushroom, toony, larva, black eyes, exoskeleton, featureless feet, multicolored body
+(Parasect:1.25), fungus, exoskeleton, multi leg, mushroom, featureless feet, 4 legs, multi limb, toony, larva, alternate species, antennae \(anatomy\), compound eyes, multicolored body, mandibles, beady eyes, brown body, featureless hands
+(Venonat:1.25), fangs, toony, antennae \(anatomy\), purple body
+(Venomoth:1.25), black eyes, toony, multi limb, insect wings, wings, suspended in midair, flying, antennae \(anatomy\), larva, multi leg, circle, featureless feet, multi wing, compound eyes, lepidopteran wings, purple body, two tone wings, multicolored antennae, multicolored body, dipstick antennae, white wings
+(Diglett:1.25), rock, black eyes
+(Dugtrio:1.25), rock, group, brown body, black eyes, evolutionary family
+(Meowth:1.25), toony, slit pupils, pupils, fangs, raised arm, tan body, 3 toes, toes, feet, curled tail, multicolored body, pink tongue, cute fangs, paws, countershade torso
+(Persian:1.25), whiskers, claws, fangs, paws, quadruped, red eyes, feet
+(Psyduck:1.25), toony, wide eyed, black eyes, beak, multicolored body, exoskeleton, shell, raised arm, biped, feet, tan body, 2 toes
+(Golduck:1.25), claws, white claws, blue body, toe claws, 3 toes, feet, toes, red eyes, pink tongue, blue skin
+(Mankey:1.25), toony, frown, action pose, brown body, toes, feet, tan body, multicolored body, fist, orange eyes, 3 toes, tuft, fighting pose, markings, brown fur, attack, quadruped, red eyes, raised arm, pink nose
+(Primeape:1.25), brown body, cuff \(restraint\), feet, brown fur, shackles, toes, bound, restraints
+(Growlithe:1.25), orange body, tan body, orange fur, tan fur, stripes, quadruped, toes, feet, brown body, striped body, toony, black nose, claws, tuft, black stripes
+(Arcanine:1.25), quadruped, leg tuft, fangs, tan body, toes, feet, tan fur, fluffy, orange body, tuft, multicolored body, facial tuft, orange fur, cheek tuft, multicolored fur, black nose, 3 toes, neck tuft, brown body, fluffy tail, paws, tan tail, brown fur
+(Poliwag:1.25), blue body, popplio, black eyes, looking up, blue skin, markings
+(Poliwhirl:1.25), blue body, toony, black eyes, raised arm, blue skin, shell, fist, multicolored skin, markings, looking up, featureless feet
+(Poliwrath:1.25), fist, toony, blue body, blue skin
+(Abra:1.25), eyes closed, yellow body, feet, toes, exoskeleton
+(Kadabra:1.25), spoon, kitchen utensils, cutlery, toony, claws, tools, white claws, yellow body, toe claws, toes, raised arm, feet, frown, 3 toes, on model, multicolored body, biped, tan countershading, countershade torso, exoskeleton, pose, snout, holding object, two tone body, tan body, yellow skin, spikes, shadow
+(Alakazam:1.25), spoon, cutlery, kitchen utensils, tools, claws, on model, feet, holding object, toes, toony, 3 toes, yellow body, toe claws, biped, 2 toes, frown, action pose
+(Machop:1.25), red eyes, toony, blue body, fist
+(Machoke:1.25), belt, red eyes, feet, fist, biceps, pecs, toes, teeth, fangs, barefoot, biped, big muscles, 3 toes, belt buckle, blue body, grey skin, claws, plantigrade, pose, bottomwear, grey body
+(Machamp:1.25), belt, feet, biceps, blue body, flexing, toes, pecs, pose, blue skin, barefoot, biped, red eyes, multi limb, fighting pose, fist, raised arm, 3 toes, multi arm
+(Bellsprout:1.25), toony, black eyes, biped, beak, multicolored body, beady eyes, suspended in midair, featureless feet, green body, yellow body, feet, curious, feathers
+(Weepinbell:1.25), green body, black eyes, larva, reaction image
+(Victreebel:1.25), fangs, green spots, green body, toony, pink tongue, teeth
+(Tentacool:1.25), toony, blue body, blue skin, frown, fangs, black eyes
+(Tentacruel:1.25), tentacles, toony, blue body, suspended in midair, on model, blue tentacles, blue skin, black eyes, multicolored body, blue tail
+(Geodude:1.25), fist, brown eyes, rock creature, grey body, flexing, toony, raised arm
+(Graveler:1.25), multi limb, toony, sweat, rock creature, feet, toes, overweight ambiguous, grey body, multi arm, multicolored body, on model
+(Golem:1.25), claws, white claws, toe claws, toony, red eyes, fangs, feet, toes, rock, pink tongue, 3 toes, spikes, countershade torso, multicolored body, roaring, teeth, grey body, biped
+(Ponyta:1.25), flaming hair, flaming mane, pseudo mane, fire, pseudo hair, quadruped, flaming tail, brown eyes, fusion
+(Rapidash:1.25), pseudo mane, flaming mane, flaming hair, fire, on hind legs, pseudo hair, quadruped, red eyes, horn
+(Slowpoke:1.25), toony, fangs, pink body, on front, pink skin, black eyes, 3 toes, feet
+(Slowbro:1.25), toony, white claws, fangs, claws, on model, multicolored body, toe claws, feet, toes, black eyes, teeth, size difference, countershade torso, pink tongue, 3 toes, tan countershading, two tone body, biped, looking away, spikes, looking aside, sharp teeth, evolutionary family, pink body, snout, blue body, level difference, countershade face, shell, looking up, looking at another
+(Magnemite:1.25), toony, not furry, 1 eye, machine, armless, cannon, blue body, unusual pupils, black eyes
+(Magneton:1.25), toony, suspended in midair, blue body, multicolored body, armless, on model, machine, black eyes, unusual pupils, featureless feet, floating, grey body
+(Farfetchd:1.25), vegetable, feather tuft, yellow beak, beak, webbed feet, food, holding food, feathers, eye markings, white feathers, holding object, grey body, feet, brown eyes, biped, toes, white body, looking aside, multicolored body, head tuft, lighting, unibrow, 3 toes, shadow, looking away, head crest, black markings, eyebrows, tuft, wings
+(Doduo:1.25), toony, suspended in midair, black eyes, brown body, wings, beak, multicolored body, feathers, dewlap \(anatomy\), tail feathers, winged arms, flying, level difference, toes, feet, biped, talons, multi head, tan body, fusion, 3 toes, evolutionary family
+(Dodrio:1.25), 3 heads, multi head, beak, tail feathers, feathers, talons, claws, toes, wings, feet, anisodactyl, toe claws, black eyes, toony, 3 toes, pink tongue, brown body, feather tuft, multicolored body, multicolored feathers, biped, frown, open beak, white claws, narrowed eyes, head crest
+(Seel:1.25), blep, green eyes, white body, pink tongue, horn, on front, fangs
+(Dewgong:1.25), fangs, fin, horn, brown eyes, white body, black eyes, shell
+(Grimer:1.25), toony, purple body, purple skin
+(Muk:1.25), purple body, slime, purple skin
+(Shellder:1.25), toony, eyes closed, derp eyes, purple body, black eyes, horn
+(Cloyster:1.25), toony, grin, purple body, black eyes, on model, featureless feet, suspended in midair, shell, evil grin, featureless hands, purple skin, teeth
+(Gastly:1.25), teeth, fangs, black eyes, toony
+(Haunter:1.25), claws, toony, purple body
+(Gengar:1.25), grin, red eyes, toony, purple body, evil grin, red sclera, semi-anthro, teeth
+(Onix:1.25), rock creature, toony, rock, serpentine, black eyes
+(Drowzee:1.25), yellow body, yellow skin, raised arm, overweight ambiguous, feet, semi-anthro, toes, pink tongue, toony, 3 toes
+(Hypno:1.25), pendulum, yellow body, hypnosis, yellow fur, feet, holding object, toes, mind control, raised arm, neck tuft
+(Krabby:1.25), toony, exoskeleton, 4 legs, bone, multi limb, orange body, multi leg, multicolored body, on model, black eyes, 2 toes, looking up, feet, claws, biped
+(Kingler:1.25), toony, multicolored body, orange body, exoskeleton, feet, toes, bone, tan body, biped, on model, black eyes, pupils, suspended in midair, 3 toes, open frown, 2 toes, two tone body, eye markings, countershade torso, white body, grey body, slit pupils, brown body
+(Gholdengo:1.25), toony, yellow body, yellow eyes, belt
+(Wo Chien:1.25), quadruped, orange eyes, green body
+(Chien Pao:1.25), ice, white body, blue tongue, claws, markings, quadruped, blue eyes
+(Ting Lu:1.25), toony, multicolored body, biped, quadruped, countershade torso, red eyes, brown body, frown, wings, markings, red body, two tone body, black eyes, tan body, looking away, long neck, shadow
+(Chi Yu:1.25), markings, black eyes
+(Roaring Moon:1.25), wings, flying, red body, teeth, blue body, salamence, claws, spread wings, suspended in midair, red wings, membrane \(anatomy\), yellow eyes, sharp teeth, red skin, fangs, red eyes, blue skin
+(Iron Valiant:1.25), weapon, melee weapon, machine, red eyes, green body, sword, antennae \(anatomy\), mouthless
+(Koraidon:1.25), koraidon, tire, red body, claws, fusion, yellow eyes
+(Miraidon:1.25), toony, suspended in midair, machine, electricity, purple body, multicolored body, claws, flying, glowing, on model, yellow body, toes, feet, black eyes, fusion, long tail, countershade torso, 3 toes, black sclera, exoskeleton, yellow stripes, yellow eyes, markings, yellow horn
+(Voltorb:1.25), pink skin, pink body
+(Electrode:1.25), icon
+(Exeggcute:1.25), frown
+(Exeggutor:1.25), toony, feet, fangs, narrowed eyes, toes, 3 toes, half-closed eyes, claws, toe claws, 2 toes, black eyes, green body
+(Cubone:1.25), cubone, bone, skull, skull mask, black eyes, toony, tan body, tan countershading, skeleton, holding object, multicolored body, brown body, countershade torso, shadow, white pupils, looking away
+(Marowak:1.25), cubone, bone, skull mask, skull, toony, brown eyes, countershade torso, frown, brown body, tan body
+(Hitmonlee:1.25), toony, toes, feet, black eyes, 2 toes, multi tone body, 3 toes, biped, brown body, grey body, claws, multicolored body, frown, spread arms, black sclera, raised arm, countershade torso, looking away, suspended in midair, toe claws
+(Hitmonchan:1.25), boxing gloves, blue eyes, frown, fighting pose, bottomwear, handwear, skirt, fist, toony, raised arm, biped, sport
+(Lickitung:1.25), pink body, toony, black eyes, pink skin, pink tongue
+(Koffing:1.25), suspended in midair, skull and crossbones, fangs, featureless feet, toony, artsy-theo
+(Weezing:1.25), skull and crossbones, toony, level difference, fangs, suspended in midair, evolutionary family, frown, multi head, purple body, artsy-theo, teeth, black eyes, looking away, multicolored body, 2 heads, featureless feet, open frown
+(Rhyhorn:1.25), claws, toony, red eyes, toe claws, white claws, grey body, spikes, multicolored body, quadruped, fangs, grey countershading
+(Rhydon:1.25), white claws, claws, horn, toe claws, toony, fangs, red eyes, raised arm, 3 toes, spikes, feet, toes, biped, pink tongue, multicolored body, countershade torso, overweight ambiguous, teeth
+(Chansey:1.25), pink body
+(Tangela:1.25), tentacles, toony, small pupils, wide eyed, blue body, multi limb, looking up, shell, blue tentacles, featureless feet
+(Kangaskhan:1.25), claws, white claws, size difference, red eyes, on model, looking up, toe claws, 3 toes, fangs, toony, tan countershading, feet, toes, blue body, overweight ambiguous, raised arm, countershade torso, quadruped, pouch \(anatomy\), open frown, biped, evolutionary family, tan body, baby, black eyes, pink tongue, multicolored body, level difference, semi-anthro
+(Horsea:1.25), blue body, red eyes, shell, blue skin, toony, scales
+(Seadra:1.25), blue body, black eyes, toony, syngnathiform, syngnathid, wings, blue skin, long snout, blue wings, multicolored body, seahorse, tan body, curled tail, blue feathers, blue tail, blue scales, narrowed eyes, frown, half-closed eyes, shell, feathers, tan countershading
+(Goldeen:1.25), horn, blue eyes, lips, lipstick, fin
+(Seaking:1.25), spots, black spots, spotted body, black eyes, black markings, horn, multicolored body, fangs, toony, white body, markings, orange body, spotted fur, black countershading, grey spots, black body, grey horn, multicolored skin, quadruped, head markings, suspended in midair, facial markings, white wings, two tone body, white horn, multicolored wings, spotted markings, featureless feet, red body
+(Staryu:1.25), gem, red eyes, brown body
+(Starmie:1.25), gem, spikes
+(Mr-Mime:1.25), toony, blue body
+(Scyther:1.25), green body, toony, green wings, claws, wings, exoskeleton, weapon, fighting pose, on model, white claws, toe claws, melee weapon, toes, feet, biped, 3 toes, frown, black eyes, insect wings, suspended in midair, action pose, multicolored body
+(Jynx:1.25), blonde hair, derp eyes, hair, spread arms
+(Electabuzz:1.25), toony, fist, stripes, striped body, feet, toes, white claws, 3 toes, raised arm, yellow body, action pose, yellow stripes, black eyes, claws, fangs, black stripes, markings, multicolored body, biped, black markings, striped markings, striped tail, toe claws, striped fur, fighting pose, pose, orange body, multi limb, pink tongue, two tone tail, countershade torso, teeth
+(Magmar:1.25), fire, claws, flaming tail, orange body, feet, 3 toes, toes, toe claws, toony, spikes
+(Pinsir:1.25), toony, exoskeleton, on model, black eyes, spikes, raised arm, multicolored body, biped, spread arms, metallic body, frown, suspended in midair, feet, action pose, claws, 4 legs, artsy-theo, looking away, toes, shadow, 2 toes, white claws, attack, multi limb
+(Tauros:1.25), horn, 3 tails, quadruped, tail tuft, tuft, brown body, mane
+(Magikarp:1.25), toony, fin, barbel \(anatomy\), black eyes, flesh whiskers, multicolored body, exoskeleton, red body, wide eyed, small pupils, suspended in midair
+(Gyarados:1.25), fangs, barbel \(anatomy\), blue body, toony, teeth, flesh whiskers, fin, open frown, serpentine, suspended in midair, blue scales, blue skin, scales, pink tongue, multicolored body, red eyes, horn, sharp teeth, blue tail, roaring, yelling
+(Lapras:1.25), flippers, shell, blue body, blue skin, toony, blue tail, brown eyes, multicolored body, tan countershading, seashell, on model, countershade torso, two tone body
+(Ditto:1.25), slime, purple body
+(eevee:1.25), brown body, neck tuft, brown eyes, brown fur, fluffy tail
+(vaporeon:1.25), blue body, blue eyes, frill \(anatomy\), membranous frill, fin
+(jolteon:1.25), yellow body, yellow fur, neck tuft
+(flareon:1.25), blush, orange body, orange fur, fluffy tail
+(Porygon:1.25), artificial intelligence, black eyes, toony
+(Omanyte:1.25), toony, black eyes, blue body, multicolored body, multi leg, feathers, featureless feet, multi limb, tan body, wings, blue tail, two tone body
+(Omastar:1.25), tentacles, toony, multi leg, spikes, yellow eyes, black eyes, blue body, shell, on model, multicolored body, multi limb
+(Kabuto:1.25), multi leg, pink eyes, fungus, mushroom, featureless feet, brown body
+(Kabutops:1.25), exoskeleton, biped, brown body, wings, claws, toony, feet, 2 toes, toes, pose, black eyes
+(Aerodactyl:1.25), wings, green eyes, membrane \(anatomy\), teeth, membranous wings, sharp teeth, grey body, spade tail, toony, fangs, spread wings, horn, countershade torso, purple body, pink tongue, claws, grey tail
+(Snorlax:1.25), eyes closed, claws, overweight ambiguous, sleeping, overweight feral, feet, fangs, semi-anthro, toes, 3 toes, blue body, overweight
+(Articuno:1.25), articuno, feathers, beak, wings, feathered wings, blue body, blue feathers, tail feathers, talons, anisodactyl, cere \(anatomy\), toes, feet, blue wings, blue tail, open beak, spread wings, multicolored feathers, winged arms, white feathers, 3 toes, claws, toony, multicolored body, flying, biped, toe claws, grey beak, 4 toes, suspended in midair, pink tongue, brown eyes
+(Zapdos:1.25), beak, black eyes, wings, toony, feathers, toes, yellow body, claws, multicolored body, feet, suspended in midair, brown body, 3 toes, on model, talons, toe claws
+(Moltres:1.25), wings, fire, feathers, beak, toony, feathered wings, suspended in midair, tail feathers, orange feathers, orange body, multicolored body, frown, alternate species, talons, flying, feet, pseudo hair, toes, white feathers, black eyes, biped
+(Dratini:1.25), purple eyes, blue skin, fin, blue body, head frill, frill \(anatomy\)
+(Dragonair:1.25), head wings, serpentine, blue skin, horn, blue body, pink eyes, purple eyes, wings, feathered wings
+(Dragonite:1.25), wings, white claws, claws, membrane \(anatomy\), membranous wings, orange body, orange skin, toe claws, toony, 3 toes, toes, overweight ambiguous, feet, countershade torso, multicolored body, antennae \(anatomy\), orange wings, spikes, black eyes, tan scales, belly scales, biped, tan countershading, orange scales, scales, orange horn, green wings, orange tail, tan body
+(Mewtwo:1.25), 3 toes, feet, toes, purple eyes, purple body, biped, 2 toes, purple skin, countershade torso
+(Mew:1.25), blue eyes, pink body, 3 toes, feet, toes, semi-anthro, suspended in midair
+(Chikorita:1.25), chikorita, brown eyes, green body, red eyes
+(Bayleef:1.25), red eyes
+(Meganium:1.25), green body, yellow eyes, toony, claws, quadruped, antennae \(anatomy\), white claws, multicolored body, toe claws, toes, feet, on model, 3 toes
+(Cyndaquil:1.25), cyndaquil, fire, eyes closed, tan countershading, quadruped
+(Quilava:1.25), fire, red eyes
+(Typhlosion:1.25), fire, fangs, teeth, yellow body, pink tongue, multicolored body, tan body, feet, toes, sharp teeth, 3 toes
+(Totodile:1.25), fangs, teeth, blue body, red eyes, sharp teeth, feet, 3 toes, toes, semi-anthro, blue skin, toony, pink tongue, eyes closed, multicolored body, raised arm
+(Croconaw:1.25), blue body, feet, blue skin, 3 toes, toes, fangs, red eyes
+(Feraligatr:1.25), claws, teeth, sharp teeth, blue body, white claws, fangs, blue skin
+(Sentret:1.25), brown body, toony, brown fur, black eyes, frown, markings
+(Furret:1.25), brown body, markings, brown fur, 3 toes, multicolored body, daww, stripes, feet, tail markings, toes, facial markings, head markings, green eyes, tan body, multicolored fur, two tone body, brown tail, two tone tail, quadruped, two tone fur
+(Hoothoot:1.25), toony, beak, wings, antennae \(anatomy\), red eyes, feet, multicolored body, talons, toes, black eyes, feathers, claws
+(Noctowl:1.25), brown wings, brown feathers, feathers, beak, wings, multicolored feathers, feathered wings, eye markings, winged arms, frown, tan feathers, brown body, feather tuft, white feathers, talons, tail feathers, grey beak, folded wings, toony, red eyes, facial markings, head markings, toes, feet, multicolored body, mask \(marking\), biped, grey feathers, stare, yellow beak, 3 toes, markings, two tone wings, claws, black markings, black feathers, brown tail, white claws, cere \(anatomy\), multicolored wings, orange feathers, toe claws, anisodactyl, white markings, grey wings, green feathers, orange markings
+(Ledyba:1.25), toony, featureless feet, black eyes, exoskeleton, featureless hands, multicolored body, multi limb, looking up, orange body, larva, big eyes, countershade torso, antennae \(anatomy\), tan body, tan countershading, shell, countershade face, biped, two tone body, on model
+(Ledian:1.25), antennae \(anatomy\), insect wings, blue eyes, multi limb, wings, toony, flying, exoskeleton, compound eyes, 4 arms
+(Spinarak:1.25), multi leg, toony, exoskeleton, multi limb, larva, featureless feet, alternate species, multicolored body, green body, compound eyes, on model, black eyes, stinger, 4 legs, antennae \(anatomy\), spikes
+(Ariados:1.25), exoskeleton, multi leg, multi limb, antennae \(anatomy\), toony, black eyes, featureless feet, on model, compound eyes, alternate species
+(Crobat:1.25), wings, suspended in midair, membrane \(anatomy\), toony, flying, blue wings, two tone wings, membranous wings, spread wings, multicolored wings, winged arms, frown, green wings, yellow sclera, red eyes, multicolored body, teeth, blue body, purple body, purple wings, black wings, biped, feet, pupils, toes, bat wings, white wings, countershade torso
+(Chinchou:1.25), :o, black eyes, on model, blue body, suspended in midair, toony, floating, bubble, flying
+(Lanturn:1.25), red eyes, blue body, toony, blue skin, multicolored body
+(Pichu:1.25), yellow body, toony, yellow fur, black eyes, feet, 3 toes, toes
+(Pichu:1.25), yellow body, yellow fur, semi-anthro, toony, multicolored body, black eyes, toes
+(Cleffa:1.25), blush, brown eyes, brown body, blush stickers
+(Igglybuff:1.25), red eyes, pink body, daww, happy, markings, forehead markings
+(Togepi:1.25), toony, multicolored body, markings, brown eyes, two tone body, yellow body
+(Togetic:1.25), on model, toony, white body, black eyes, happy, markings
+(Natu:1.25), black eyes, beak, featureless feet, red feathers, red body, toony, larva, green body, feathers, multicolored body
+(Xatu:1.25), beak, black eyes, pupils, toony, green body, red feathers, white feathers, biped, red body, feathers, multicolored body, red eyes, feet, toes, multicolored feathers
+(Mareep:1.25), toony, blue body, black eyes, wool \(fur\), quadruped, yellow stripes, multicolored body, yellow body, markings, tan body, tan countershading
+(Flaaffy:1.25), wool \(fur\), blue eyes, horn
+(Ampharos:1.25), yellow skin, yellow body, black eyes
+(Bellossom:1.25), head flower, blush, hands together, flower in hair, blue eyes, green body, happy, flower on head
+(Marill:1.25), blue body, toony
+(Azumarill:1.25), toony, blue body, featureless hands, happy, black eyes
+(Sudowoodo:1.25), toony, brown body
+(Politoed:1.25), feet, green body, toes, semi-anthro, green skin, black eyes, 3 toes, antennae \(anatomy\), toony, raised arm, brown eyes
+(Hoppip:1.25), yellow eyes, toony, pink body, happy, suspended in midair, multicolored body, featureless feet
+(Skiploom:1.25), green body, red eyes, toony, multi leg
+(Jumpluff:1.25), fruit, red eyes, food, toony, looking up, multicolored body, chikorita
+(Aipom:1.25), toony, purple body, blue eyes, featureless hands, feet, grin, toes, multicolored body, tan body, teeth, tan countershading, 3 toes, alternate species
+(Sunkern:1.25), toony, yellow body, black eyes, featureless feet
+(Sunflora:1.25), eyes closed, happy, toony, sunflower, quadruped, feet, yellow body, toes
+(Yanma:1.25), flying, black eyes, toony, suspended in midair, multi leg, insect wings, wings, multi wing
+(Wooper:1.25), toony, blue body, black eyes, beady eyes, on model, blue skin, multicolored body, blue tail
+(Quagsire:1.25), blue body, blue skin
+(espeon:1.25), purple eyes, forked tail, purple fur, purple body, unusual tail, gem, collarbone, pink areola, forehead gem
+(umbreon:1.25), black body, black fur, red eyes, yellow markings, red sclera
+(Murkrow:1.25), beak, red eyes, blue body, feathers, yellow beak, toes, feet, tail feathers, multicolored body, 3 toes, toony, wings, biped, black body
+(Slowking:1.25), horn, hands together, fangs, toony, red eyes
+(Misdreavus:1.25), yellow sclera, necklace, red eyes, jewelry, red sclera
+(Unown:1.25), blue eyes, toony
+(Wobbuffet:1.25), eyes closed, blue body, toony
+(Girafarig:1.25), toony, ossicone, living tail, black eyes, unusual tail, black body, tail mouth, multicolored body, quadruped, black tail, yellow body, unusual anatomy, shadow, looking up, teeth, yellow skin
+(Pineco:1.25), red eyes, exoskeleton, featureless feet, toony, multi leg, multi limb, blue body, green body, red sclera
+(Forretress:1.25), red body, toony, spikes, black eyes, horn
+(Dunsparce:1.25), toony, featureless feet, yellow body, multicolored body, armless, shell, tan body, stripes, suspended in midair, yellow skin, markings, two tone body
+(Gligar:1.25), claws, fangs, toony, wings, purple body, membrane \(anatomy\), 3 toes, toe claws, feet, teeth, membranous wings, pink tongue, purple skin, toes
+(Steelix:1.25), toony, multicolored body, on model, black eyes, looking away, frown, grey body, countershade torso, red eyes, biped, rock, eye markings, suspended in midair, looking aside, feet, toes, lighting, teeth, two tone body, 3 toes, featureless feet, countershade face, markings, blue body, grey countershading, grey tail, beady eyes
+(Snubbull:1.25), 3 toes, feet, toes, fangs, toony, fusion, black eyes, multicolored body, pink body
+(Granbull:1.25), fangs, toony, purple body, feet, 3 toes, toes, black eyes, pointing, pink body, purple skin, multicolored body, frown, teeth, pink tongue, yelling, countershade torso
+(Qwilfish:1.25), toony, green body, black eyes, exoskeleton, spikes, multicolored body, frown, featureless feet, suspended in midair, alternate species, multi leg, on model, two tone body
+(Scizor:1.25), yellow eyes, red body, wings, insect wings, exoskeleton
+(Shuckle:1.25), toony, armless, multi leg, featureless feet, on model, exoskeleton, black eyes, alternate species, larva, multicolored body, multi limb, vertical bar eyes
+(Heracross:1.25), exoskeleton, blue body, antennae \(anatomy\), claws, toony, yellow eyes, black eyes, multi limb, feet, metallic body, toes, 2 toes, toe claws
+(Sneasel:1.25), claws, 3 toes, semi-anthro, feet, toes, red eyes
+(Teddiursa:1.25), black eyes, claws, toony, white claws, orange body, toe claws, multicolored body, tan countershading, fangs, brown body, feet, toes, 3 toes, countershade torso, alternate species, two tone body
+(Ursaring:1.25), ursaring, brown body, claws, white claws, brown fur, overweight ambiguous, frown, snout markings, toony, muzzle \(marking\), toe claws, tan body, feet, black eyes, toes, tan countershading
+(Slugma:1.25), toony, yellow eyes, red body
+(Magcargo:1.25), lava, toony, fire, rock, red body, yellow eyes
+(Swinub:1.25), eyes closed, sleeping, brown body, brown feathers, brown wings, pink skin, brown fur, toony, feathers
+(Piloswine:1.25), brown body, brown fur, toony
+(Corsola:1.25), on model, toony, pink body, black eyes, pink skin, multicolored body
+(Remoraid:1.25), toony, fin, black eyes, blue eyes, horn, suspended in midair, green body
+(Octillery:1.25), red body, toony, black eyes, red skin
+(Delibird:1.25), red body, beak, black eyes, feathers, yellow beak, multicolored body, white feathers, red feathers, wings, toony, white body, grey eyes, feet, biped, multicolored feathers, toes, grey feathers, eye markings, feathered wings
+(Mantine:1.25), black eyes, fin, tail fin, gills, beady eyes, toony, suspended in midair, on model, blue body
+(Skarmory:1.25), wings, toony, feathers, tail feathers, winged arms, yellow eyes, teeth, flying, multicolored body, feathered wings, beak, feet, toes, spread wings, red body, biped, blue body, sharp teeth, white feathers, claws, multicolored feathers, grey body, suspended in midair
+(Houndour:1.25), quadruped, fangs, grey body, toes, feet, multicolored body, grey tail, countershade torso, frown, 3 toes, black nose, black body, black eyes, grey fur, countershade face, looking away, black fur, two tone body, grey eyes, markings, paws, toony
+(Houndoom:1.25), spade tail, claws, fangs, white claws, red eyes, pink tongue, toe claws, quadruped, toes, feet, black body, grey body, teeth, multicolored body
+(Kingdra:1.25), blue body, syngnathiform, syngnathid, toony, seahorse, red eyes, scales, blue scales, multicolored body, pupils, shell, countershade torso, multicolored scales, horn, snout, slit pupils
+(Phanpy:1.25), blue body, toony
+(Donphan:1.25), toony, grey body, claws, black eyes, frown, blue body, multicolored body, overweight ambiguous, countershade torso, feet
+(Porygon2:1.25), black eyes
+(Stantler:1.25), brown body, horn, hooves, grey hooves, brown fur, antlers, frown, quadruped, tan body, grey eyes
+(Smeargle:1.25), toony, paint, feet, toes, 3 toes, tan body, brown body, markings, multicolored body
+(Tyrogue:1.25), frown, yellow eyes, feet, purple body, 2 toes, biped, toony, toes, multicolored body, 3 toes
+(Hitmontop:1.25), toony, on model, suspended in midair, multicolored body, black eyes, blue body, featureless feet, tan body, exoskeleton, artsy-theo, biped, two tone body, spikes, alternate species, brown body
+(Smoochum:1.25), blonde hair, hands on hips, looking away, blue eyes, larva, green eyes
+(Elekid:1.25), toony, yellow body, on model, black eyes, multicolored body, stripes, feet, toes, markings, suspended in midair, multi limb, black markings, 3 toes, multi leg, stinger, alternate species, smirk, smug, action pose, fangs, quadruped, claws, lighting, two tone body, yellow stripes, striped body, frown, toe claws
+(Magby:1.25), red body, claws, toony, black eyes, white claws, toe claws, 3 toes, toes, feet, multicolored body, pink body, spikes, beak, yellow body, tan countershading, red skin
+(Miltank:1.25), udders, blue eyes, teats, horn
+(Blissey:1.25), pink body, pink skin, featureless feet, toony
+(Raikou:1.25), multicolored body, toony, quadruped, fusion, red eyes, yellow body, toes, feet, white body, 3 toes, alternate species, countershade torso, two tone body, claws, markings
+(Entei:1.25), red eyes, quadruped, beak, toes, feet, fusion, multicolored body, brown body, feathers
+(Suicune:1.25), blue body, red eyes, blue fur, quadruped, frown, fusion, markings
+(Larvitar:1.25), red eyes, green body, frown, toony
+(Pupitar:1.25), toony, red eyes, blue body, multicolored body, looking up, black eyes, spikes, grey body, teeth, fangs, two tone body
+(Tyranitar:1.25), claws, white claws, green body, fangs, 3 toes, toe claws, toony, toes, on model, feet, open frown, teeth, roaring, black eyes, countershade torso, multicolored body, spikes, biped, green tail, pink tongue, overweight ambiguous
+(Lugia:1.25), open frown, blue body, blue countershading, toony, countershade torso, toes, feet, white body, multicolored body, blue skin, fangs, 3 toes
+(Ho-Oh:1.25), ho-oh, beak, feathers, wings, tail feathers, red feathers, orange feathers, open beak, feathered wings, flying, red eyes, multicolored feathers, talons, green feathers, feathered crest, head crest, yellow beak, eye markings, toony, spread wings, red body, suspended in midair, anisodactyl, toes, white feathers, feet, yellow feathers, multicolored body, red wings
+(Celebi:1.25), celebi, blue eyes, insect wings, antennae \(anatomy\), wings, green body, flying, blue sclera, green wings
+(Treecko:1.25), treecko, yellow eyes, green body, feet, 3 toes, toes, semi-anthro, toony, yellow sclera
+(Grovyle:1.25), green body, green tail, 3 toes, toony, feet, toes, pupils, black eyes, on one leg, raised arm, countershade torso, suspended in midair, multicolored body, wings, slit pupils, biped, green wings, raised leg, yellow eyes, winged arms, long tail, claws, no sclera, 2 fingers, pose
+(Sceptile:1.25), green body, yellow eyes, green claws, pupils, feet, toes, semi-anthro, 3 toes, green tail, slit pupils, claws, biped
+(Torchic:1.25), orange feathers, beak, black eyes, feathers, orange beak, orange body, yellow body, yellow beak, toony, wings, white feathers, yellow feathers, grey eyes
+(Combusken:1.25), claws, yellow body, toe claws, white claws, orange feathers, beak, feathers, talons, toes, feet, 3 toes, orange body, semi-anthro, red eyes, yellow feathers, biped, wings
+(Blaziken:1.25), yellow sclera, blue eyes, talons, claws, red body, feathers, biped, raised leg
+(Mudkip:1.25), blue body, black eyes, toony, blue skin, fin, quadruped
+(Marshtomp:1.25), blue body, happy, orange eyes, blue skin, toony
+(Swampert:1.25), blue body, toony, wings, feet
+(Poochyena:1.25), quadruped, grey body, fangs, grey fur, yellow sclera, teeth, red eyes, red sclera, feet, black fur, grey tail, toes, black body
+(Mightyena:1.25), red eyes, teeth, claws, grey body, grey fur, black fur, black body, quadruped, fangs, grey tail, fusion
+(Zigzagoon:1.25), toony, brown body, claws, mask \(marking\), tan body, linoone, black eyes, brown eyes, markings, tuft, feet, multicolored body, brown fur, toes, grey body, toe claws
+(Linoone:1.25), linoone, brown body, white body, blue eyes, multicolored body, claws, blue sclera, tuft, brown fur, toony, suspended in midair, tan body, white tail, grey body, two tone body, white fur, markings, feet, toes, neck tuft, facial tuft, two tone tail, countershade torso, cheek tuft, frown, toe claws
+(Wurmple:1.25), toony, on model, multi leg, spikes, red body, multicolored body
+(Silcoon:1.25), toony, red eyes, white body, multicolored body, pupils, black eyes, frown, white feathers, black pupils, beak, horn
+(Beautifly:1.25), toony, suspended in midair, insect wings, antennae \(anatomy\), blue eyes, wings, featureless feet, compound eyes, alternate species, black body, lepidopteran wings, black wings, flying, multi limb, featureless hands, multicolored antennae, multi leg, two tone wings, blue sclera, multicolored body
+(Cascoon:1.25), red eyes, toony, pupils, multicolored body
+(Dustox:1.25), insect wings, wings, black eyes, multi limb, antennae \(anatomy\), toony, alternate species, compound eyes, yellow eyes, exoskeleton, larva, green body, featureless feet
+(Lotad:1.25), black eyes, green body, shell, toony, beak, blue body
+(Lombre:1.25), green body, claws, semi-anthro, white claws, 3 toes, toony, toes, feet, headgear, green skin, black eyes, headwear
+(Ludicolo:1.25), green body, headwear, toony, headgear, featureless feet
+(Seedot:1.25), toony, headgear, featureless feet, headwear, black eyes, exoskeleton, alternate species, tan body, multicolored body, brown body, multi limb, tan countershading, yellow eyes, big eyes, shell
+(Nuzleaf:1.25), black eyes, raised arm, toony, fist, brown body, tan body, feet, toes, multicolored body, biped, 3 toes, countershade torso
+(Shiftry:1.25), brown body, unibrow, toony, beak, brown wings, brown feathers, yellow eyes, white body, white feathers, feathers, eye markings, biped, shield, multicolored body, brown tail, looking aside, tuft, frown, brown fur, looking away, lighting, vegetable, pupils, markings, feather tuft, shadow, tan body
+(Taillow:1.25), black eyes, beak, feathers, feet, multicolored body, toes, toony, white feathers, multicolored feathers, tail feathers, white body, countershade torso, grey eyes, claws, 3 toes, white countershading, wings
+(Swellow:1.25), tail feathers, beak, feathers, multicolored feathers, wings, multicolored body, toony, toes, black feathers, feet, black eyes, winged arms, talons, frown, black body, grey beak, biped, white feathers, feathered wings, countershade torso, black wings, grey feathers, cere \(anatomy\), 3 toes, eye markings, white body, two tone wings, red body, red feathers, black tail, grey body, feather tuft, anisodactyl, flat colors, suspended in midair, toe claws, head crest, claws, grey feet, two tone tail, blue body, yellow beak, two tone body, two tone feathers, multicolored wings, open beak, black markings, white countershading, looking away, grey tail, multi tone body, folded wings, countershade face, feathered crest, head markings, grey wings, blue tail, markings, facial markings
+(Wingull:1.25), white feathers, beak, feathers, winged arms, tail feathers, white body, multicolored feathers, orange feathers, toony, wings, suspended in midair, eyes closed, feathered wings, white wings
+(Pelipper:1.25), beak, toony, feathers, blue body, multicolored feathers, black eyes, tail feathers, white feathers, multicolored body, biped, open beak, white body, wings, winged arms, feathered wings, grey beak
+(Ralts:1.25)
+(Kirlia:1.25), red eyes, not furry, hair, mouthless, green hair, green body
+(Gardevoir:1.25), red eyes, green body, mouthless, green hair, green skin, hair, not furry
+(Surskit:1.25), black eyes, blush, blue body, toony, cheek spots, suspended in midair, blush stickers
+(Masquerain:1.25), toony, suspended in midair, black eyes, on model, wings, artsy-theo, white wings, multi leg, multicolored body, featureless feet, orange markings, two tone wings, insect wings, orange body, white body, flying
+(Shroomish:1.25), frown, green body, toony, larva
+(Breloom:1.25), black eyes, green body, semi-anthro, toony, frown
+(Slakoth:1.25), toony, brown body, muzzle \(marking\), grey hooves, narrowed eyes, snout markings, tan body, half-closed eyes, multicolored body, 3 toes, brown fur, toes, feet, claws, eye markings, mask \(marking\), two tone body
+(Vigoroth:1.25), toony, claws, fangs, toes, feet, open frown, 3 toes, toe claws, multicolored body, white body, black eyes, teeth, pink tongue, brown body, raised arm, white claws, two tone body, tuft, alternate species, biped, markings
+(Slaking:1.25), overweight, leaning on elbow, overweight male, overweight anthro, brown body, belly, narrowed eyes, half-closed eyes, tusks, ursaring, biped, feet, brown fur, overweight ambiguous
+(Nincada:1.25), toony, multi leg, exoskeleton, featureless feet, black eyes, alternate species, multicolored body, on model, multi limb, white body, suspended in midair, compound eyes, larva, two tone body, green body, antennae \(anatomy\)
+(Ninjask:1.25), toony, insect wings, multi leg, compound eyes, red eyes, multi limb, featureless feet, alternate species, wings, antennae \(anatomy\), on model, multicolored body, exoskeleton, black body, black eyes, flying, multi wing, shadow, suspended in midair
+(Shedinja:1.25), toony, exoskeleton, halo, featureless feet, on model, black eyes, antennae \(anatomy\), multi limb, alternate species, multicolored body, multi leg, larva
+(Whismur:1.25), saliva, beady eyes, drooling, purple body, featureless feet, bodily fluids
+(Loudred:1.25), toony, fist
+(Exploud:1.25), red eyes, 3 toes, feet, claws, toes, quadruped
+(Makuhita:1.25), feet, yellow body, toony, toes, 3 toes, multicolored body, one eye closed, eyes closed, semi-anthro, wink, two tone body, markings, tan countershading, raised arm, eye markings, biped
+(Hariyama:1.25), feet, toony, toes, 3 toes, 2 toes, frown, multicolored body, looking away, raised arm, black eyes, blue body, barefoot, tan body, biped, countershade torso, semi-anthro, tan countershading
+(Azurill:1.25), blue body, toony, blue eyes
+(Nosepass:1.25), rock creature, featureless feet, toony, artificial intelligence, eyes closed, ranged weapon, alternate species, blue body
+(Skitty:1.25), pink body, eyes closed, toony, featureless hands, multicolored body, featureless feet, tan body, two tone body, on model, quadruped, pink fur
+(Delcatty:1.25), black eyes, purple body, tan body, yellow body, toony, multicolored body, tuft, featureless hands, tan tail, two tone body, quadruped, tan fur, yellow fur, purple tail, grey eyes, tail tuft, purple fur
+(Sableye:1.25), gem, blue eyes, purple body, toony, crystal
+(Mawile:1.25), hair mouth, red eyes, black body, yellow body, sharp teeth, teeth
+(Aron:1.25), blue eyes, toony, featureless feet, on model, black eyes, multicolored body, alternate species
+(Lairon:1.25), toony, blue eyes, on model, claws, spikes, white claws, fangs, grey body, spots, toe claws, pink tongue, multicolored body, quadruped, spotted body
+(Aggron:1.25), claws, blue eyes, toony, white claws, biped, toe claws, horn, roaring
+(Meditite:1.25), blush stickers, blush, blue body, black eyes
+(Medicham:1.25), toony, black eyes, frown, raised arm, fusion, larva, suspended in midair, pink body
+(Electrike:1.25), green body, teeth, toony, fangs, black eyes, feet, toes, sharp teeth, 3 toes, quadruped, green tail, multicolored body, countershade torso, spikes
+(Manectric:1.25), red eyes, blue body, claws, frown, yellow body, feet, toes, quadruped, toe claws
+(Plusle:1.25), toony, yellow body, happy
+(Minun:1.25), blue body, featureless hands
+(Volbeat:1.25), antennae \(anatomy\), toony, frown, multi limb, yellow eyes, 4 legs
+(Illumise:1.25), blue eyes, antennae \(anatomy\), featureless feet, blue body, cosplay
+(Roselia:1.25), rose \(flower\), eyes closed, green body, holding flower
+(Gulpin:1.25), green body, sleeping, chikorita, eyes closed, larva
+(Swalot:1.25), purple body, purple skin, toony, red eyes, tentacles, unusual anatomy
+(Carvanha:1.25), red eyes, blue body, wings, toony, membrane \(anatomy\), teeth, fangs, membranous wings
+(Sharpedo:1.25), teeth, sharp teeth, fin, red eyes, blue body, dorsal fin, fangs, toony
+(Wailmer:1.25), blue body, fin, blue skin, black eyes, teeth
+(Wailord:1.25), blue body, fin, black eyes, beady eyes, grey body
+(Numel:1.25), grey eyes, toony, tan countershading, black eyes, yellow body, yellow skin, multicolored body, tan body, featureless feet, eye markings, countershade torso, green spots, looking away
+(Camerupt:1.25), toony, black eyes, quadruped, frown, multicolored body, snout markings, muzzle \(marking\), grey body, rock, looking away, tan body, snout, alternate species, markings, brown body, grey hooves, two tone body
+(Torkoal:1.25), on model, toony, orange body, claws, multicolored body, white claws, eyes closed, toe claws, red eyes, feet, toes, quadruped, tan body, suspended in midair, biped, artsy-theo, two tone body, black markings
+(Spoink:1.25), black eyes, grey body, beady eyes, toony, blush, blush stickers
+(Grumpig:1.25), toony, black eyes, grey body, feet, multicolored body, toes, 3 toes, purple body, biped, white claws, looking away, grey tail, two tone body, overweight, claws
+(Spinda:1.25), spiral eyes, markings, eye markings
+(Trapinch:1.25), unusual pupils, pumpkin, orange body, black eyes, fruit, featureless feet, beady eyes
+(Vibrava:1.25), multi leg, insect wings, green eyes, wings, toony, compound eyes, alternate species, green body, larva, antennae \(anatomy\)
+(Flygon:1.25), wings, flying, two tone wings, membrane \(anatomy\), toony, green wings, green body, membranous wings, red wings, claws, spread wings, multicolored body, red eyes, feet, toes, suspended in midair, fusion, on model, 3 toes
+(Cacnea:1.25), toony, exoskeleton, green body, black eyes, multicolored body, alternate species, spikes, multi limb, multi leg, on model
+(Cacturne:1.25), yellow eyes, green body, black sclera
+(Swablu:1.25), black eyes, toony, flying, feathers, suspended in midair, beak, blue body, beady eyes, wings, blue feathers, white feathers, multicolored body, white wings, feathered wings, white body
+(Altaria:1.25), beak, black eyes, feathers, toony, blue body, white feathers, white body, blue feathers, multicolored body, tail feathers, wings, feet, suspended in midair, blue tail, toes, feathered wings, white wings, multicolored feathers
+(Zangoose:1.25), claws, white body, white fur, markings, red markings, red body, red eyes, pupils, pink sclera
+(Seviper:1.25), forked tongue, long tongue, red eyes
+(Lunatone:1.25), red eyes, toony, featureless feet, black eyes, pink eyes, icon, pupils, multicolored body, larva, yellow body
+(Solrock:1.25), red eyes, featureless feet, toony, narrowed eyes, half-closed eyes, antennae \(anatomy\), multicolored body, yellow body, multi limb, larva, red sclera, tan body, multi leg, pupils
+(Barboach:1.25), blue body, black eyes, toony, blue skin, blue eyes
+(Whiscash:1.25), toony, blue body, wide eyed, black eyes, blue skin
+(Corphish:1.25), toony, exoskeleton, multi leg, on model, black eyes, multi limb, multicolored body, 4 legs
+(Crawdaunt:1.25), toony, exoskeleton, red body, multi leg, claws, on model
+(Baltoy:1.25), exoskeleton, toony, multi leg, multi limb, yellow eyes, antennae \(anatomy\), alternate species, featureless feet
+(Claydol:1.25), toony, featureless feet, multicolored body, on model, black body, eyes closed, exoskeleton, two tone body, vertical bar eyes
+(Lileep:1.25), toony, featureless feet, exoskeleton, multi limb, multicolored body, yellow eyes, multi leg, suspended in midair, two tone body, purple body, alternate species, antennae \(anatomy\), featureless hands, biped, 4 legs, shadow, markings, on model, black body, armless, 4 arms
+(Cradily:1.25), toony, green body, exoskeleton, featureless feet, yellow eyes, on model, suspended in midair, multi leg, alternate species, multicolored body, antennae \(anatomy\), multi limb, feet, 4 legs, armless, featureless hands, green tail, markings
+(Anorith:1.25), toony, compound eyes, red eyes, exoskeleton, featureless feet, multi limb, multi leg, on model, green body, multicolored body, alternate species, black eyes
+(Armaldo:1.25), toony, red eyes, blue body, wings, exoskeleton
+(Feebas:1.25), toony, beak, black eyes, feathers, blue body, suspended in midair, multicolored body, wings, frown, blue wings, multicolored feathers, tail feathers, featureless feet, open frown, open beak, multicolored wings, two tone wings, tan body, wide eyed, eye markings, winged arms, two tone body, feathered wings
+(Milotic:1.25), serpentine, antennae \(anatomy\), pink eyes, long tongue, purple eyes
+(Castform:1.25), monochrome, black eyes
+(Kecleon:1.25), green body, curled tail, black eyes, kecleon, toony, claws, multicolored body, feet, toes, 3 toes, semi-anthro
+(Shuppet:1.25), yellow eyes, yellow sclera, blue eyes
+(Banette:1.25), red sclera, pink eyes, grey body, grin, semi-anthro
+(Duskull:1.25), bone, skull, cubone, skull mask, red eyes, toony, featureless feet, grey body
+(Dusclops:1.25), toony, red eyes, metallic body, alternate species, featureless feet, multi limb, multicolored body, exoskeleton, grey body, biped
+(Tropius:1.25), toony, black eyes, feet, multicolored body, green body, toes, 3 toes, green tail, countershade torso, lighting, shadow, pink tongue, brown body, food, biped, quadruped, overweight ambiguous, tan body, countershade face, fruit, two tone tail, open frown, two tone body, eye markings, feather tuft, open beak, beak, frown, looking aside, tan countershading
+(Chimecho:1.25), yellow eyes, toony, featureless feet, red body, armless
+(Absol:1.25), red eyes, white body, white fur, claws, tuft, blue body
+(Wynaut:1.25), happy, eyes closed, blue body
+(Snorunt:1.25), blue eyes, blue sclera, black body, teeth, toony
+(Glalie:1.25), bone, blue eyes, skull, toony, circle, horn, black body, spikes, teeth
+(Spheal:1.25), blue body, black eyes, fangs, blue skin, featureless feet, toony, shell
+(Sealeo:1.25), blue body, toony, blue skin, multicolored body, black eyes, blue tail, fin, mustache, fangs, two tone body, feet, countershade torso, toes
+(Walrein:1.25), toony, blue body, multicolored body, overweight ambiguous, yellow eyes, biped, blue tail, pupils, open beak, pink tongue
+(Clamperl:1.25), sleeping, eyes closed, blue body, pink body
+(Huntail:1.25), teeth, glowing, blue body, open frown, fin, sharp teeth, toony, markings, fangs
+(Gorebyss:1.25), black eyes, toony, pink body, multicolored body, pink skin, markings, beak, suspended in midair
+(Relicanth:1.25), toony, featureless feet, multi leg, brown body, multicolored body, red eyes, black body, tan body, exoskeleton, alternate species, brown tail, biped
+(Luvdisc:1.25), pink skin, pink body, exed eyes, blush stickers
+(Bagon:1.25), toony, black eyes, blue body, blue skin, multicolored body, on model
+(Shelgon:1.25), toony, yellow eyes, on model, grey body
+(Salamence:1.25), salamence, wings, membrane \(anatomy\), blue body, claws, membranous wings, fangs, teeth, toony, countershade torso, sharp teeth, multicolored body, pink tongue, blue wings, white claws, red body, red wings, horn, feet, blue skin, spikes, 3 toes, toe claws, toes, blue tail, countershade face
+(Beldum:1.25), toony, blue body, black eyes, multicolored body, featureless feet, frown, blue tail, alternate species, beady eyes, biped, red eyes, exoskeleton
+(Metang:1.25), toony, on model, claws, blue body, red eyes, machine, metallic body, spikes
+(Metagross:1.25), red eyes, toony, blue body, blue skin, on model, black sclera
+(Regirock:1.25), rock creature, toony, rock, orange eyes, multi limb
+(Regice:1.25), toony, gem, blue body, featureless feet, ice, multi leg, crystal, on model
+(Registeel:1.25), metallic body, toony, red eyes, featureless feet, grey body
+(Latias:1.25), red body, yellow eyes, flying, wings, claws
+(Latios:1.25), toony, suspended in midair, blue body, flying, blue wings, red eyes, multicolored body, wings, blue skin, claws, feet, toes, biped, two tone wings, feathers, white body, countershade torso, blue tail, two tone body, 3 toes, blue feathers
+(Primal Kyogre:1.25), yellow eyes, blue body
+(Kyogre:1.25), blue body, red eyes, black sclera
+(Primal Groudon:1.25), red body, claws, spikes, teeth
+(Groudon:1.25), groudon, claws, teeth, red body, spikes, yellow eyes, sharp teeth, toony
+(Rayquaza:1.25), rayquaza, black sclera, green body, machine, yellow eyes, teeth, claws, exoskeleton, toony, sharp teeth
+(Jirachi:1.25), white body, black eyes, multicolored body, markings, featureless feet, wings, forehead markings, yellow body, grey eyes
+(Attack Forme Deoxys:1.25), black sclera, blue body, tentacles
+(Defense Forme Deoxys:1.25), exoskeleton, black eyes, on model
+(Speed Forme Deoxys:1.25), tentacles
+(Deoxys:1.25), tentacles, on model, fusion, spread arms
+(Turtwig:1.25), green body, black eyes, toony, quadruped, featureless feet, multicolored body
+(Grotle:1.25), toony, green body, black eyes, claws, exoskeleton, multi leg, toe claws, feet, quadruped, toes
+(Torterra:1.25), quadruped, red eyes, green body, toony, multicolored body, claws, white claws, countershade torso, brown body, looking away, toe claws, feet, spikes, toes, two tone body, 3 toes, tan body, countershade face, frown
+(Chimchar:1.25), fire, tan body, grey eyes, flaming tail, big head, orange body, toony, feet, toes, biped, tan fur, black eyes
+(Monferno:1.25), fire, feet, toes, spread arms, toony, 3 toes, orange body, black eyes, flaming tail, fangs, grey eyes, multicolored body, raised arm, tan body, action pose, biped, 2 toes
+(Infernape:1.25), fire, flaming hair, fusion, emboar, blue eyes, yellow sclera, flaming mane, feet, toes
+(Piplup:1.25), piplup, blue eyes, blue body, blue skin, blue sclera, toony, beak
+(Prinplup:1.25), blue eyes, blue body, beak, blue sclera, toony, feathers
+(Empoleon:1.25), beak, black sclera, blue eyes, black body, feet, blue body, black feathers, toes, toony, wings, blue sclera, frown, biped
+(Starly:1.25), beak, black eyes, feathers, black feathers, black body, multicolored body, grey eyes, toony, feet, toes, tail feathers, yellow beak, white feathers, multicolored feathers, eye markings, grey feathers, feather tuft, wings, grey body, orange beak, 3 toes, white body, biped, talons, feathered wings
+(Staravia:1.25), black eyes, beak, toony, feathers, feet, toes, tail feathers, multicolored body, black feathers, 3 toes, wings, frown, feather tuft, orange beak, black body, multicolored feathers, biped, white feathers, talons, winged arms, grey body, toe claws, black markings, grey feathers, claws, countershade torso, yellow beak, white body, black tail, feathered wings, beady eyes
+(Staraptor:1.25), beak, red eyes, feathers, toes, frown, feet, claws, multicolored body, grey body, toe claws, wings, anisodactyl, tail feathers, 3 toes, looking away, talons, head crest, grey feathers, black body, yellow beak, multicolored feathers, feathered wings, grey tail, black feathers, biped, white feathers, countershade torso, black claws, toony, white body, eye markings, countershade face, white claws, black markings, grey claws
+(Bidoof:1.25), black eyes, toony, beady eyes, brown body, brown fur, multicolored body, tan body, featureless feet, quadruped, two tone body, muzzle \(marking\)
+(Bibarel:1.25), toony, brown body, brown fur, multicolored body, fusion, feet, tan body, toes, 3 toes, overweight, black eyes
+(Kricketot:1.25), antennae \(anatomy\), toony, black eyes, alternate species
+(Kricketune:1.25), toony, black eyes, red body, wings, featureless feet, multicolored body, biped, on model
+(Shinx:1.25), yellow eyes, blue fur, blue body, black body, quadruped, black fur, tuft, star, feet, markings
+(Luxio:1.25), yellow eyes, black fur, black body, blue fur, quadruped, blue body, frown, toes, feet, tuft, 3 toes, fusion, markings
+(Luxray:1.25), black body, black fur, red sclera, blue body, quadruped, blue fur, yellow eyes, yellow sclera, black tail, frown, markings, feet, toes, tuft
+(Budew:1.25), vertical bar eyes, green body, dot eyes
+(Roserade:1.25), red eyes, green body, holding object
+(Cranidos:1.25), red eyes, claws, blue body, 3 toes, toony, spikes
+(Rampardos:1.25), spikes, red eyes, claws, blue body, on model, grey body, black body, toony, 3 toes, horn
+(Shieldon:1.25), black eyes, toony, headgear, multicolored body, grey body, headwear, frown, quadruped, alternate species, tan body, feet, 3 toes, toes, grey eyes, yellow body, two tone body
+(Bastiodon:1.25), toony, yellow eyes, grey body, multicolored body, multi limb, black body, multi leg, on model, alternate species, 4 legs, two tone body, yellow sclera, claws, black eyes, featureless feet, feet, quadruped
+(Sandy Cloak Burmy:1.25), wool \(fur\), toony, white wool, yellow eyes, pupils, black body, horizontal pupils, black eyes, frown
+(Trash Cloak Burmy:1.25), toony, yellow eyes, frown, black body, multicolored body, red body, looking up, yellow sclera, grey body, pupils
+(Burmy:1.25), toony, green body, multicolored body, frown, yellow eyes, small pupils, pupils, black body, looking up, exoskeleton, featureless feet, alternate species, wide eyed, two tone body
+(Sandy Cloak Wormadam:1.25), toony, black eyes, suspended in midair, on model, beak, featureless feet
+(Trash Cloak Wormadam:1.25), toony, black eyes, suspended in midair, beak, tail feathers, feathers, multicolored body, pupils, pink body, biped, open beak, multicolored feathers, feet, frown, black body, grey body, winged arms, spread arms, black feathers
+(Wormadam:1.25), toony, black eyes, pupils, featureless feet, black body, multicolored body, green body
+(Mothim:1.25), toony, wings, insect wings, fusion, multi limb, antennae \(anatomy\), looking away, orange wings, 4 arms, multicolored body, orange markings, lepidopteran wings, multi arm
+(Combee:1.25), antennae \(anatomy\), black eyes, toony, wings, yellow body
+(Vespiquen:1.25), red eyes, toony, fusion, gem, multicolored body
+(Pachirisu:1.25), black eyes, 3 toes, blue body, cheek spots, teeth, toony, buckteeth, feet, toes, multicolored body, white body, markings, long tail
+(Buizel:1.25), orange body, toony, black eyes, tan body, orange fur, fusion, multicolored body, markings, feet, frown, 3 toes, toes, grey eyes, head markings
+(Floatzel:1.25), orange body, tan body, fangs, feet, orange fur, multicolored body, toes, toony, black eyes
+(Cherubi:1.25), chikorita, fruit
+(Sunshine Form Cherrim:1.25), wings, toony, pink eyes, red eyes, pink body, insect wings
+(Cherrim:1.25), green body, red body, fruit, multicolored body
+(West Sea Shellos:1.25), blue body, yellow eyes, black eyes, green body, toony
+(Shellos:1.25), black eyes, yellow eyes, toony, pink body, no sclera
+(West Sea Gastrodon:1.25), black eyes, green body, blue body, toony, multicolored body
+(Gastrodon:1.25), black eyes, toony, featureless feet, white pupils, brown body, featureless hands, tan countershading, multicolored body, beady eyes, looking away, tan body, lighting, white eyes
+(Ambipom:1.25), toony, featureless hands, purple body, black eyes, yellow body, feet, multicolored body, toes, spread arms, 3 toes, lighting, grin, head tuft, eye markings, markings, two tone body, suspended in midair, purple fur, raised arm, yellow fur, countershade torso, tan body, teeth, tan countershading, mask \(marking\), long tail, head markings, facial markings, biped, multicolored fur, tuft, countershade face, fusion, looking away
+(Drifloon:1.25), toony, black eyes, featureless feet, dot eyes, beady eyes, larva, mouthless, suspended in midair, white body, multicolored body, featureless hands, flying
+(Drifblim:1.25), toony, red eyes
+(Buneary:1.25), brown body, toony, buneary, brown fur, on model, black eyes, tan body, tuft, short tail, multicolored body, spread arms, tan fur, head tuft, suspended in midair, long ears
+(Lopunny:1.25), brown body, brown fur, pink eyes, red eyes, pink nose, long ears, black sclera
+(Mismagius:1.25), headwear, headgear, witch hat, yellow sclera, yellow eyes
+(Honchkrow:1.25), beak, feathers, wings, blue body, multicolored body, red body, red eyes, toes, feet, red feathers, tail feathers, multicolored feathers, feathered wings, biped, claws, toony, 3 toes, black body, talons, toe claws, white body, white feathers
+(Glameow:1.25), grey body, yellow sclera, blue eyes, grey fur, tuft, :3, whiskers, multicolored body, blue sclera, toony, quadruped, markings, toes, feet, pink nose, multicolored fur, on model, two tone body, facial tuft, grey tail, cheek tuft
+(Purugly:1.25), frown, :<, grey body, yellow sclera, multicolored body, markings, 3 toes, white body, feet, toes, yellow eyes, grey fur, tuft, whiskers, overweight ambiguous, white fur
+(Chingling:1.25), toony, multi leg, larva, alternate species, black eyes, featureless feet, exoskeleton, multicolored body
+(Stunky:1.25), toony, claws, black eyes, purple body, toe claws, white claws, wings, feet, 3 toes
+(Skuntank:1.25), fangs, claws, quadruped, multicolored body, white claws, toony, purple body, toe claws, markings, frown, feet, tan body, toes, 3 toes, brown body, facial markings, head markings, two tone tail, orange body, looking away, snout, purple fur
+(Bronzor:1.25), featureless feet, toony, blue body, blue skin, multicolored body, black eyes, bubble, yellow eyes, shell, yellow sclera
+(Bronzong:1.25), toony, featureless feet, blue body, suspended in midair, green body, multicolored body, alternate species, biped, machine
+(Bonsly:1.25), toony, yellow eyes, armless, multicolored body, 4 legs, open frown
+(Mime-Jr:1.25), toony, on model, black eyes, suspended in midair, featureless feet, beady eyes, featureless hands, happy, spread arms, lighting, artsy-theo, blue body
+(Happiny:1.25), featureless hands, pink body, on model, toony, featureless feet, black eyes, pink skin, beady eyes, blush stickers, blush
+(Chatot:1.25), toony, beak, feathers, multicolored feathers, wings, multicolored body, black feathers, black body, tail feathers, black eyes, feathered wings, biped, feet, white feathers, toes, blue body, white body, narrowed eyes, head crest, winged arms, dewlap \(anatomy\), half-closed eyes, eye markings, neck tuft, black tail, two tone feathers, two tone body, talons, blue tail, 3 toes, open beak, grey beak, two tone tail, orange beak, blue feathers, grey feathers
+(Spiritomb:1.25), toony
+(Gible:1.25), teeth, sharp teeth, black eyes, blue body, fangs, claws
+(Gabite:1.25), claws, blue body, yellow eyes, black sclera, wings, teeth, spikes
+(Garchomp:1.25), teeth, claws, wings, black sclera, spikes, sharp teeth, yellow eyes, horn, blue body, biped
+(Munchlax:1.25), blue body, fangs, toony, blue skin, semi-anthro, claws
+(Riolu:1.25), blue body, blue fur, black body, red eyes, black fur, orange eyes, 3 toes, toes, feet
+(Lucario:1.25), red eyes, blue fur, blue body, spikes, black fur, black body, yellow fur, yellow body, 3 toes, feet, biped, toes
+(Hippopotas:1.25), toony, brown body, wide eyed, shell, black eyes, tan body, feet, multicolored body, 3 toes, toes
+(Hippowdon:1.25), lava, urine pool, sand, urine, puddle, bodily fluids, red eyes, peeing, toony
+(Skorupi:1.25), toony, exoskeleton, multi limb, multi leg, blue eyes, blue body, featureless feet, horn, multicolored body, frown, black eyes, larva, alternate species, on model, spikes
+(Drapion:1.25), exoskeleton, toony, claws, frown, multi limb, purple body, blue eyes, spikes, multi leg, multicolored body
+(Croagunk:1.25), 3 toes, feet, toes, yellow sclera, yellow eyes, teeth, blue body, markings, toony, biped
+(Toxicroak:1.25), blue body, teeth, yellow eyes, feet, toes, yellow sclera, sharp teeth, 3 toes, toony, wide stance, blue skin, raised arm, multicolored body, claws, biped
+(Carnivine:1.25), toony, green body, tentacles, black eyes
+(Finneon:1.25), pink eyes
+(Lumineon:1.25), blue body, pink eyes, multicolored body, black body, toony, quadruped, two tone body
+(Mantyke:1.25), blue body, happy, black eyes, antennae \(anatomy\)
+(Snover:1.25), toony, exoskeleton, white body, blue eyes, green body, alternate species
+(Abomasnow:1.25), purple eyes, white body, toony, raised arm, green body
+(Weavile:1.25), claws, red eyes, long claws, fangs, toe claws, toes, feet
+(Magnezone:1.25), toony, vehicle, red eyes, featureless feet, blue body, cannon, on model, shell, multicolored body, suspended in midair
+(Lickilicky:1.25), big tongue, toony, black eyes, pink body, pink skin, overweight ambiguous, featureless hands, beady eyes, featureless feet, pink tongue
+(Rhyperior:1.25), toony, teeth, horn, claws, feet, 3 toes, toes, white claws, looking away, red eyes, grey body, biped
+(Tangrowth:1.25), tentacles, blue body, h.p. lovecraft, tentacle hair, toony
+(Electivire:1.25), toony, yellow body, feet, toes, red eyes, multi limb, multicolored body, black body, markings, red nose, biped, black markings, claws, black eyes, stripes, multi arm, antennae \(anatomy\), fusion, yellow fur, 3 toes, black stripes
+(Magmortar:1.25), emboar, toony, fire, feet, toes, claws, 3 toes, flaming hair, red body, orange body, toe claws, black eyes, multicolored body, pseudo hair, white claws, biped, 2 toes, overweight, fusion, pseudo mane, flaming mane
+(Togekiss:1.25), flying, black eyes, happy
+(Yanmega:1.25), toony, insect wings, compound eyes, multi leg, alternate species, exoskeleton, flying, antennae \(anatomy\), multicolored body, multi limb, green body, wings
+(leafeon:1.25), leaf tail, light yellow body, brown eyes
+(glaceon:1.25), blue eyes, blue body, blue fur, dipstick tail
+(Gliscor:1.25), wings, yellow eyes, teeth, fangs, sharp teeth, membrane \(anatomy\), slit pupils, membranous wings, spread arms, toony, pupils, suspended in midair
+(Mamoswine:1.25), brown body, black eyes, cubone, toony, multicolored body, overweight ambiguous, toes, claws, feet, 3 toes, tan body, white claws, countershade torso, brown fur, quadruped, pupils
+(Porygon-Z:1.25), yellow eyes, blue body, on model, toony, featureless feet
+(Gallade:1.25), red eyes, green body, frown, raised arm, fusion
+(Probopass:1.25), blue eyes, featureless feet, blue body, toony, black body
+(Dusknoir:1.25), toony, red sclera, grey body, red eyes, metallic body, multicolored body, black body, feet, eye markings, markings, toes
+(Froslass:1.25), froslass, blue eyes, ice, toony, diamond \(gem\)
+(Fan Rotom:1.25), toony, orange markings, orange body, orange eyes
+(Frost Rotom:1.25), shell, frown, outline, wings, toony, orange body, purple eyes
+(Heat Rotom:1.25), red eyes, toony, red body, orange body, pupils
+(Mow Rotom:1.25), green eyes, vehicle, teeth, grin, car
+(Wash Rotom:1.25), blue eyes, grin, orange body, teeth, suspended in midair, toothy grin, toony, blue body, horn
+(Rotom:1.25), blue eyes, toony, orange body, trident
+(Uxie:1.25), gem, red eyes, forehead gem, frown, toony, blue body, blue skin, mesprit
+(Mesprit:1.25), mesprit, gem, yellow eyes, forehead gem, fusion, blue body
+(Azelf:1.25), yellow eyes, blue body, floating, gem, toony, blue skin, pupils, semi-anthro, multicolored body
+(Dialga:1.25), blue body, red eyes, claws, teeth, black sclera, sharp teeth, blue skin
+(Palkia:1.25), palkia, claws, red eyes, black sclera, spikes, fangs, biped
+(Heatran:1.25), toony, orange eyes, exoskeleton
+(Regigigas:1.25), fusion, toony, metallic body, red eyes, multi limb
+(Primal Giratina:1.25), red eyes, claws, black sclera, spikes, multicolored body, multi leg, wings, on model
+(Giratina:1.25), wings, red eyes, fusion, spikes, black sclera
+(Cresselia:1.25), frown, pink eyes, blue body, toony, multicolored body, tan body, red eyes, yellow body, purple eyes, pupils
+(Phione:1.25), blue body, blue eyes, black eyes
+(Manaphy:1.25), blue eyes, blue body, toony
+(Darkrai:1.25), darkrai, blue eyes, black body, claws, grey body, fusion
+(Sky Forme Shaymin:1.25), green eyes, white body, white fur, green body, green fur
+(Shaymin:1.25), flower \(anatomy\), head flower, green eyes, white body, quadruped
+(Arceus:1.25), green sclera, green eyes, fusion
+(Victini:1.25), blue eyes, blue sclera, fangs, gesture, butt wings, orange body, happy, toony, teeth, semi-anthro
+(Snivy:1.25), green body, pupils, red eyes, brown eyes, toony, multicolored body, yellow body
+(Servine:1.25), red eyes, pupils, green body, slit pupils, toony
+(Serperior:1.25), serpentine, red eyes, pupils, frown, slit pupils, green body, yellow markings
+(Tepig:1.25), black eyes, toony
+(Pignite:1.25), black eyes, orange body, emboar, toony, fangs, feet, tusks, toes, claws, 3 toes, orange nose, overweight, semi-anthro, multicolored body, raised arm
+(Emboar:1.25), emboar, pseudo mane, flaming mane, flaming hair, fire, pseudo hair, fusion, feet, black body, orange body, biped, toes, tusks, red body, claws
+(Oshawott:1.25), shell, seashell, blue body, freckles, zeklullaby, black eyes, white body, semi-anthro, :<
+(Dewott:1.25), frown, blue body, black eyes, 3 toes, feet, toes, :<, shell, semi-anthro, multicolored body, blue skin, markings
+(Samurott:1.25), blue body, fangs, mustache, facial hair, claws, horn, red eyes
+(Patrat:1.25), toony, brown body, red sclera, brown fur, yellow sclera, teeth, red eyes, feet
+(Watchog:1.25), crossed arms, yellow sclera, toony, frown, brown body, feet, toes, multicolored body, markings, 3 toes, teeth, biped, brown fur, stripes, pink nose, countershade face, red eyes, snout markings, red nose, red body, looking away, claws, black eyes, muzzle \(marking\), facial markings, striped tail, striped body, tuft, countershade torso, head markings, striped markings, shadow, two tone body, tan body, lighting
+(Lillipup:1.25), brown body, black eyes, brown fur, quadruped, tuft, tan body, grey eyes, tan fur, multicolored body, curious, toony, multicolored fur, looking up, head tuft, facial tuft, cheek tuft, 3 toes, feet, toes
+(Herdier:1.25), black eyes, brown body, grey eyes, quadruped, tan body, brown fur, multicolored body, tuft, feet, 3 toes, toes, toony, tan fur, facial tuft, black nose, head tuft, cheek tuft, brown tail, feathers, multicolored fur, markings, looking aside, tan tail, countershade torso
+(Stoutland:1.25), brown body, brown fur, toes, feet, tan body, 3 toes, quadruped, tan fur, tuft, claws, multicolored body, head tuft, facial tuft, cheek tuft, toony, multicolored fur, markings, toe claws, neck tuft, fluffy, grey eyes, muzzle \(marking\), black nose, brown tail, countershade torso, fur tuft, snout markings, fusion, two tone body
+(Purrloin:1.25), purrloin, green eyes, purple body, :3, quadruped
+(Liepard:1.25), liepard, green eyes, quadruped, purple body, purple fur, yellow body, markings, purrloin, yellow fur
+(Pansage:1.25), toony, green body, big head, big eyes, feet
+(Simisage:1.25), thumbs up, gesture, green body, green fur, feet, toes, 3 toes, tuft, grey eyes, toony
+(Pansear:1.25), toony, black eyes, red body, tan body, tan fur, red fur, tuft
+(Simisear:1.25), feet, toes, red body, black eyes, tan body, 3 toes, red fur, tuft, tan fur, multicolored body, toony, yellow body, multicolored fur, yellow fur, grey eyes, tan countershading, orange body, countershade face
+(Panpour:1.25), blue body, toony, eyes closed, feet, happy, toes, semi-anthro, 3 toes, multicolored body, blue fur, yellow body
+(Simipour:1.25), blue body, waving, feet, toony, toes, blue fur, multicolored body, 3 toes, tan body, tuft, blue tail, eyes closed, waving at viewer, biped, countershade face, tan countershading, two tone body, multicolored fur, markings, tan fur, raised arm, countershade torso, gesture
+(Munna:1.25), featureless feet, red eyes, pink body
+(Musharna:1.25), eyes closed, pink body, blush, sleeping
+(Pidove:1.25), toony, multicolored body, grey body, beak, overweight ambiguous, wings, black body, toes, feet, feathers, biped, countershade torso, open beak, eye markings, multicolored feathers, black tail, black eyes, grey tail, two tone body, grey feathers, yellow eyes, suspended in midair, black wings, pink tongue, tail feathers, grey feet, two tone tail, grey beak, 3 toes, two tone wings, grey wings, talons, open frown, feathered wings, looking away, toe claws, no sclera, facial markings, winged arms, overweight feral, head markings, markings, black feathers
+(Tranquill:1.25), beak, feathers, grey body, wings, grey feathers, black feathers, tail feathers, toony, talons, black body, cere \(anatomy\), multicolored body, feathered wings, feet, white feathers, toes, multicolored feathers, eye markings, grey wings, grey beak
+(Unfezant:1.25), beak, feathers, wings, tail feathers, multicolored feathers, grey feathers, white feathers, black feathers, grey wings, yellow eyes, grey feet, brown feathers, feather tuft, feathered wings, feet, grey body, toony, multicolored body, talons, biped, winged arms, toes, eye markings, multicolored wings, two tone wings, black body, grey beak, folded wings, yellow beak, pupils, white body, 3 toes, frown, monotone wings, grey tail, flat colors, feather hands, suspended in midair, two tone beak
+(Unfezant:1.25), beak, feathers, wings, yellow eyes, talons, tail feathers, black feathers, black body, feet, toes, claws, eye markings, grey body
+(Blitzle:1.25), blue eyes, black body, quadruped, black fur, blue sclera, grey body, yellow sclera
+(Zebstrika:1.25), blue eyes, stripes, black body, black fur, yellow sclera, fusion, two tone eyes, quadruped, grey body, mane
+(Roggenrola:1.25), rock, toony, rock creature, brown body, shell, multicolored body, blue body, featureless feet
+(Boldore:1.25), toony, multi leg, exoskeleton, yellow eyes, featureless feet, multi limb
+(Gigalith:1.25), red eyes, red body
+(Woobat:1.25), wings, membrane \(anatomy\), flying, <3, membranous wings, bat wings, spread wings, suspended in midair, fangs, blue body, teeth, toony
+(Swoobat:1.25), wings, toony, black eyes, winged arms, suspended in midair, blue wings, two tone wings, flying, spread wings, blue body, feathers, black wings, membrane \(anatomy\), multicolored body, multicolored wings, feet, beak, frown, toes, biped, feathered wings, black body, multicolored feathers, multi tone body, spread arms, bat wings, tuft, membranous wings, pupils, markings, monotone wings, head markings, facial markings, grey eyes, white body, black tail, black feathers, tail feathers, 3 toes
+(Drilbur:1.25), toony, on model, blue body, multicolored body, looking up, black eyes, happy, featureless feet
+(Excadrill:1.25), toony, black body, on model, multicolored body, black eyes, red body, red markings, grey body, open frown, red stripes, facial markings, head markings, frown, markings
+(Audino:1.25), blue eyes, fusion, pink body, semi-anthro, tan body, tendrils, tan fur
+(Timburr:1.25), crate, box, black eyes, treasure chest, toony, grin, brown body, cardboard, teeth, tan body
+(Gurdurr:1.25), frown, black eyes, raised arm, stocks, tan body, multicolored body, toony, looking away, feet, box, biped, lighting, countershade torso, tan countershading, toes
+(Conkeldurr:1.25), unibrow, black eyes, rock, brown body, holding object, frown, tan body, biped, brown fur, open frown, muzzle \(marking\), toony, melee weapon, feet, snout markings, weapon
+(Tympole:1.25), headphones, blue body, featureless feet, toony, black eyes
+(Palpitoad:1.25), blue body, shell
+(Seismitoad:1.25), blue skin, blue body, red eyes, shell
+(Throh:1.25), frown, red body, feet, toes, belt, grey eyes, black eyes
+(Sawk:1.25), blue body, frown, fighting pose, feet, toes, black eyes, biped, 3 toes, grey eyes, multicolored body, toony, fist, 2 toes, markings
+(Sewaddle:1.25), black eyes, toony, fangs, green body, featureless feet, white eyes, multicolored body, orange body, larva, tan body
+(Swadloon:1.25), green body, frown, black eyes, multicolored body
+(Leavanny:1.25), green body, antennae \(anatomy\), red eyes, on model, toony, insect wings
+(Venipede:1.25), multi leg, exoskeleton, multi limb, antennae \(anatomy\), toony, red body, alternate species
+(Whirlipede:1.25), toony, multi leg, multi limb, multicolored body, featureless feet, grey body, red eyes, on model, exoskeleton, black body
+(Scolipede:1.25), exoskeleton, multi leg, toony, multi limb, horn, antennae \(anatomy\)
+(Cottonee:1.25), whimsicott, green body, white body, orange eyes
+(Whimsicott:1.25), whimsicott, orange eyes, wool \(fur\), fluffy
+(Petilil:1.25), toony, brown eyes, green body
+(Lilligant:1.25), lilligant, green body, flower \(anatomy\), orange eyes, head flower, mouthless, fusion, toony
+(Blue Basculin:1.25), toony, green body, blue eyes
+(White Basculin:1.25), toony, green body, teeth, blue eyes, multicolored body, open frown, fin, sharp teeth, black eyes
+(Basculin:1.25), toony, red eyes, green body, multicolored body, black body
+(Sandile:1.25), toony, black eyes, multicolored body, tan countershading, tan body, countershade torso, brown body, feet, claws, toes, tan tail, countershade face, 3 toes, alternate species, snout, two tone body, exoskeleton, multi leg, black countershading, toe claws, black body, frown
+(Krokorok:1.25), crossed arms, fangs, black eyes, grey eyes, claws, feet, toony, 3 toes, stripes, toes, spikes, spiked tail, teeth, multicolored body, semi-anthro, biped
+(Krookodile:1.25), claws, black eyes, toony, white claws, toe claws, feet, toes, teeth, sharp teeth, 3 toes, fangs, red body, spikes
+(Darumaka:1.25), toony, black eyes, spread arms, red body, teeth, orange body, tan body
+(Darmanitan:1.25), toony, teeth, red body, black eyes, sharp teeth
+(Maractus:1.25), green body, yellow eyes, spikes, horn
+(Dwebble:1.25), toony, exoskeleton, featureless feet, multi leg, on model, black eyes, beady eyes, multicolored body, rock, curious, alternate species
+(Crustle:1.25), exoskeleton, multi leg, toony, 4 legs, multi limb, featureless feet, multicolored body
+(Scraggy:1.25), toony, black eyes, teeth, hands on hips, multicolored body, semi-anthro
+(Scrafty:1.25), scarf, black eyes, toony, teeth, orange body
+(Sigilyph:1.25), blue eyes, machine, wings, feathers, toony, artificial intelligence, blue sclera, yellow body
+(Yamask:1.25), toony, black body, red eyes, featureless feet, black eyes, red sclera
+(Cofagrigus:1.25), toony, red eyes, smoke, teeth, floating, sharp teeth, shadow, serpentine, no sclera, glowing, red sclera
+(Tirtouga:1.25), toony, blue body, blue tail, black eyes, suspended in midair, multicolored body, open frown, featureless feet, blue skin, countershade torso, quadruped, two tone body, eye markings, alternate species, countershade face, blue spots
+(Carracosta:1.25), blue body, feet, toes, 3 toes, biped, claws, blue skin, countershade torso
+(Archen:1.25), feathers, blue body, wings, toony, fangs, claws
+(Archeops:1.25), claws, toony, suspended in midair, fangs, wings, blue body, black eyes, toes, feet, white claws, toe claws, 3 toes, green body, multicolored body, fusion, feathers, teeth, orange body, green tail, flying, jumping, slit pupils, blue wings, sharp teeth, yellow body
+(Trubbish:1.25), toony, green body, 4 legs, teeth, wide eyed
+(Garbodor:1.25), toony, featureless feet, artsy-theo, rock, on model
+(Zorua:1.25), grey body, grey fur, black body, black fur, blue eyes, red hair, quadruped, hair, tuft
+(Zoroark:1.25), claws, red claws, grey fur, grey body, hair, blue eyes, long hair, black fur, red hair, black body, toe claws
+(Minccino:1.25), tuft, grey body, big ears, white body, grey fur, grey eyes, white fur, feet, 3 toes, toes
+(Cinccino:1.25), grey body, white body, tuft, black eyes, white fur, grey eyes, grey fur, fluffy, big ears, toes, feet, 3 toes, toony, multicolored body, brown eyes
+(Gothita:1.25), blue eyes, bow \(feature\), ribbons, hair accessory, hair bow, hair ribbon, bow ribbon, eyelashes, bow accessory, accessory, black body, bow tie
+(Gothorita:1.25), blue eyes, black body
+(Gothitelle:1.25), blue eyes, goth, lolita \(fashion\), black body, dress
+(Solosis:1.25), green body, featureless feet, beady eyes, black eyes, larva, beak, horn
+(Duosion:1.25), green body, featureless feet, larva, black eyes, beady eyes, featureless hands
+(Reuniclus:1.25), toony, green body, black eyes
+(Ducklett:1.25), feathers, beak, wings, blue body, toony, black eyes, yellow beak, feathered wings, webbed feet, white feathers, biped, tail feathers, semi-anthro, feet, blue feathers, toes, multicolored body, green body
+(Swanna:1.25), toony, black eyes, white feathers, beak, feathers, tail feathers, wings, multicolored body, feathered wings, white body, multicolored feathers, frown, blue body, white wings, biped, winged arms, eye markings, blue tail, head crest, toes, white tail, feet, yellow beak, cere \(anatomy\), folded wings, looking away, countershade torso, grey feathers, grey eyes, 3 toes, two tone tail, talons, two tone body, two tone wings, black feathers
+(Vanillite:1.25), blue eyes, toony, blue body, ice, blue sclera, on model, featureless feet
+(Vanillish:1.25), toony, ice, blue eyes, blue body, featureless feet, white body, multicolored body
+(Vanilluxe:1.25), toony, on model, bubble, blue body, featureless feet, ice, happy, blue eyes, suspended in midair, eyes closed, artsy-theo, multicolored body
+(Autumn Deerling:1.25), grey eyes, black eyes, tan body, brown body, brown fur, quadruped, tan fur, orange body, multicolored body
+(Summer Deerling:1.25), grey eyes, black eyes, quadruped, green body, tan body
+(Winter Deerling:1.25), brown body, grey eyes, brown fur, tan body, tan fur, black eyes, quadruped, multicolored body, snout, multicolored fur
+(Deerling:1.25), black eyes, grey eyes, tan body, quadruped, tan fur, brown body
+(Autumn Sawsbuck:1.25), brown body, brown fur, quadruped, horn, grey hooves, hooves, multicolored body, toony, muzzle \(marking\), antlers, lighting, tan body, snout markings, snout, black eyes, brown tail, frown, tuft, on hind legs, eye markings, tan markings, leg tuft, brown horn, shadow, black hooves, smug, looking away, multicolored fur
+(Summer Sawsbuck:1.25), brown body, antlers, brown fur, horn, brown tail, tan body, muzzle \(marking\), multicolored body, snout markings, snout, quadruped, hooves, eye markings, countershade torso, grey hooves, two tone tail, toony, frown, countershade face, brown horn, brown eyes, tan countershading, lighting, black eyes, shadow, facial markings, green tail, tan fur, head markings, tan markings, tuft, markings, looking away, tan tail, two tone body, multicolored fur, short tail, looking aside, black hooves, alternate species
+(Winter Sawsbuck:1.25), hooves, antlers, brown body, horn, grey hooves, brown fur, muzzle \(marking\), snout markings, multicolored body, brown hooves, white body, multicolored fur, cloven hooves, black hooves, tan body, snout, toony, brown tail, eye markings, frown, brown eyes, black eyes, white fur, looking away, looking aside, two tone body, tuft, two tone tail, countershade torso, leg tuft, countershade face, quadruped, fur tuft, two tone fur, white markings, short tail, markings
+(Sawsbuck:1.25), brown body, brown fur, horn, multicolored body, antlers, toony, tan body, quadruped, looking away, tan countershading, snout, brown tail, black eyes, two tone body, muzzle \(marking\), black hooves, hooves, frown, two tone tail, looking aside, tan tail, brown horn, countershade torso, multicolored fur, tuft, snout markings
+(Emolga:1.25), patagium, spread arms, black eyes, toony, white body, featureless feet, flying, suspended in midair, multicolored body, on model, grey eyes, cheek spots, black body, jumping, yellow body, happy, wings, feet
+(Karrablast:1.25), fangs, yellow eyes, yellow sclera, multicolored body, pupils, blue body, teeth, black body, toony, two tone body
+(Escavalier:1.25), toony, yellow eyes, red body, weapon, multicolored body, frown
+(Foongus:1.25), featureless feet, pokeball, black eyes
+(Amoonguss:1.25), pokeball, shield, shell, fungus, mushroom
+(Frillish:1.25), blue eyes, pink body, toony
+(Frillish:1.25), blue body, blue skin, open frown, red eyes, blue tail, toony, frown
+(Jellicent:1.25), crown, blue eyes, featureless feet, antennae \(anatomy\), pink body, toony, flying, suspended in midair
+(Jellicent:1.25), blue body, toony, red eyes, blue skin, multicolored body, featureless feet
+(Alomomola:1.25), pink body, looking up, yellow eyes
+(Joltik:1.25), blue eyes, multi leg, multi limb, yellow body, featureless feet
+(Galvantula:1.25), multi leg, multi limb, toony, featureless feet, compound eyes, alternate species, suspended in midair, exoskeleton, blue eyes, multi wing, yellow body, multicolored body, black eyes, antennae \(anatomy\)
+(Ferroseed:1.25), green body, larva, spikes, horn, exoskeleton, yellow sclera, thorns
+(Ferrothorn:1.25), toony, spikes, on model, green body, multicolored body, suspended in midair, two tone body, grey body, red eyes, black body, black eyes
+(Klink:1.25), black eyes, toony, bandage, 1 eye, grey eyes
+(Klang:1.25), toony, blue eyes, black eyes, 1 eye, grey body, alternate species
+(Klinklang:1.25), toony, blue eyes, black eyes
+(Tynamo:1.25), black eyes, white body, white wings, multicolored body, pupils, white pupils
+(Eelektrik:1.25), toony, black eyes, multicolored body, featureless feet
+(Eelektross:1.25), toony, multicolored body, red eyes, yellow eyes, fangs, suspended in midair, black body, yellow sclera
+(Elgyem:1.25), green eyes, toony, blue body, multicolored body, green body
+(Beheeyem:1.25), green eyes, brown body, headgear
+(Litwick:1.25), yellow eyes, fire, blue body, one eye obstructed, featureless feet
+(Lampent:1.25), yellow eyes, toony, on model, open frown, suspended in midair, black body, featureless feet, floating
+(Chandelure:1.25), yellow eyes, glowing, black body
+(Axew:1.25), red eyes, green body, semi-anthro, feet
+(Fraxure:1.25), red eyes, green body, claws, red body
+(Haxorus:1.25), red eyes, claws, exoskeleton, black sclera
+(Cubchoo:1.25), blue body, black eyes, white body, toony, featureless hands, blue fur, black nose, multicolored body, featureless feet, feet, 3 toes, toes, blue nose, semi-anthro, biped
+(Beartic:1.25), claws, white body, open frown, grey eyes, feet, toes, white fur, blue body, multicolored body, fangs, black eyes, toe claws, biped, black nose, 3 toes, pink tongue, toony
+(Cryogonal:1.25), multi leg, toony, icon, blue eyes, glowing
+(Shelmet:1.25), toony, black eyes, narrowed eyes, green body, half-closed eyes, frown, multicolored body, grey body, featureless feet
+(Accelgor:1.25), toony, crossed arms, black eyes, beak, feathers, frown, blue body, suspended in midair, multicolored body
+(Stunfisk:1.25), toony, featureless feet, wide eyed, brown body, multicolored body, black eyes, frown, tan body
+(Mienfoo:1.25), toony, yellow body, tan body, feet, semi-anthro, yellow fur, 3 toes, toes, multicolored body, tan fur
+(Mienshao:1.25), toony, purple body, red eyes, claws, narrowed eyes, half-closed eyes, horn, feet, multicolored body, toes
+(Druddigon:1.25), claws, spikes, blue body, red body, yellow eyes, toe claws, feet, teeth, toes
+(Golett:1.25), fist, blue body, yellow eyes, belt
+(Golurk:1.25), blue body, toony, featureless feet, biped, machine, armor
+(Pawniard:1.25), red body, toony
+(Bisharp:1.25), frown, toony, red body, raised arm, fusion, biped, exoskeleton
+(Bouffalant:1.25), horn, horn jewelry, yellow eyes, wool \(fur\), quadruped, grey horn, hooves, pupils, brown body, yellow sclera, horn ring, horizontal pupils, ring \(jewelry\)
+(Rufflet:1.25), beak, black eyes, feathers, toes, yellow beak, talons, multicolored feathers, feet, 3 toes, tail feathers, multicolored body, wings, toe claws, white feathers, claws, grey feathers, cere \(anatomy\), eye markings, head crest, frown, toony, feathered wings, tan feathers, white body, biped, blue body, winged arms, anisodactyl
+(Braviary:1.25), feathers, beak, talons, wings, open beak, multicolored feathers, yellow beak, feathered wings, cere \(anatomy\), tail feathers, anisodactyl, pink tongue, white feathers, claws, toes, red feathers, feet, toe claws, eye markings, grey eyes, spread wings, multicolored body, flying, 3 toes, brown feathers, red body, two tone wings, feather tuft, two tone feathers, suspended in midair, black eyes, grey feathers, blue eyes, winged arms, white claws, tan feathers, quadruped, two tone beak, scutes, toony, white body, 4 toes, brown body
+(Vullaby:1.25), beak, feathers, wings, feather tuft, toes, red eyes, feet, tail feathers, multicolored feathers, feathered wings, biped, 3 toes, winged arms, brown feathers, frown, 2 toes, multicolored body, feathered crest, toony, brown body, black feathers, black markings
+(Mandibuzz:1.25), wings, beak, feathers, talons, feathered wings, brown feathers, red eyes, toony, brown wings, toes, brown body, tail feathers, feet, black feathers, claws, anisodactyl, toe claws, smug, 3 toes, black body, multicolored feathers, multicolored body, biped
+(Heatmor:1.25), toony
+(Durant:1.25), multi limb, toony, antennae \(anatomy\), exoskeleton, red eyes, compound eyes, featureless feet, multicolored body, grey body, alternate species, suspended in midair, multi arm, multi leg, red sclera, black countershading, black eyes, black body, two tone body, insect wings
+(Deino:1.25), blue body, toony, blue skin, quadruped
+(Zweilous:1.25), hair over eyes, fusion, blue body, hydreigon, multi head, claws
+(Hydreigon:1.25), hydreigon, blue body, fusion, fangs, teeth, toony, wings, feathers
+(Larvesta:1.25), blue eyes, blue sclera, darkrai
+(Volcarona:1.25), blue eyes, wings, insect wings, multi wing, blue sclera, lepidopteran wings, black body, multicolored body, multi limb, neck tuft, white body
+(Cobalion:1.25), blue body, horn, quadruped, hooves, frown, looking away, multicolored body, tuft
+(Terrakion:1.25), clenched teeth, teeth, grey body, quadruped, orange eyes, brown body, looking away, multicolored body
+(Virizion:1.25), red eyes, green body
+(Therian Tornadus:1.25), wings, feathered wings, feathers, toony, green body, claws, beak, talons, purple body, biped, feet, toes, yellow eyes, multicolored body, toe claws, tendrils, cere \(anatomy\), looking away
+(Tornadus:1.25), toony, green body, crossed arms, facial hair, mustache, biped, unibrow, multicolored body, purple body
+(Therian Thundurus:1.25), toony, mustache, blue body, on model, claws, spikes, blue skin, facial hair, feet, toes, multicolored body, suspended in midair, purple body, frown, artsy-theo, biped, toe claws, 3 toes, countershade torso
+(Thundurus:1.25), toony, spikes, on model, blue body, frown, biped, multicolored body, blue skin, fusion, suspended in midair, artsy-theo
+(Overdrive Reshiram:1.25), claws, wings, blue eyes, blue sclera, toe claws, white claws, white body, toes, feet, 3 toes, membrane \(anatomy\), white wings, blue body, multi wing, horn, two tone wings, membranous wings
+(Reshiram:1.25), claws, wings, blue eyes, blue sclera, white body, white claws, toe claws, toes, feet, 3 toes, white wings, blue body, two tone wings, membrane \(anatomy\)
+(Overdrive Zekrom:1.25), wings, red eyes, claws, black body, fusion, toes, feet
+(Zekrom:1.25), wings, red eyes, claws, black body, fusion, toes, feet, red sclera
+(therian Landorus:1.25), toony, orange body, multicolored body, frown, artsy-theo, feet, fusion, toes, biped, open frown, 3 toes, alternate species, brown body, 4 legs, quadruped, tan body, on model, claws, markings, looking away, suspended in midair
+(Landorus:1.25), spikes, crossed arms, orange body, multicolored body, feet, orange eyes
+(R Kyurem:1.25), claws, blue body, on model, toony, wings, multicolored body, yellow eyes, white body, spikes, white claws, biped, teeth, toe claws, frown, fusion, blue tail, feet, toes, fangs, grey body
+(Z Kyurem:1.25), claws, on model, teeth, spikes, yellow eyes, black body, sharp teeth, horn, multicolored body, blue body, fangs, toony, toe claws
+(Kyurem:1.25), yellow eyes, teeth, toony, grey body, claws, sharp teeth, metallic body, black sclera, spikes, on model, horn, quadruped, grey tail
+(Resolute Keldeo:1.25), horn, orange mane, fusion, blue body, blue eyes, mane, hair, quadruped, frown, alternate species, hooves, blue fur, crossover
+(Keldeo:1.25), grey eyes, hair, horn, blue body, red hair, hooves, yellow body, mane
+(Pirouette Meloetta:1.25), red eyes, toony, gem, fusion
+(Meloetta:1.25), meloetta \(aria form\), :o, blue eyes, green body
+(Genesect:1.25), toony, metallic body, machine, exoskeleton, purple body, teeth, black eyes
+(Chespin:1.25), teeth, brown body, black eyes, muzzle \(marking\), snout markings, green body, brown fur, buckteeth, 3 toes, multicolored body, tan body, feet, happy
+(Quilladin:1.25), brown body, teeth, 3 toes, claws, green body, black eyes, toony, feet, white claws, snout markings, muzzle \(marking\), multicolored body, toes
+(Chesnaught:1.25), chesnaught, fusion, frown, 3 toes, feet, toes, claws, spikes, brown body, green body, white body
+(Fennekin:1.25), yellow body, yellow fur, red eyes, tuft, white body, inner ear fluff, white fur, orange eyes
+(Braixen:1.25), tuft, yellow fur, stick, inner ear fluff, yellow body, red fur, white fur, white body, black fur, red eyes, red body, black body, chest tuft
+(Delphox:1.25), fire, stick, red eyes, red body, tuft, yellow body, orange body, yellow fur, red fur, holding object, inner ear fluff
+(Froakie:1.25), toony, blue body, blue skin, crouching, on model, multicolored body, yellow eyes, frown, black eyes, biped, two tone body
+(Frogadier:1.25), blue body, blue skin, toony, yellow sclera, black eyes
+(Ash Greninja:1.25), blue body, red eyes, weapon, long tongue, raised leg, blue skin, action pose, feet
+(Greninja:1.25), crouching, blue body, long tongue, red eyes, webbed feet, blue skin, webbed hands
+(Bunnelby:1.25), brown body, toony, grey body, brown fur, grey fur, black eyes, style parody
+(Diggersby:1.25), buckteeth, eyes closed, grey body, teeth, feet, brown body, orange nose, overweight ambiguous, toony, grey fur, toes
+(Fletchling:1.25), feathers, toony, beak, black feathers, wings, tail feathers, multicolored feathers, multicolored body, black eyes, black body, black wings, feathered wings, white feathers, black tail, grey feathers, two tone wings, orange feathers, biped, orange body, multi tone body, feet, suspended in midair, grey beak, grey body, toes, winged arms, white body, blue body, countershade torso, grey tail, markings, two tone tail, flying, frown, two tone body, white tail, monotone tail, orange beak
+(Fletchinder:1.25), beak, feathers, toony, wings, tail feathers, black feathers, black eyes, multicolored body, black body, multicolored feathers, feathered wings, black wings, white feathers, frown, black markings, feet, eye markings, orange feathers, toes, orange body, grey feathers, two tone wings, talons, grey beak, winged arms, black tail, biped, suspended in midair, red feathers, multi tone body, markings, white body, orange markings, looking away, red body, facial markings, feather tuft, head markings, countershade torso, grey wings
+(Talonflame:1.25), beak, feathers, wings, feathered wings, tail feathers, talons, orange markings, black feathers, multicolored feathers, eye markings, black body, white feathers, toony, grey feathers, flying, orange feathers, two tone wings, multicolored body, suspended in midair, winged arms, orange body, fusion, red feathers, red body, brown feathers, frown, spread wings, yellow beak, multicolored wings, green feathers, feet, markings, toes
+(Scatterbug:1.25), toony, black eyes, multicolored body, antennae \(anatomy\), frown, featureless feet, grey body, black body, spikes, exoskeleton, brown body, brown eyes
+(Spewpa:1.25), toony, brown eyes, white body, black eyes, featureless feet
+(Vivillon:1.25), circle, featureless hands, black countershading, suspended in midair, flying, unusual pupils, antennae \(anatomy\), featureless feet, wings, toony, black eyes, compound eyes, larva, reverse countershading, lepidopteran wings, multicolored body, on model, dipstick antennae, multicolored antennae, black body, spread wings, black wings, white body, multicolored wings, looking aside, looking away, neck tuft
+(Litleo:1.25), pawpads, paws, feet, toes, toony
+(Pyroar:1.25), frown, blue eyes, tan fur, tan body, tuft, mane, hair, brown body, brown fur, quadruped, highlights \(coloring\), tail tuft, blonde hair, feet
+(Pyroar:1.25), blue eyes, orange fur, tuft, orange body, yellow fur, tan fur, tan body, quadruped, yellow body, hair, frown, mane, facial tuft, brown body, cheek tuft, blonde hair, multicolored fur, brown fur, black fur, markings, feet, multicolored body
+(Flabebe:1.25), toony, black eyes, on model, white body, multicolored body, biped, flying, halo, yellow body, cheek spots, suspended in midair, green body, red body, looking away
+(Floette:1.25), toony, on model, green body, black eyes, featureless hands, suspended in midair, featureless feet, holding flower, white body, holding object, lighting, multicolored body, happy
+(Florges:1.25), toony, suspended in midair, green body, white body, black eyes
+(Skiddo:1.25), horn, black eyes, green body, toony, brown hooves, white body, hooves, brown body
+(Gogoat:1.25), brown body, horn, quadruped, multicolored body, brown fur, hooves, eye markings, toony, muzzle \(marking\), tan body, mask \(marking\), brown hooves, brown horn, snout markings, looking away, grey hooves, brown eyes, facial markings, head markings, red eyes, green body, 2 toes, alternate species, multicolored fur, tuft, frown
+(Pancham:1.25), pancham, semi-anthro, black nose, black eyes, sexual barrier device, condom, black body, black fur, 3 toes, object in mouth, toony
+(Pangoro:1.25), black body, black fur, 3 toes, white body, toes, claws, black nose, feet, white fur, teeth, multicolored body, fist, eye markings, bamboo, black eyes, grey body, clenched teeth, ursaring, multicolored fur, biped, toe claws, lighting, fur tuft, grey fur, markings, facial markings, tuft, head markings, muzzle \(marking\), two tone body, snout markings
+(Furfrou:1.25), furfrou, red eyes, tuft, white body, grey body, quadruped, white fur, multicolored body
+(Espurr:1.25), purple eyes, grey body, tuft, markings, big eyes
+(Meowstic:1.25), yellow sclera, blue body, blue fur, white body, red eyes, socks \(marking\), leg markings, gloves \(marking\), multi tail, white fur, markings, 2 tails, semi-anthro, multicolored body
+(Meowstic:1.25), multi tail, blue body, green eyes, 2 tails, blue fur
+(Honedge:1.25), toony, eyewear, blue body, feathers, frown, weapon, blue eyes, wings, teeth, feathered wings
+(Doublade:1.25), toony, suspended in midair, pink eyes, alternate species, pink body, weapon
+(Sword Aegislash:1.25), weapon, sword, melee weapon, shield, purple eyes, toony
+(Aegislash:1.25), beak, wings, feathers, toony, white feathers, yellow beak, feather tuft, eye markings, weapon, shield, melee weapon, feathered wings, featureless feet, purple body, multicolored body, brown feathers, pupils
+(Spritzee:1.25), beak, feathers, black eyes, toony, white feathers, pink body, multicolored feathers, brown eyes, multicolored body, big eyes
+(Aromatisse:1.25), purple body, tuft, orange eyes, beak, red eyes, toony
+(Swirlix:1.25), toony, blep, white body, multicolored body, pink eyes, suspended in midair, red eyes, pink tongue, two tone body, feet, quadruped
+(Slurpuff:1.25), pink eyes, white body
+(Inkay:1.25), black eyes, looking up, toony, chef hat, blue body, headwear, headgear, multicolored body, fungus, mushroom, pink skin
+(Malamar:1.25), tendrils, toony, yellow eyes, multicolored body, frown, suspended in midair, black eyes, grey body, beak, purple body, markings
+(Binacle:1.25), toony, black eyes, muzzle \(marking\), brown body, snout markings, rock, frown, orange body, horn, tan body, 4 legs, level difference, on model, 2 heads, multicolored body
+(Barbaracle:1.25), claws, toony, wide stance, white claws, fusion, open frown, fangs
+(Skrelp:1.25), toony, red eyes, brown body, frown
+(Dragalge:1.25), toony, red eyes, suspended in midair, multicolored body, countershade torso, brown body, pupils
+(Clauncher:1.25), toony, exoskeleton, antennae \(anatomy\), blue body, yellow eyes, multi leg
+(Clawitzer:1.25), blue body, toony, suspended in midair, yellow eyes, flying, multicolored body, blue skin, multi leg
+(Helioptile:1.25), blue eyes, yellow body, toony, multicolored body, blue sclera, feet, toes, 3 toes, quadruped, countershade torso, black body, markings
+(Heliolisk:1.25), blue eyes, blue sclera, fusion, black body, feet, pink tongue, toes
+(Tyrunt:1.25), toony, black eyes, multicolored body, brown body, spikes, open frown, pink tongue, claws, fangs, teeth, countershade torso, toe claws, tan body, feet, two tone body, snout, toes, white claws, horn, alternate species, 3 toes, tan countershading, brown tail, spiked tail, looking away, grey body
+(Tyrantrum:1.25), claws, toony, teeth, red body, sharp teeth, roaring, black eyes, orange body, groudon, open frown, multicolored body, toe claws, 3 toes
+(Amaura:1.25), blue eyes, blue body, blue skin, blue sclera
+(Aurorus:1.25), blue eyes, frown, blue body, fusion, 3 toes
+(sylveon:1.25), white body, blue eyes, ribbons, pink fur
+(Hawlucha:1.25), feathers, wings, beak, yellow eyes, talons, white feathers, winged arms, green body, semi-anthro, flying
+(Dedenne:1.25), teeth, black eyes, holding object, toony, multicolored body, yellow body, buckteeth, feet, markings
+(Carbink:1.25), blue eyes, toony, ice, rock, grey body, featureless feet, neck tuft
+(Goomy:1.25), black eyes, toony, featureless hands, beady eyes, featureless feet, multi leg, slime, larva
+(Sliggoo:1.25), green eyes, antennae \(anatomy\), slime, toony, happy
+(Goodra:1.25), slime, green eyes, purple body
+(Klefki:1.25), toony, featureless feet, suspended in midair, weapon, black eyes, melee weapon, multicolored body, open frown, frown, featureless hands, biped
+(Phantump:1.25), toony, black body, red eyes, pink eyes, multicolored body, floating, brown body, two tone body
+(Trevenant:1.25), 1 eye, fusion, green tail, toony, red eyes, brown body, 2 toes, green body
+(Pumpkaboo:1.25), yellow eyes, pumpkin, fangs, toony
+(Gourgeist:1.25), pumpkin, yellow eyes, brown body
+(Bergmite:1.25), purple eyes, horn, icon
+(Avalugg:1.25), ice, horn
+(Noibat:1.25), yellow eyes, wings, toony, purple wings, two tone wings, winged arms, suspended in midair, multicolored wings, black body, multicolored body, grey wings, purple body, no sclera, neck tuft, featureless feet, black wings, flying, feet, insect wings, membrane \(anatomy\), toes, black eyes, tuft, claws
+(Noivern:1.25), wings, membranous wings, fusion, winged arms, black body, membrane \(anatomy\), claws, red claws, yellow sclera, toes, feet, multicolored body, markings, 3 toes, yellow eyes
+(Xerneas:1.25), antlers, horn, blue eyes, hooves
+(Yveltal:1.25), blue eyes, claws, black body, red body, fusion
+(10% Zygarde:1.25), green body, on hind legs, quadruped, black body, fangs, grey body, eyewear
+(Cell Zygarde:1.25), green body, green eyes, toony
+(Complete Zygarde:1.25), wings, fusion
+(Core Zygarde:1.25), featureless feet, toony, green body, black eyes, larva, big eyes, armless, pupils, featureless hands, white eyes
+(Zygarde:1.25), toony, green body, black body, multicolored body, green eyes
+(Diancie:1.25), gem, diamond \(gem\), crystal, rock, red eyes, on model
+(Unbound Hoopa:1.25), claws, fusion, teeth, sharp teeth, blue body
+(Hoopa:1.25), green eyes, grin, forehead markings
+(Volcanion:1.25), blue eyes, red body, claws, exoskeleton, all fours
+(Rowlet:1.25), beak, feathers, brown feathers, multicolored feathers, black eyes, brown wings, white feathers, feathered wings, wings, eye markings, tan feathers, multicolored body, white wings, two tone beak, feather tuft, toony, brown body, winged arms, facial markings, white body, head markings, mask \(marking\), tail feathers, biped, talons, grey feathers, folded wings, green feathers, feet, two tone wings, orange beak, toes, orange feathers, monotone wings, pupils, grey beak, markings
+(Dartrix:1.25), eyes closed, feathers, wings, beak, brown feathers, feathered wings, white feathers, winged arms, brown body, eye markings, folded wings, white body, multicolored feathers, toony, multicolored body, orange markings, mask \(marking\), biped, brown wings, white wings
+(Decidueye:1.25), wings, feathers, beak, arrow \(weapon\), feathered wings, ranged weapon, brown feathers, orange markings, orange feathers, white feathers, talons, white body, brown body, biped, winged arms, feet, brown wings, toes
+(Litten:1.25), black body, black fur, yellow sclera, red fur, red body, markings, black tail, feet, quadruped, toes, frown, multicolored body, fur tuft, tuft, 3 toes, head markings, facial markings, multicolored fur, facial tuft, cheek tuft, red pawpads, red eyes, tail markings, red markings, two tone tail, cel shading, stripes
+(Torracat:1.25), yellow sclera, black fur, black body, red fur, feet, red body, toes, 3 toes, tuft, markings, claws, cheek tuft, facial tuft, fangs, quadruped
+(Incineroar:1.25), black fur, red fur, black body, red body, yellow sclera, teeth, feet, fire, claws, sharp teeth, stripes, grey body, toes, grey fur, striped body, markings, red stripes, striped fur
+(Popplio:1.25), popplio, blue body, one eye closed, blue skin, wink, bubble, toony
+(Brionne:1.25), pink nose, blue body, fangs, white skin, white body, blue skin, hair
+(Primarina:1.25), starfish \(accessory\), blue eyes, blue hair, long hair, white body, white skin, hair, pink nose, blue body, pearl \(gem\), flippers
+(Pikipek:1.25), toony, feathers, wings, feathered wings, beak, black feathers, black body, white feathers, blue eyes, black eyes, multicolored body, tail feathers, white body, multicolored feathers, white wings, grey feathers, eye markings, alternate species, two tone wings, grey body, black wings, blue sclera, winged arms, featureless feet, red feathers, suspended in midair, black tail, biped
+(Trumbeak:1.25), beak, feathers, black feathers, tail feathers, wings, black body, blue eyes, toony, orange beak, feathered wings, white feathers, grey feathers, multicolored feathers, multicolored body, blue sclera, black wings, frown, feet, winged arms, toes, white body, biped, two tone wings, yellow beak, black eyes, black tail
+(Toucannon:1.25), toony, beak, black body, multicolored body, black feathers, feathers, tail feathers, multicolored feathers, multi tone body, cere \(anatomy\), blue body, wings, frown, toes, eye markings, feet, talons, black tail, markings, black wings, biped, feathered wings, grey beak, grey feathers, white feathers, orange markings, 3 toes, red body, countershade torso, black eyes, yellow body
+(Yungoos:1.25), teeth, black eyes, toony, ursaring, claws, sharp teeth, brown body, tan body, frown
+(Gumshoos:1.25), teeth, sharp teeth, brown body, toony, blonde hair, long snout, claws, frown, brown fur
+(Grubbin:1.25), black eyes, toony, featureless feet, multicolored body, tan body, grey eyes, larva, lighting, white pupils
+(Charjabug:1.25), larva, blue eyes, green body
+(Vikavolt:1.25), yellow eyes, blue body, toony, wings, multicolored body, weapon
+(Crabrawler:1.25), toony, shell, exoskeleton, headgear, purple body, floating, turtle shell, ball
+(Crabominable:1.25), toony, blue body, open frown, white body, blue eyes, pawpads, 4 legs, multicolored body, feet, toes, suspended in midair
+(Pa'u Oricorio:1.25), toony, black eyes, red body, 2 toes, beak, tail feathers, feet, multicolored body, feathers, pink body, toes, biped, wings, crossed arms, raised arm, talons
+(Pom-Pom Oricorio:1.25), toony, on one leg, feathers, beak, suspended in midair, spread arms, black eyes, pink tongue, raised leg, yellow feathers, yellow body, open beak, biped, jumping, feet, multicolored body, toes, wings, semi-anthro
+(Sensu Oricorio:1.25), feathers, beak, tail feathers, winged arms, multicolored feathers, green tail, black eyes, toony, wings, feather tuft, feathered crest, green feathers, multicolored body, green body, white feathers, head crest, blue body, feathered wings, eye markings, feet, blue feathers, suspended in midair, blue tail, toes, feather hands, orange feathers, on one leg, black feathers, green wings, head markings, facial markings, markings, frown, spread arms, two tone wings, biped, open beak, 3 toes, purple body, mask \(marking\), one eye closed, talons, outline, white body, multicolored wings, narrowed eyes, yellow beak
+(Oricorio:1.25), toony, feathers, red body, tail feathers, beak, wings, black eyes, red feathers, feathered wings, feet, toes, multicolored body, talons, winged arms, black body, spread arms, feather tuft, eye markings, multicolored feathers, red tail, biped, suspended in midair, black feathers, 3 toes, claws, markings, black tail, spread wings, alternate species
+(Cutiefly:1.25), black eyes, antennae \(anatomy\), toony, flying, suspended in midair, wings, insect wings, white wings, featureless feet, yellow body, compound eyes, multicolored antennae, brown body, white body, multicolored body, brown wings
+(Ribombee:1.25), wings, insect wings, antennae \(anatomy\), black eyes, toony, featureless feet, white wings, yellow body, scarf, multicolored body, flying, white body, neck tuft, lepidopteran wings
+(Rockruff:1.25), blue eyes, brown body, brown fur, black nose, tan body, multicolored fur, 3 toes, tan fur, frown, multicolored body, toes, tuft, toony, feet, facial tuft, cheek tuft
+(Dusk Lycanroc:1.25), claws, green eyes, orange fur, orange body, white body, white fur, fusion
+(Midnight Lycanroc:1.25), red fur, teeth, claws, red body, sharp teeth, red eyes, glowing eyes, white body, black nose, white fur, toe claws, glowing, black claws, fangs, hair, tuft, multicolored body, 3 toes, lop ears, multicolored fur, grin, digitigrade, toes, feet
+(Lycanroc:1.25), blue eyes, claws, white fur, white body, brown body, black nose, quadruped, brown fur, facial tuft, black claws, cheek tuft, frown, tuft, markings, toe claws, multicolored fur, snout, multicolored body
+(School Wishiwashi:1.25), blue eyes, blue sclera, blue body, black body
+(Wishiwashi:1.25), blue eyes, toony, blue sclera, white body, blue body
+(Mareanie:1.25), purple body, teeth, fangs, blue eyes, sharp teeth, spikes
+(Toxapex:1.25), size difference, spikes, vore, blue eyes
+(Mudbray:1.25), brown body, black eyes, brown fur, hooves, alternate species, toony, quadruped, featureless feet
+(Mudsdale:1.25), hooves, quadruped, brown body
+(Dewpider:1.25), toony, multicolored body, green body, open frown, blue eyes, suspended in midair, beak, frown, blue body, featureless feet, blue sclera, black eyes, two tone body, multi leg, exoskeleton
+(Araquanid:1.25), toony, blue skin, blue body, bubble, green body, suspended in midair
+(Fomantis:1.25), red eyes, green body, toony, pink eyes
+(Lurantis:1.25), lurantis, red sclera, red eyes, toony, red body, green body, antennae \(anatomy\), multicolored body, wings, pink eyes, stripes, exoskeleton, pink body
+(Morelull:1.25), toony, mushroom, fungus, black eyes, suspended in midair, featureless feet, white body, multicolored body
+(Shiinotic:1.25), pink body, featureless feet, fungus, mushroom
+(Salandit:1.25), black body, eyes closed, purple markings, grey body
+(Salazzle:1.25), slit pupils, pupils, purple eyes
+(Stufful:1.25), toony, featureless feet, black eyes, beady eyes, featureless hands, multicolored body, brown body, muzzle \(marking\), snout markings, suspended in midair, tan countershading, tan body, two tone body, brown fur, pink body, black nose, alternate species, countershade torso, multi leg, countershade face
+(Bewear:1.25), pawpads, paws, black eyes, muzzle \(marking\), multicolored body, black nose, snout markings, black body, feet, toes, toony
+(Bounsweet:1.25), yellow eyes, featureless feet, happy, larva
+(Steenee:1.25), not furry, pink eyes
+(Tsareena:1.25), legwear, green hair, purple eyes
+(Comfey:1.25), toony, green body, quadruped
+(Oranguru:1.25), eye markings, frown, prehensile feet, white body, grey body, unibrow, yellow eyes, black outline, mask \(marking\)
+(Passimian:1.25), markings, ball, muzzle \(marking\), white body, mask \(marking\), black fur, black body, white fur, feet, snout markings, toes, multicolored body, gloves \(marking\), multicolored fur, grey body, socks \(marking\), prehensile feet, tuft, eye markings, tail markings, leg markings, yellow eyes, frown, fusion, fur tuft, 3 toes, yellow sclera, grey fur
+(Wimpod:1.25), yellow eyes, purple body, toony
+(Golisopod:1.25), exoskeleton, multi leg, toony, claws, multi limb, biped, multicolored body
+(Sandygast:1.25), toony, black eyes, food, white pupils, candy, multicolored body, brown body
+(Palossand:1.25), toony, shovel, black eyes, on model, sand, tan body, mud, beady eyes, spots, multicolored body, featureless feet
+(Pyukumuku:1.25), larva, vertical bar eyes, multi leg, featureless feet
+(Type-Null:1.25), helmet, armor, headgear, fusion, claws
+(Silvally:1.25), toony, wings, claws, teeth, fangs, multicolored body
+(Core Minior:1.25), multi leg, featureless feet, pink body, glowing, toony
+(Minior:1.25), multi leg, toony, spikes, exoskeleton, multicolored body, on model, featureless feet, black countershading, black eyes, alternate species, brown body
+(Komala:1.25), sleeping, eyes closed, food, seashell, multicolored body, blue body, two tone body, multicolored fur
+(Turtonator:1.25), red body, toony, multicolored body, fusion, frown, eye markings
+(Togedemaru:1.25), toony, black eyes, cheek spots, multicolored body, yellow body, black nose, two tone body, markings, beady eyes, white body, feet, featureless hands, grey body, grey eyes, yellow fur, featureless feet
+(Mimikyu:1.25), disguise
+(Bruxish:1.25), teeth, blue body, narrowed eyes, half-closed eyes
+(Drampa:1.25), toony, green body, multicolored body, frown, green tail, white body, two tone tail, long tail, white tail, two tone body, countershade torso, blue body, blue tail, markings, countershade face, multi leg
+(Dhelmise:1.25), red eyes, toony, pupils, eyewear, slit pupils
+(Jangmo-O:1.25), red eyes, claws, grey body, grey feathers, feathers, yellow body
+(Hakamo-O:1.25), claws, red eyes, grey body, frown, yellow claws
+(Kommo-O:1.25), fusion, claws, toony, frown, yellow claws, grey body, feet, fangs, toes, toe claws, grey tail, multicolored body, looking away
+(Tapu-Koko:1.25), shield, weapon, blue eyes, melee weapon, wings, feathers, black body, orange body, holding object, axe, multicolored eyes, orange markings, holding weapon, black feathers, beak, fusion, orange feathers
+(Tapu-Lele:1.25), headgear, headwear, fusion, hair, blue eyes
+(Tapu-Bulu:1.25), black body, multicolored eyes, horn, toony
+(Tapu-Fini:1.25), wings, blue eyes, membrane \(anatomy\), claws, blue body
+(Cosmog:1.25), sparkles, toony, yellow eyes, bubble, blue body, glowing, multicolored body, black body
+(Cosmoem:1.25), sparkles, blue body, glowing, blue eyes, glistening, eyes closed, one eye closed
+(Solgaleo:1.25), blue eyes, quadruped, white body, mane, white fur
+(Lunala:1.25), wings, membrane \(anatomy\), membranous wings, spread wings, red eyes, purple body, flying, suspended in midair, green body, teeth, claws
+(Nihilego:1.25), tentacles, suspended in midair, sea slug, toony
+(Buzzwole:1.25), wings, huge muscles, big muscles, flexing, red body, multi limb, biceps, insect wings, pecs, hyper muscles, antennae \(anatomy\), fist, multi arm
+(Pheromosa:1.25), antennae \(anatomy\), blue eyes, eyelashes
+(Xurkitree:1.25), toony, artsy-theo, on model, black body, multicolored body, biped, lighting, looking away, level difference, shadow, tendrils, white body, spikes, black tail, snout, facial markings, head markings, feet, black fur, grey body, markings, frown, toes, countershade torso, suspended in midair, long tail
+(Celesteela:1.25), horn, green body, bamboo, white body
+(Kartana:1.25), white body, toony, white feathers, feathers
+(Guzzlord:1.25), spikes, multi limb, black body, glowing, claws, spiked tail, multi arm, horn, bioluminescence
+(Dawn Necrozma:1.25), machine, weapon, wings, armor, pink eyes
+(Dusk Necrozma:1.25), machine, blue eyes, claws, glowing, glowing eyes, wings, black body, armor, white body, weapon
+(Ultra Necrozma:1.25), blue eyes, wings, red eyes, spikes, yellow body, claws, fusion, heterochromia
+(Necrozma:1.25), machine, claws, spikes, red eyes, blue eyes, black body
+(Magearna:1.25), toony, on model, pink eyes, multicolored eyes, suspended in midair, red eyes, :o, pupils, multicolored body, white body
+(Marshadow:1.25), grey body, grey fur, black body, red eyes, black fur, red sclera, orange eyes, tuft
+(Poipole:1.25), toony, blue eyes, antennae \(anatomy\), featureless feet, purple body, exoskeleton
+(Naganadel:1.25), suspended in midair, flying, claws, spikes, wings, horn, teeth, blue eyes, roaring, fusion, fangs
+(Stakataka:1.25), 1 eye, machine, blue eyes
+(Blacephalon:1.25), toony, clown, artsy-theo, on model
+(Zeraora:1.25), blue eyes, yellow fur, yellow body, claws, black body, black fur, fangs, toes, feet, 3 toes, fist, action pose, tuft
+(Meltan:1.25), toony, black eyes, featureless feet
+(Melmetal:1.25), machine, toony, 1 eye, grey body, glistening
+(Grookey:1.25), food, green body, black eyes, eye markings, toony, fruit, feet, mask \(marking\), brown body, toes, muzzle \(marking\), multicolored body, snout markings, markings, tan body, vegetable, green fur
+(Thwackey:1.25), crossed arms, snout markings, muzzle \(marking\), feet, eye markings, toes, green body, red nose, frown, 3 toes, multicolored body, green fur, toony, brown body, markings, tan body, biped, tuft, countershade torso, countershade face, green tail, multicolored fur, mask \(marking\), green ears, looking away, orange nose, brown eyes, two tone body, head tuft, brown fur, tan fur
+(Rillaboom:1.25), rillaboom, muzzle \(marking\), snout markings, feet, orange eyes, toes, orange nose, biped, plant hair, brown body, multicolored body, tuft, markings, eye markings, grey body, facial markings, frown, white body, orange markings, head markings
+(Scorbunny:1.25), buckteeth, teeth, white body, orange eyes, white fur
+(Raboot:1.25)
+(Cinderace:1.25), kick, white body, white fur, orange eyes, feet, toes, on one leg, action pose, raised leg, 3 toes, teeth, long ears, short tail, fighting pose
+(Sobble:1.25), sobble, blue body, blue eyes, toony, blue skin, cheek spots
+(Drizzile:1.25), frown, blue body, curled tail, narrowed eyes, green body, half-closed eyes, green eyes, toony
+(Inteleon:1.25), blue body, yellow eyes, toes, feet, crossed arms, 3 toes, smug, blue tail, multicolored body, yellow body, biped, black markings, markings, black body, countershade torso, gesture, eye markings, long tail, claws, countershade face, narrowed eyes, half-closed eyes, raised arm, pupils
+(Skwovet:1.25), buckteeth, brown body, black eyes, grey body, teeth, blush, brown fur, grey tail, beady eyes, mask \(marking\), multicolored body, fluffy, head tuft, brown tail, feet, tuft, grey fur, fluffy tail, markings, grey eyes, tan body, big tail, grey feet, grin, muzzle \(marking\)
+(Greedent:1.25), brown body, brown fur, buckteeth, teeth, muzzle \(marking\), snout markings, overweight ambiguous, multicolored body, eye markings, head tuft, overweight, brown tail, pink tongue, overweight feral, multicolored fur, black eyes, brown countershading, countershade face, feet, white pupils, tuft, happy, tan body, fur tuft, two tone body
+(Rookidee:1.25), toony, beak, feathers, red eyes, tail feathers, multicolored body, multicolored feathers, blue body, grey beak, wings, black feathers, biped, feathered wings, black body, feet, frown, white feathers, blue tail, toes, black eyes, multi tone body, grey body, countershade torso, blue feathers, black wings, grey feathers, two tone wings, grey tail, winged arms, 3 toes, folded wings, feather tuft, two tone body
+(Corvisquire:1.25), wings, beak, red eyes, feathers, toony, blue body, black feathers, tail feathers, multicolored body, toes, black body, winged arms, feet, grey feet, multicolored feathers, feathered wings, two tone wings, black wings, 3 toes, grey feathers, blue wings, grey body, grey beak, biped, grey wings, blue tail, talons, frown, spread wings, claws, blue feathers, countershade torso, grey tail, toe claws, black tail
+(Corviknight:1.25), beak, black feathers, feathers, red eyes, tail feathers, black sclera, black body, red sclera, wings, blue body, claws, talons, feathered wings, toony, feet
+(Blipbug:1.25), toony, multicolored body, black eyes, frown, featureless feet, feet, 2 toes, 3 toes, suspended in midair, markings, toes, blue body, dot eyes, two tone body, beak, two tone tail, no pupils, countershade torso, white body, biped, purple body
+(Dottler:1.25), blue eyes, featureless feet, umbrella, toony, blue body
+(Orbeetle:1.25), toony, fusion, blue eyes
+(Nickit:1.25), nickit, markings, yellow eyes, eye markings, fangs, black body, orange body, head markings, orange fur, facial markings, multicolored body
+(Thievul:1.25), markings, orange body, black body, orange fur, black fur, quadruped, multicolored body, mask \(marking\), eye markings, tail markings, multicolored fur, socks \(marking\), black tail, nickit, leg markings, yellow eyes, smug, black markings, black nose, two tone tail
+(Gossifleur:1.25), yellow eyes, green body
+(Eldegoss:1.25), green body, brown eyes, food
+(Wooloo:1.25), wool \(fur\), white wool, horizontal pupils, pupils, daww, quadruped, white body, white fur, yellow sclera, pink nose
+(Dubwool:1.25), horn, quadruped, brown body, horizontal pupils, multicolored body, brown horn, tuft, white body, wool \(fur\), pupils, yellow eyes, black body, brown fur, white fur, multicolored fur, neck tuft, toony
+(Chewtle:1.25), blue body, shell, toony, blue skin, black eyes, open frown
+(Drednaw:1.25), toony, exoskeleton, black eyes, claws, on model, green body, shell, spikes, white claws, multicolored body, feet, toes, 3 toes, teeth, blue body, alternate species, frown
+(Yamper:1.25), green eyes, multicolored body, fangs, quadruped, pink tongue, multicolored fur, yellow inner ear, feet, white body, yellow body, 3 toes, toes, two tone body, white fur, brown body, tuft, two tone fur, tan body, markings, yellow fur, brown fur
+(Boltund:1.25), multicolored body, multicolored fur, running, yellow body, yellow fur, green eyes, pink tongue, quadruped, two tone fur, two tone body, black nose, yellow tail, countershade face, markings, two tone tail, white body, tan body, toes, feet, white fur, yellow stripes, yellow inner ear, yellow markings, tuft, snout, yellow nose, countershade torso, tan fur, yellow ears, fangs, cheek tuft, facial tuft, white tail, 3 toes, teeth, toony, white countershading, leg markings
+(Rolycoly:1.25), toony, rock creature, multicolored body
+(Carkol:1.25), rock creature, toony, black eyes, rock, black body, grin, multicolored body, teeth
+(Coalossal:1.25), toony, rock creature, spikes, rock
+(Applin:1.25), toony, fruit, green body, featureless feet, black eyes, food, yellow eyes, larva, beady eyes, multicolored body, multi leg, red body
+(Flapple:1.25), toony, wings, green body, black eyes, frown, horn, alternate species, flying
+(Appletun:1.25), food, fruit, fungus, mushroom, larva
+(Silicobra:1.25), green eyes, tan body, toony, frown
+(Sandaconda:1.25), stripes, striped body, green eyes
+(Cramorant:1.25), feathers, beak, wings, blue body, multicolored feathers, yellow beak, tail feathers, toony, feathered wings, blue wings, winged arms, blue feathers, webbed feet, blue tail, feather tuft, multicolored body, head crest, white feathers, green eyes, biped, feathered crest, two tone feathers, feet, two tone wings, eye markings, black eyes, toes, grey feathers, orange feathers, open beak, white body, folded wings, frown, tuft, spread wings, looking away
+(Arrokuda:1.25), black eyes, toony, tan body, brown body, fin, yellow body, shell, humor, white body, multicolored body, beady eyes
+(Barraskewda:1.25), membrane \(anatomy\), wings, fin, membranous wings, toony, gills, black eyes, fangs
+(Toxel:1.25), blue eyes, purple body, toony, feet, purple tail, 3 toes, narrowed eyes, blep, toes
+(Low key Toxtricity:1.25), spikes, amped toxtricity, blue body, purple body, 3 toes, feet, biped
+(Toxtricity:1.25), amped toxtricity, spikes, purple body, electricity, yellow body, feet, toes, 3 toes
+(Sizzlipede:1.25), red body, yellow eyes, toony
+(Centiskorch:1.25), fire, toony, exoskeleton, multi leg, alternate species
+(Clobbopus:1.25), blue eyes, featureless feet, toony, blue sclera
+(Grapploct:1.25), featureless hands, toony, featureless feet, blue body, yellow markings, blue eyes
+(Sinistea:1.25), tea cup, cup, container, teapot, tea, beverage, coffee, blue body, not furry, holding cup, jar, purple body, empty eyes
+(Polteageist:1.25), teapot, cup, tea cup, purple body, container, tea, beverage, yellow eyes, featureless hands
+(Hatenna:1.25), blue body, eyes closed, open frown
+(Hattrem:1.25), blue body
+(Hatterene:1.25), blue body, sparkles, fusion, white body, white pupils, black sclera
+(Impidimp:1.25), toony, spread arms, fangs, purple body
+(Morgrem:1.25), red eyes, fangs, red body, cute fangs, feet, looking down
+(Grimmsnarl:1.25), red eyes, fangs, teeth, fusion, feet
+(Obstagoon:1.25), black body, grey body, claws, black fur, teeth, eye markings, biped, grey fur, multicolored body, fangs, leg tuft, pink tongue, markings, sharp teeth, tuft, scar, pink eyes, white body, feet, facial markings, fur tuft
+(Perrserker:1.25), horn, teeth, toony, black body, feet, toes
+(Cursola:1.25), frown, on model, red eyes, :<, toony, horn, pink eyes, antlers, bodily fluids
+(Sirfetchd:1.25), feather tuft, vegetable, unibrow, food, holding food, yellow beak, white body, lighting, head tuft, shield, shadow, tuft, white feathers, holding object, beak, biped, eyebrows, webbed feet, feathers, feet, multicolored body, feathered crest, eye markings, black markings, white fur, toes, smug, thick eyebrows, pose, white tail, feather hands, outline, chest tuft, narrowed eyes, head crest, 3 toes, brown eyes, markings
+(Mr-Rime:1.25), toony, yellow eyes, headgear, headwear, mustache, blue body
+(Runerigus:1.25), markings, purple eyes, red markings, grey body, pupils, serpentine, 1 eye
+(Milcery:1.25), empty eyes, toony, no pupils, white eyes
+(Alcremie:1.25), strawberry, food, fruit, red eyes
+(Falinks:1.25), toony, blue eyes, multi leg, featureless feet, multicolored body, black body, red body, black countershading, yellow body, exoskeleton, glowing, on model, alternate species, evolutionary family
+(Pincurchin:1.25), spikes, multi leg
+(Snom:1.25), white body, black eyes, multi leg, featureless feet
+(Frosmoth:1.25), suspended in midair, white wings, multi wing, flying, wings, white body, antennae \(anatomy\), toony, lepidopteran wings, two tone wings, blue eyes, featureless feet, multi limb, white fur, multicolored body, multi leg, compound eyes, tuft, multicolored wings, yellow eyes, spread wings, alternate species, neck tuft, two tone body, larva, looking aside
+(Stonjourner:1.25), featureless feet, toony, rock creature, on model, artsy-theo, grey body, multicolored body, quadruped, rock, vertical bar eyes, featureless hands, white eyes, empty eyes, black eyes
+(Eiscue:1.25), black feathers, beak, toony, feathers, multicolored feathers, white feathers, black body, featureless feet, white body, blue body, white spots, multicolored body, wings, monotone wings, ice, biped, white wings, frown, feathered wings, blue eyes, black eyes, semi-anthro, black wings, blue feathers, two tone feathers, feather tuft, tail feathers
+(Indeedee:1.25), white body, :<, brown eyes, white fur, frown, eyelashes
+(Indeedee:1.25), brown eyes, white body, waving, white fur, semi-anthro, markings
+(Hangry Morpeko:1.25), red eyes, teeth, grey body
+(Morpeko:1.25), yellow body, black eyes, yellow fur, holding object, teeth, muzzle \(marking\), snout markings, multicolored body, semi-anthro, cheek spots, happy, toony, rosy cheeks, feet
+(Cufant:1.25), black eyes, green body, multicolored body, quadruped, happy, toony, orange body, grey eyes, blue body, green tail, markings, tan body
+(Copperajah:1.25), toony, multicolored body, green body, orange markings, black eyes, countershade torso, green tail, orange body, looking away, wide stance, 3 toes, feet, frown, biped, toes, two tone body, markings, tusks, metallic body, countershade face, orange tail, two tone tail, open frown, exoskeleton, looking aside
+(Dracozolt:1.25), yellow body, cheek spots, eyes closed, claws, yellow tail, red body, yellow fur, teeth, blush, yellow ears, electricity
+(Arctozolt:1.25), flippers, blue body, vore, yellow body, head crest, sweat, big belly, belly, bodily fluids, feathers, eyes closed, blue tongue
+(Dracovish:1.25), toony, black eyes, red body, blue body, green body, multicolored body, teeth, claws
+(Arctovish:1.25), blue body, toony, featureless feet, blue tail, blue skin
+(Duraludon:1.25), metallic body, froslass, yellow eyes
+(Dreepy:1.25), yellow eyes, green body, yellow sclera, black eyes
+(Drakloak:1.25), toony, suspended in midair, yellow eyes, multicolored body, black eyes, on model, blue body, two tone body, green body, pink tongue, feet, toes, yellow sclera, blue skin, 3 toes
+(Dragapult:1.25), size difference, yellow eyes, claws, level difference, black body, green body, red body, floating, on model, flying, multicolored body, suspended in midair, toes, feet, 3 toes, head markings, facial markings, markings, red markings, toe claws, green tail, white claws, narrowed eyes
+(Crowned Sword Zacian:1.25), zacian, weapon, object in mouth, sword, melee weapon, mouth hold, holding object, prick ears, two tone eyes, blue body, multicolored eyes, blue fur, yellow eyes, white body, holding sword, quadruped, multicolored body, tuft, holding weapon, multicolored fur, white fur, tendrils, snout, pose, brown body
+(Zacian:1.25), zacian, blue body, quadruped, blue fur, multicolored body, prick ears, blue tail, markings, yellow eyes, multicolored fur, white body, black markings, eye markings, snout, leg tuft, head markings, looking aside, facial markings, frown, black claws, outline, two tone tail, claws, tuft
+(Crowned Shield Zamazenta:1.25), weapon, zacian, melee weapon, blue body, two tone eyes, blue fur, sword, red body, red fur, multicolored eyes, quadruped, object in mouth, white body, mouth hold, multicolored body, outline, yellow eyes, tuft, holding object, teeth, multicolored fur, white fur, fighting pose, prick ears, snout
+(Zamazenta:1.25), red fur, red body, blue fur, blue body, quadruped, yellow eyes, white body, zacian, multicolored body, multicolored fur, white fur, markings, red tail, snout, blue tail, head markings, facial markings, claws, hair, black nose
+(Eternatus:1.25), glowing eyes, teeth, glowing, claws, red eyes
+(Kubfu:1.25), muzzle \(marking\), snout markings, multicolored body, head tuft, markings, multicolored fur, facial markings, fur tuft, frown, tuft, black eyes, head markings, grey body, white body, eye markings, grey markings, facial tuft, black nose, cheek tuft, white fur, grey fur, mask \(marking\), black fur, black markings, 3 toes, fist, lighting, black body, grey tail, two tone fur, biped, two tone body, toes, feet, eyebrows, gloves \(marking\), white markings, leg markings, shadow, socks \(marking\), countershade face, leg tuft, white eyebrows, grey ears, toony, grey eyes, black tail, chest tuft, countershade torso, two tone tail, thick eyebrows, fighting pose, white tail
+(Rapid Strike Urshifu:1.25), urshifu, muzzle \(marking\), snout markings, multicolored body, grey body, toes, yellow claws, feet, black eyes, black body, fighting pose, eye markings, 3 toes, claws, on one leg, frown, raised arm, raised leg, fist, two tone body, facial markings, markings, black tail, yellow stripes, head markings, grey tail, white body, biped, black fur, toe claws, mask \(marking\), countershade face, beak, toony, fusion, multicolored fur, two tone tail, black markings, grey fur, grey feathers, countershade torso, green body, black feathers, white claws, feathers
+(Single Strike Urshifu:1.25), urshifu, fighting pose, toes, muzzle \(marking\), feet, grey body, multicolored body, snout markings, 3 toes, fist, eye markings, biped, lighting, grey tail, black body, yellow markings, mask \(marking\), countershade face, black eyes, white body, yellow claws, markings, yellow beak, black markings, countershade torso, looking away, two tone body, facial markings, head markings, shadow, yellow stripes, green body, raised arm, grey fur, black tail, toe claws, tuft, multicolored fur, frown, pose, claws, beak
+(Dada Zarude:1.25), black body, claws, black fur, yellow sclera, grey body, scarf, fangs, fusion, toes, feet, teeth, green eyes, tentacles, grey fur, black claws, toe claws
+(Zarude:1.25), black body, claws, grey body, black fur, toes, green eyes, feet, fangs, black tail, toe claws, fusion, green markings, teeth, yellow sclera, grey fur, tuft, sharp teeth, multicolored body, markings, 3 toes, grey tail, eye markings, green body, white claws, black claws, green claws, facial tuft, cheek tuft, crouching, toony, facial markings
+(Regieleki:1.25), toony, yellow body, electricity, suspended in midair, on model, multi limb, featureless feet, stinger
+(Regidrago:1.25), multi leg, multi limb, blue eyes, toony, larva
+(Glastrier:1.25), blue body, white body, claws, quadruped, white eyes
+(Spectrier:1.25), quadruped, mane, hair, frown, vore, black body
+(Ice Rider Calyrex:1.25), riding, white body, white eyes, wings, quadruped, white wings, white fur, claws, blue body, 3 toes, multicolored body, blue eyes, blue tail, pupils, toes, feet, reins, size difference, black eyes, feathers, white nose, two tone body, pearl \(gem\), tendrils, spread wings
+(Shadow Rider Calyrex:1.25), mane, two tone mane, white body, blue eyes, horn, hair, green hair, riding, quadruped, multicolored mane, hooves, white fur
+(Calyrex:1.25), frown, white body, toony, suspended in midair, multicolored body, blue eyes, green body, tendrils, scarf, blue sclera, white wings, two tone body, white fur, pupils, feet, featureless feet, markings, 3 toes, eye markings, looking away, toes
+(Wyrdeer:1.25), grey hooves, horn, antlers, toony, hooves, grey body, multicolored body, quadruped, frown, red nose, black eyes
+(Kleavor:1.25), exoskeleton, on model, toony, fusion, stinger, claws, biped, spikes, black eyes, multicolored body
+(Ursaluna:1.25), green eyes, brown body, claws, white claws, teeth, fangs, mask \(marking\), quadruped, brown fur, multicolored body, toe claws, grey body, muzzle \(marking\), ursaring, pink tongue, feet, all fours, open frown, toes, snout markings, tan body, roaring, snout, toony, 3 toes
+(Female Basculegion:1.25), toony, green body, multicolored body, open frown, teeth, suspended in midair, two tone body, on model, fangs, alternate species, snout, white body, black eyes, white eyes, horn
+(Male Basculegion:1.25), toony, suspended in midair, multicolored body, on model, fangs, green body, alternate species, artsy-theo, quadruped, pink eyes, teeth, countershade torso, snout, markings, two tone body, multi leg, open frown, facial markings, head markings, red eyes, spots, pink body, pink tongue
+(Sneasler:1.25), long claws, claws, forehead gem, gem, red eyes, fangs, toe claws, feet, 3 toes, toes, semi-anthro, tuft, smug, cute fangs, 3 claws, fusion
+(Overqwil:1.25), frown, spikes, toony, fusion, multicolored body, purple eyes
+(Therian Enamorus:1.25), antennae \(anatomy\), claws, narrowed eyes, <3, multicolored body, half-closed eyes, markings, red body
+(Enamorus:1.25), pink body, horn, smug, antennae \(anatomy\), scarf, purple body
+(Sprigatito:1.25), green body, green fur, fangs, red eyes, cute fangs, quadruped, happy, pink eyes
+(Floragato:1.25), green body, green fur, candy, 3 toes, dessert, claws, food, toes, feet, red eyes, semi-anthro, pink eyes
+(Meowscarada:1.25), green body, green fur, toes, feet, 3 toes, claws, fusion, paws, pink eyes, pawpads, smug, drugs
+(Fuecoco:1.25), toony, red body, black eyes, fangs, multicolored body, 3 toes, claws, grey eyes, feet, shadow, toes, open frown, teeth, white body, semi-anthro
+(Crocalor:1.25), toony, open frown, teeth, black eyes, red body, fusion, sharp teeth, multicolored body, fangs, claws, orange body, yellow body
+(Skeledirge:1.25), fire, toony, red body, multicolored body, alternate species, claws, yellow eyes, fire manipulation
+(Quaxly:1.25), blue eyes, beak, blue body, yellow beak, blue sclera, white body, feet, toony, semi-anthro
+(Quaxwell:1.25), beak, feathers, yellow beak, blue eyes, blue body, white feathers, white body, blue feathers, multicolored body, frown, tail feathers, feathered wings, on one leg, biped, piplup
+(Quaquaval:1.25), blue body, feathers, beak, fusion, blue eyes, blue feathers, blue sclera, wings, tail feathers
+(Lechonk:1.25), black eyes, toony, featureless feet, muzzle \(marking\), alternate species, snout markings, black body, tan body, brown body, multicolored body, vertical bar eyes
+(Female Oinkologne:1.25), brown body, brown fur, muzzle \(marking\), snout markings, narrowed eyes, quadruped, half-closed eyes, tan body, pink nose, eye markings, facial markings, tuft
+(Male Oinkologne:1.25), anal beads, black body, black fur, grey body, narrowed eyes, pink nose
+(Tarountula:1.25), toony, multi leg, featureless feet, antennae \(anatomy\), multi limb, larva, suspended in midair, multicolored body, exoskeleton, black eyes, two tone body, alternate species, beady eyes, biped, tan body, markings, white body, blue eyes, countershade torso, on model, stripes, insect wings, compound eyes, overweight ambiguous, yellow body, two tone tail, feet, frown, eye markings, green body
+(Spidops:1.25), exoskeleton, toony, arthropod webbing, multi limb, on model, green body, multi leg, machine, featureless feet, black eyes, biped, looking away, spider web, alternate species, multicolored body
+(Nymble:1.25), toony, machine, featureless feet, grey body, multicolored body, alternate species
+(Lokix:1.25), insect wings, wings, antennae \(anatomy\), toony, black body, exoskeleton
+(Pawmi:1.25), brown eyes, orange body, frown, cheek spots, :<, orange fur, markings, multicolored body, multicolored fur, tan body, quadruped
+(Pawmo:1.25), small nose, yellow body, 3 toes, brown eyes, feet, toes, cheek spots, toony, multicolored body, brown body, markings, semi-anthro, tuft, yellow inner ear, yellow fur, multicolored fur, tan body, two tone body, yellow tail
+(Pawmot:1.25), happy, toony, tuft, semi-anthro, yellow body, feet, 3 toes, toes, orange body, markings
+(Tandemaus:1.25), white body, black eyes, white fur, :<, simple eyes, dot eyes, grey body, frown
+(Four Maushold:1.25), group, white body, black eyes, white fur, :<
+(Fidough:1.25), black eyes, toony, featureless feet, curled tail, multicolored body, featureless hands, tan body, overweight ambiguous, multi leg, two tone body, quadruped, white body, countershade torso, beady eyes, yellow body, tan countershading, grey eyes, larva, multicolored fur, countershade face
+(Dachsbun:1.25), quadruped, toony, brown body, multi leg, tan body, multicolored body, toes, feet, tan tail, brown fur, fusion, black eyes, tuft, brown tail, grey eyes, 3 toes, yellow body, two tone body, brown eyes, markings, countershade torso, orange body
+(Smoliv:1.25), larva, green body, featureless feet, toony, multi leg
+(Dolliv:1.25), green body, black eyes, toony
+(Arboliva:1.25), eyes closed, green body
+(Green Squawkabilly:1.25), feathers, beak, wings, green body, green feathers, black eyes, white feathers, toony, feathered wings, yellow beak, tail feathers, toes, feet, multicolored feathers, multicolored body, biped
+(Nacli:1.25), brown body, toony, multi tone body
+(Naclstack:1.25), rock, zero pictured
+(Garganacl:1.25), toony, yellow eyes, brown body, 4 legs
+(Charcadet:1.25), fire, red eyes, toony, black body, red body, orange eyes
+(Armarouge:1.25), toony, fire, red body, armor, red eyes, black body, yellow body, exoskeleton, featureless feet, yellow eyes
+(Ceruledge:1.25), armor, melee weapon, weapon, sword, helmet, blue body, pink eyes, purple body, purple eyes, biped, colored fire, fire
+(Tadbulb:1.25), featureless feet, glowing, toony, empty eyes, yellow eyes
+(Bellibolt:1.25), green body, featureless feet, yellow eyes
+(Wattrel:1.25), toony, beak, feathers, black eyes, black feathers, black body, wings, multicolored body, multicolored feathers, orange beak, tail feathers, eye markings, black tail, winged arms, feet, flippers, feathered wings, webbed feet, toes, white feathers, biped, open beak, yellow beak, black markings, suspended in midair, black wings
+(Kilowattrel:1.25), toony, winged arms, multicolored feathers, beak, tail feathers, feathers, wings, multicolored body, grey beak, black feathers, black body, open beak, black wings, biped, feathered wings, two tone wings, suspended in midair, multi tone body, black tail, white feathers, feet, multicolored wings, toes, grey feathers, eye markings, frown, black eyes, white body, open frown, feathered crest, spread wings, two tone tail, flying, yellow body, red feathers, feather tuft, yellow feathers, brown feathers, grey body, talons, year, orange beak, two tone body, red body, two tone feathers, white tail, countershade torso, head crest, blue wings, grey feet, brown body, monotone tail, markings, small pupils, grey wings, red tongue, orange feathers, black beak, yellow beak, pink tongue
+(Maschiff:1.25), teeth, black eyes, feet, quadruped, toes, floppy ears, blonde hair, yellow body, brown body, white pupils, grey eyes
+(Mabosstiff:1.25), brown body, grey body, brown wings, tuft, quadruped, multicolored body, eyebrows, frown, feet, toes, feathers, facial hair, grey tail, looking aside, brown fur, facial tuft, brown tail, cheek tuft, grey fur, black body, feathered wings, wings, tan body, neck tuft, head tuft, thick eyebrows, looking away, markings, beak, toony, eye markings, grey countershading, grey markings, flat colors, brown eyes, black eyes, mask \(marking\)
+(Shroodle:1.25), toony, featureless feet, multicolored body, black eyes, larva, green body, blue body, green eyes, biped, black body, two tone body
+(Grafaiai:1.25), green eyes, grey body, black body, mask \(marking\), saliva, markings, toony, feet, multicolored body, teeth, 3 toes, toes
+(Bramblin:1.25), toony, on model, red eyes, multicolored body, black eyes, suspended in midair, multi leg, pupils, brown body, biped, featureless feet, long neck, feet, wings, countershade torso, toes, black body, markings
+(Brambleghast:1.25), red eyes, spikes, toony, gem, fusion
+(Toedscool:1.25), toony, black eyes, frown, multicolored body, pupils, tan body, suspended in midair, head markings, facial markings, markings, two tone body, narrowed eyes, half-closed eyes
+(Toedscruel:1.25), headwear, headgear, toony, grey eyes, yellow body, tentacles, all the way through, black eyes, vore
+(Klawf:1.25), toony, looking up, raised arm, claws, blush, teeth, feet, wide eyed, orange body
+(Capsakid:1.25), green body, black eyes, semi-anthro, toony, green eyes, featureless feet, beak, green feathers, chibi
+(Scovillain:1.25), green body, fangs, black eyes, toony, teeth, red body, spikes
+(Rellor:1.25), toony, featureless feet, exoskeleton, black eyes, antennae \(anatomy\), 4 legs, multicolored body, larva, multi limb, feet
+(Rabsca:1.25), eyes closed, blue body, feet
+(Flittle:1.25), multi leg, featureless feet, black eyes, yellow body, exoskeleton, larva, white eyes
+(Espathra:1.25), multi leg, blue eyes, multi limb, exoskeleton, 4 legs, multicolored body, toony
+(Tinkatink:1.25), holding object, pink body, bodily fluids, frown, pink skin, simple shading, open frown, toony
+(Tinkatuff:1.25), axe, weapon, holding object, action pose, melee weapon, hammer, pink body, tools, toony, holding weapon, open frown, feet, semi-anthro, exoskeleton, toes
+(Tinkaton:1.25), pink body, toony, on model, evolutionary family, level difference, rock
+(Wiglett:1.25), toony, blue eyes, overweight ambiguous, white body, multicolored body, black eyes, flippers, looking up, green body, biped
+(Wugtrio:1.25), red body, blue eyes, pink skin, red skin
+(Bombirdier:1.25), feathers, beak, wings, white feathers, tail feathers, winged arms, feathered wings, talons, multicolored feathers, black eyes, black feathers, open beak, toony, head crest, white body, eye markings, two tone feathers, white wings, grey feathers, biped, multicolored body, anisodactyl, pelecaniform, spread wings, red feathers, feet, orange beak, folded wings, feather tuft, toes, long neck, cere \(anatomy\)
+(Finizen:1.25), blue body, red eyes, fin, blue skin
+(Hero Palafin:1.25), blue skin, blue body, toony
+(Zero Palafin:1.25), blue body, red eyes, fin, blue skin
+(Varoom:1.25), toony, featureless feet, rock creature, multicolored body, yellow eyes, grey body, alternate species, black countershading, black body, black eyes, metallic body, two tone body, artificial intelligence, exoskeleton
+(Revavroom:1.25), yellow eyes, grey body, black countershading, laboratory equipment, black body, laboratory glassware
+(Cyclizar:1.25), green body, black eyes, green tail, countershade torso, toony, multicolored body, toes, feet, 3 toes, biped, countershade face, grey eyes, two tone body, black body, looking away, claws
+(Orthworm:1.25), blue eyes, red body, machine
+(Glimmet:1.25), yellow eyes, glowing, glowing eyes, toony, featureless feet, blue body
+(Glimmora:1.25), feathers, beak, blue body, wings, yellow eyes, feathered wings, white feathers, multicolored body, toony, multicolored feathers, blue feathers
+(Greavard:1.25), candle, grey body, grey fur, fire, white body, toony, quadruped, teeth, white fur, multicolored body
+(Houndstone:1.25), grey body, claws, toony, multicolored body, toe claws, feet, toes, grey tail, eyes closed, talons, white body, 3 toes, wings, biped, beak, bone, markings, winged arms, feathers
+(Flamigo:1.25), toony, multicolored body, feathers, beak, tail feathers, multi tone body, biped, suspended in midair, multicolored feathers, pink body, feet, feathered wings, winged arms, wings, red body, toes, markings, frown, two tone body, black body, folded wings, black eyes
+(Cetoddle:1.25), spread arms, white body, grey eyes, horn, black eyes, pink tongue, markings, feet, multicolored body, toony
+(Cetitan:1.25), on model, toony, spikes, black sclera, multicolored body, black eyes, white body
+(Veluza:1.25), teeth, sharp teeth, fin, gills
+(Dondozo:1.25), fin, barbel \(anatomy\), flesh whiskers, scales, black eyes, shell, blue body, tail fin, toony
+(Curly Tatsugiri:1.25), black eyes, orange body, toony, white pupils, orange markings, multicolored body, white body
+(Droopy Tatsugiri:1.25), black eyes, red body, grey eyes, white body, white pupils
+(Stretchy Tatsugiri:1.25), black eyes, larva, mouthless, white pupils
+(Annihilape:1.25), cuff \(restraint\), shackles, grey body, feet, restraints, red eyes, grey fur, red sclera, toony
+(Clodsire:1.25), toony, black eyes, brown body, feet
+(Farigiraf:1.25), ossicone, snout markings, black eyes, muzzle \(marking\), toony, fusion, orange body, teeth, yellow body, multicolored body
+(Two Dudunsparce:1.25), larva, featureless feet, yellow body
+(Kingambit:1.25), armor, weapon, melee weapon, crouching, sword, red body, yellow eyes, black body
+(Great Tusk:1.25), spikes
+(Scream Tail:1.25), pink body, pink fur, fangs, yellow eyes
+(Brute Bonnet:1.25), pokeball, spikes, green body
+(Flutter Mane:1.25), yellow eyes, wings, flying, yellow sclera, feathers
+(Slither Wing:1.25), wings, yellow eyes
+(Sandy Shocks:1.25), machine, toony, yellow eyes, 1 eye, blue body, black body, grey body
+(Iron Treads:1.25), red eyes, alternate species
+(Iron Bundle:1.25), blue eyes, red body, toony, shell
+(Iron Hands:1.25), machine, metallic body, yellow eyes, not furry, glistening
+(Iron Jugulis:1.25), hydreigon, machine, black body, microphone, alternate species, wings
+(Iron Moth:1.25), machine, wings, black body
+(Iron Thorns:1.25), spikes, green body, exoskeleton, black sclera, claws, fangs, toony
+(Frigibax:1.25), toony, black eyes, on model, grey body, feet, featureless feet, toes, 3 toes
+(Arctibax:1.25), yellow eyes, blue body, toony
+(Baxcalibur:1.25), claws, yellow eyes, toony, blue body
+(Chest Gimmighoul:1.25), coin, treasure chest, eyewear, gold \(metal\), yellow eyes, gold coin, toony, crate, treasure
+(Roaming Gimmighoul:1.25), eyewear, toony, yellow eyes, antennae \(anatomy\), pendulum, frown, grey body, featureless feet, multicolored body

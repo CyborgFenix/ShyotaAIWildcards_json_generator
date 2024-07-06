@@ -1,0 +1,6 @@
+red
+dark red
+light red
+orange
+orange red
+maroon red

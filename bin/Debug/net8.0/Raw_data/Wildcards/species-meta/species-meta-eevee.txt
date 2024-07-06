@@ -1,0 +1,11 @@
+(eeveelution:1.25), tuft, chest tuft, blush, yellow fur, yellow body, brown body, brown fur
+(eevee:1.25), brown body, neck tuft, brown eyes, brown fur, fluffy tail
+(espeon:1.25), purple eyes, forked tail, purple fur, purple body, unusual tail, gem, collarbone, pink areola, forehead gem
+(fakeveelution:1.25), purple eyes, tuft, white body, chest tuft, fluffy, white fur, fluffy tail, markings, cheek tuft, facial tuft
+(flareon:1.25), blush, orange body, orange fur, fluffy tail
+(glaceon:1.25), blue eyes, blue body, blue fur, dipstick tail
+(jolteon:1.25), yellow body, yellow fur, neck tuft
+(leafeon:1.25), leaf tail, light yellow body, brown eyes
+(sylveon:1.25), white body, blue eyes, ribbons, pink fur
+(umbreon:1.25), black body, black fur, red eyes, yellow markings, red sclera
+(vaporeon:1.25), blue body, blue eyes, frill \(anatomy\), membranous frill, fin

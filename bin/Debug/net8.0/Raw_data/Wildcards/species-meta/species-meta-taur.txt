@@ -1,0 +1,66 @@
+(alpaca taur:1.25), wool \(fur\), brown eyes, white body, white fur
+(arachnid taur:1.25), blue eyes, tarantula, mygalomorph, brown body, brown fur, hair, multi limb, tuft, black body
+(arthropod taur:1.25), antennae \(anatomy\), green eyes, multi limb, multi arm, mandibles, wings, insect wings, compound eyes, 4 arms, 4 legs
+(avian taur:1.25), feathers, beak, red feathers, multicolored feathers, scuted arms, red body, avian \(starbound\), tail feathers, white feathers, head crest, scutes, multicolored body, yellow beak, feathered wings, black feathers, wings, white body, brown feathers, tuft, toes, feet, brown body, biped, chest tuft
+(bovid taur:1.25), horn, hooves, brown fur, brown body, cloven hooves
+(bovine taur:1.25), horn, hair, teats, blue eyes, brown hair
+(camelid taur:1.25), brown body, tan body, brown fur, blue eyes, tan fur, white body, multicolored body, grass, multicolored fur, white fur, feet
+(canid taur:1.25), orange fur, orange body, blue eyes, white fur, white body, tuft, markings, fluffy, brown fur, fluffy tail, chest tuft, brown body, multicolored fur, multicolored body
+(canine taur:1.25), orange fur, blue eyes, orange body, feet, brown fur, white body, tuft, white fur, brown body, toes, 4 toes, inner ear fluff, tan fur, multicolored body, multicolored fur, tan body
+(capreoline taur:1.25), brown body, brown fur, white body, white fur, multicolored body, multicolored fur, black nose, mane, tan body, tan fur
+(caprine taur:1.25), horn, white body, white fur, chest tuft, tuft
+(cat taur:1.25), whiskers, green eyes, pink nose, stripes, tuft, orange fur
+(cattle taur:1.25), udders, teats, horn, hair, brown hair, black body, brown eyes, white body
+(cephalopod taur:1.25), pseudo hair, tentacles, tentacle hair, suction cup, blue eyes, blonde hair
+(cervine taur:1.25), antlers, horn, brown fur, brown body, white body, white fur
+(cetacean taur:1.25), fin, black skin, glistening, white skin, white body
+(citra taur:1.25), tuft, green body, green eyes, chest tuft, green fur, hair, cheek tuft, facial tuft, yellow fur
+(cyborg taur:1.25), cybernetic limb, prosthetic, cybernetics, machine, cybernetic arm, prosthetic limb, prosthetic arm, bionics, hair, white body, white fur, yellow eyes
+(deer taur:1.25), antlers, horn, brown fur, brown body, hooves, white body, white fur, multicolored body, multicolored fur
+(dinosaur taur:1.25), green scales, scales, green body, stripes, claws
+(dog taur:1.25), blue eyes, brown fur, white fur, paws, multicolored fur, chest tuft, black nose, brown body, white body, tuft, multicolored body, wedding ring, feet, 4 toes, toes, floppy ears
+(donkey taur:1.25), brown fur, hair, brown body, hooves, animal genitalia, white body, black body, black hair, white fur, black fur
+(dragon taur:1.25), horn, red body, scales, red scales, green eyes, claws, white horn
+(equid taur:1.25), blue eyes, hair
+(equine taur:1.25), blue eyes, hair, white body, brown body, white fur, brown fur
+(felid taur:1.25), stripes, blue eyes, striped fur, striped body, orange body, orange fur, white body, white fur, chest tuft, tuft, pink nose, black stripes
+(feline taur:1.25), whiskers, blue eyes, stripes, pink nose, striped fur, white body, white fur, orange fur, orange body, tuft, brown fur, striped body
+(fennec taur:1.25), tuft, whiskers, chest tuft, big ears, inner ear fluff, pink nose, white fur, white body, brown eyes, detailed, fluffy
+(fox taur:1.25), orange fur, orange body, white fur, white body, markings, tuft, chest tuft, whiskers
+(gerenuk taur:1.25), horn, long neck, tan body
+(giraffid taur:1.25), ossicone, horn, blue eyes, antlers
+(goat taur:1.25), horn, white body, white fur
+(gryphon taur:1.25), tuft, orange fur, orange body, green eyes, brown fur, chest tuft, brown body, striped fur, stripes, digitigrade, striped body, cheek tuft, markings, tan fur, facial tuft, feet, leg markings, toes, tan body, socks \(marking\), paws
+(hextaur:1.25), blue eyes, tuft, brown fur, orange fur, brown body, white body, white fur, inner ear fluff, orange body, fluffy, tan fur, black nose, tan body, fluffy tail, multicolored body, multicolored fur
+(horse taur:1.25), hair
+(insect taur:1.25), antennae \(anatomy\), insect wings, wings, multi limb, multi arm, green eyes, black eyes, yellow body, brown body, tuft, mandibles, 4 arms, brown fur, carrying
+(lagomorph taur:1.25), blue eyes, brown fur, brown body, chest tuft, tuft, hair, whiskers, pink nose, long ears
+(leporid taur:1.25), whiskers, white fur, white body, tuft, pink nose
+(lion taur:1.25), mane, tail tuft, tuft, brown fur, brown body, hair, brown mane, tan fur, tan body
+(long taur:1.25), blue eyes, orange fur, tuft, orange body, brown fur, brown body, inner ear fluff, white fur, white body, chest tuft, hair, multicolored fur, tan fur, multicolored body, fluffy, tan body, black nose, orange hair, fluffy tail
+(mammal taur:1.25), blue eyes, orange fur, tuft, orange body, chest tuft, brown fur, inner ear fluff, brown body, whiskers
+(maned wolf taur:1.25), orange fur, brown fur, brown body, orange body, tuft, black body, black nose, black fur, fluffy, inner ear fluff, black lips, yellow eyes, markings, fluffy tail, gloves \(marking\), detailed, detailed fur, orange eyes, white fur, multicolored fur, white body, chest tuft, multicolored body
+(marine taur:1.25), hair, blue eyes, brown fur, brown body, tuft
+(mephitid taur:1.25), hair, brown fur, brown body, white body, white fur, white hair, black fur, black body, tuft, pink nose, multicolored body, chest tuft
+(okapi taur:1.25), stripes, brown fur, brown body, striped body, white body
+(ophiotaurus:1.25), green body, scales, pecs, green scales, green skin
+(orca taur:1.25), black skin, black body
+(pantherine taur:1.25), black body, black fur, brown body, brown fur, black nose
+(pokemon taur:1.25), tuft, chest tuft, blue eyes, brown fur, orange fur, orange body, hair, brown body, brown hair
+(rabbit taur:1.25), blue eyes, chest tuft, brown hair, hair, white body, tuft, whiskers, white fur, pink nose, brown fur, brown body
+(reindeer taur:1.25), antlers, horn, hooves, brown fur, blue eyes, brown body, white body, white fur, black nose
+(reptile taur:1.25), green body, green scales, scales, green skin, claws, long tail, feet, toes
+(scalie taur:1.25), horn, green scales, scales, green body scales, apode
+(scorpion taur:1.25), horn, multi limb, multi arm
+(sergal taur:1.25), blue body, feathers, beak, white body
+(sheep taur:1.25), wool \(fur\), horn, brown body, brown fur, white body, white fur
+(skunk taur:1.25), black body, black fur, white body, white fur, blue eyes
+(snow leopard taur:1.25), spots, white body, white fur, blue eyes, spotted body, spotted fur, black spots, stripes, markings, hands together, grey body, pink nose, grey fur
+(sphinx taur:1.25), egyptian, dreadlocks, jewelry, necklace, yellow eyes, horn
+(spider taur:1.25), red eyes, carrying, tuft, multi eye, black body, brown body, multi limb, white body, brown fur, multicolored body, detailed
+(tarantula taur:1.25), brown body, brown fur, orange body, orange fur, red eyes
+(taur:1.25), orange fur, orange body, tuft, brown fur, chest tuft, brown body, green eyes, white fur, white body
+(tiger taur:1.25), stripes, white body, orange fur, orange body, striped fur, striped body, white fur, eyes closed, sheath, black stripes, big balls, humanoid genitalia
+(unicorn taur:1.25), horn, hair, green eyes, unicorn horn, hooves, pink hair, eyebrows, grass, long hair
+(wolf taur:1.25), white fur, white body, grey fur, black nose, tuft, grey body, animal genitalia, multicolored fur, black fur, sheath, multicolored body
+(zebra taur:1.25), stripes, white body, hooves, white fur, tail tuft, black stripes, black fur, black body

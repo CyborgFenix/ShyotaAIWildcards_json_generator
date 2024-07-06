@@ -1,0 +1,110 @@
+(ailurid humanoid:1.25), hair, brown hair, markings, white fur, tuft, white body, inner ear fluff, multicolored body, tan body, long hair, multicolored fur, tan fur, brown fur, pink nose, brown body
+(alien humanoid:1.25), green body, red eyes
+(amphibian humanoid:1.25), green body, yellow eyes, yellow body, blue body
+(angel humanoid:1.25), wings, hair, blonde hair, feathers, feathered wings, spread wings
+(animal humanoid:1.25), hair, inner ear fluff, black hair, long hair, tuft
+(arthropod humanoid:1.25), antennae \(anatomy\), multi arm, multi limb, mandibles, 4 arms, compound eyes, insect wings, wings
+(asinus humanoid:1.25), hair, brown hair, tuft, blue eyes, eyebrows, brown fur, slim, brown body, short hair
+(bat humanoid:1.25), hair, black hair, hairless
+(bee humanoid:1.25), antennae \(anatomy\), wings, insect wings, hair, blonde hair
+(blank humanoid:1.25), white body, white fur
+(bovid humanoid:1.25), horn, hair, brown hair, brown body, brown eyes, brown fur, brown nipples, tuft
+(calico cat humanoid:1.25), whiskers, white body, white fur, piebald, pink nose, multicolored body, multicolored fur, brown eyes, tuft, brown fur, fur markings, brown body
+(canid humanoid:1.25), hair, inner ear fluff, brown hair, tan body, tuft, long hair, tan fur, markings, thigh gap
+(caprine humanoid:1.25), horn, blonde hair, hair, bovid horn, girly, ram horn, caprine horn, brown eyes
+(cat humanoid:1.25), hair, black hair, inner ear fluff, tuft
+(cattle humanoid:1.25), horn, hair, brown hair, brown body
+(cephalopod humanoid:1.25), pseudo hair, tentacle hair, slim, green eyes, freckles
+(cervine humanoid:1.25), antlers, horn, chest tuft, tuft, brown fur, white body, brown body, white fur, multicolored fur, multicolored body, black nose, tan fur, lighting, tan body, featureless chest, biped
+(cetacean humanoid:1.25), blue body
+(chameleon humanoid:1.25), pink hair, green eyes, horn
+(cheetah humanoid:1.25), yellow body, yellow fur, blonde hair, hair, spots, yellow eyes, spotted body, white body, spotted fur, white fur
+(chimera humanoid:1.25), hair, tuft, inner ear fluff, brown hair, yellow eyes, tan body, tan fur, detailed, markings, eyebrows, brown body, eyelashes, humanoid hands, slim, brown fur, multicolored body, long hair
+(cloud humanoid:1.25), hair, white hair, brown eyes, short hair, sea, girly
+(cnidarian humanoid:1.25), dreadlocks, hair, green eyes, curled hair
+(crocodilian humanoid:1.25), green body, pecs, green scales, scales, claws, green skin, teeth
+(crystal humanoid:1.25), blue hair, hair, girly
+(deer humanoid:1.25), antlers, horn, brown fur, brown body, multicolored fur, multicolored body, countershade torso, spots, brown eyes, spotted body, white body, tan body, spotted fur, lighting, tuft, tan fur, white fur, white countershading, countershade face, black nose, depth of field, eyebrows, collarbone, biped, two tone fur
+(demon humanoid:1.25), humanoid pointy ears, hair, horn, red eyes, black hair, pupils, black nails, red body, glowing eyes, long hair, eyelashes, red sclera, glistening, slit pupils
+(dipteran humanoid:1.25), hair, brown hair
+(dog humanoid:1.25), hair, brown hair, brown eyes
+(donkey humanoid:1.25), hair, brown hair
+(dragon humanoid:1.25), horn, hair, black hair, scales, nipple outline, green eyes, sport swimsuit
+(equid humanoid:1.25), hair, blue eyes
+(equine humanoid:1.25), hair, brown hair, wavy hair, long hair, eyebrows, brown body, eyelashes
+(falconid humanoid:1.25), beak, feathers, chest tuft, tuft, multicolored body, white body, multicolored feathers, white feathers, biped, blue eyes, eyebrows, eyelashes
+(fennec humanoid:1.25), tuft, chest tuft, big ears, detailed, white fur, cheek tuft, whiskers, white body, facial tuft, pink nose, inner ear fluff, brown eyes
+(fish humanoid:1.25), hair, freckles, green eyes, green body, humanoid pointy ears, green hair
+(flower humanoid:1.25), green hair, hair, floral, flower in hair, flower garland, garden, pond, garland, eyelashes, long hair, blue hair, green body
+(fox humanoid:1.25), hair, blonde hair, inner ear fluff, long hair, markings, tuft, tail markings, green eyes, white body, tan body, eyebrows, eyelashes, multicolored body, girly, white fur, dipstick tail, countershade fur
+(frog humanoid:1.25), green body, spotted skin, green skin, yellow body
+(fungi humanoid:1.25), hair, black hair, fungus, human focus, mushroom
+(gastropod humanoid:1.25), pseudo hair, antennae \(anatomy\)
+(goat humanoid:1.25), horn, bovid horn, hair, white hair, green eyes, caprine horn, girly, ram horn, slim
+(goo humanoid:1.25), pseudo hair, glistening, girly, rubber, blue body, glistening body, glistening skin, translucent
+(harpy humanoid:1.25), green hair, hair, humanoid pointy ears, wings, feathers, yellow eyes
+(horned humanoid:1.25), horn, hair, humanoid pointy ears, black hair, yellow eyes, long hair, brown hair
+(horse humanoid:1.25), hair, blue eyes, black hair
+(humanoid taur:1.25), hair, tan body, long hair, brown hair
+(humanoid:1.25), hair, brown hair, inner ear fluff, tuft, tan body, tan fur, brown body, brown fur, long hair, brown eyes, multicolored body
+(hyena humanoid:1.25), spots, spotted body, brown spots, spotted fur, hair, tuft, multicolored body, brown eyes, black nose, tan body, eyebrows, cheek tuft, facial tuft, markings, multicolored fur, tan fur, black spots, inner ear fluff, blonde hair, brown body, brown fur, brown nipples
+(hymenopteran humanoid:1.25), antennae \(anatomy\), yellow body, tuft, neck tuft, yellow fur, slim, orange eyes, multicolored body, chest tuft, seductive, bedroom eyes, tropical
+(insect humanoid:1.25), antennae \(anatomy\), hair, yellow eyes, brown hair
+(jackal humanoid:1.25), hair, black hair
+(jaguar humanoid:1.25), hair, spots, spotted body, spotted fur, blue eyes, black hair, brown hair, long hair, eyelashes
+(jellyfish humanoid:1.25), pseudo hair, tentacle hair, hair, blue hair, tentacles, blue body, long hair
+(lagomorph humanoid:1.25), hair, brown hair, long hair, wavy hair, tuft, slim
+(leopard humanoid:1.25), hair, spots, spotted body, spotted fur, black hair, inner ear fluff, markings, long hair, brown hair
+(lepidopteran humanoid:1.25), hair, brown hair, green eyes
+(leporid humanoid:1.25), hair, brown hair, short hair, girly
+(lion humanoid:1.25), hair, mane, yellow eyes, tuft, brown hair, tan body, tan fur, island, brown fur, brown body, amber eyes
+(lizard humanoid:1.25), green body, eyelashes, green scales
+(mammal humanoid:1.25), hair, inner ear fluff, brown hair, tuft, tan body, long hair
+(mantis humanoid:1.25), antennae \(anatomy\), mandibles, green body, green skin, exoskeleton, red eyes, pecs, insect wings, featureless chest, yellow body
+(marine humanoid:1.25), blue hair, hair, blue body, girly, brown eyes, long hair, fin
+(medusozoan humanoid:1.25), hair, black hair, inner ear fluff, brown hair, tan body, long hair, tuft, v-cut
+(mineral humanoid:1.25), horn, hair, yellow eyes, scales
+(mollusk humanoid:1.25), pseudo hair, dreadlocks, tentacle hair, tentacles, girly
+(monkey humanoid:1.25), hair, brown hair, short hair, depth of field
+(monstrous humanoid:1.25), hair, brown hair, humanoid pointy ears, long hair
+(moth humanoid:1.25), neck tuft, tuft, antennae \(anatomy\), hair, slim, wings, yellow eyes, white body, multicolored body, eyelashes, brown body, orange eyes, fluffy, white fur, short hair
+(mouse humanoid:1.25), hair, thigh gap, tan body, pink nose, green eyes, brown hair
+(murid humanoid:1.25), hair, brown hair, inner ear fluff, tan body, tan fur, tuft, long hair, eyelashes
+(murine humanoid:1.25), hair, brown hair, tan body, long hair, tan fur
+(mushroom humanoid:1.25), fungus, mushroom, hair, green hair
+(mustela humanoid:1.25), brown fur, whiskers, brown body, green eyes, tuft, chest tuft, orange fur, biped, white body, orange body, white fur
+(mustelid humanoid:1.25), whiskers, blue eyes, tuft, chest tuft, white body, brown fur, white fur, brown body, orange body, orange fur, multicolored body, pink nose
+(octopus humanoid:1.25), scales, brown eyes
+(orca humanoid:1.25), black skin, black body, brown eyes
+(otter humanoid:1.25), hair, brown hair, brown body, brown fur, whiskers
+(owl humanoid:1.25), beak, feathers, nipple outline, tuft, white body, yellow eyes, eyelashes
+(pantherine humanoid:1.25), whiskers, pecs, black body, black fur, biceps, yellow eyes
+(pelecaniform humanoid:1.25), hair, brown hair, tuft, inner ear fluff, tan body, brown body, long hair, tan fur, brown fur, multicolored body
+(pig humanoid:1.25), hair
+(plant humanoid:1.25), hair, green hair, green eyes, floral, v-cut
+(pokemon humanoid:1.25), hair, green hair, red eyes, short hair, girly, brown eyes
+(primate humanoid:1.25), pecs, hair, v-cut
+(procyonid humanoid:1.25), ringtail, ring \(marking\), markings, tuft, white body, tail markings, white fur, multicolored body, cheek tuft, chest tuft, facial tuft, multicolored fur, black body, brown eyes, black fur, brown body, brown fur, striped tail, black nose, striped markings, facial markings, head markings, eyebrows, fluffy
+(rabbit humanoid:1.25), hair
+(rat humanoid:1.25), hair, brown hair, green eyes, tan body, black hair, tan fur
+(red panda humanoid:1.25), orange fur, orange body, tuft, brown eyes
+(reptile humanoid:1.25), green body
+(rito humanoid:1.25), feathers, beak, eyelashes, winged arms, yellow eyes, white feathers, multicolored feathers
+(robot humanoid:1.25), machine, metallic body, glowing eyes, glowing, blue eyes, thigh gap
+(scalie humanoid:1.25), horn, scales, green scales, green body, claws, pupils
+(serval humanoid:1.25), yellow fur, inner ear fluff, spots, thigh gap, yellow body, whiskers, tuft, spotted body, spotted fur, white fur, white body
+(shark humanoid:1.25), heterochromia, hair, stripes, black hair, fin, teeth, grey body
+(sheep humanoid:1.25), wool \(fur\), white body, white fur, horn, slim, girly, hair
+(shoebill humanoid:1.25), beak, feathers, grey body, slim, orange eyes, hair, grey feathers
+(snow leopard humanoid:1.25), hair, blue eyes, grey body, spots, grey fur, white hair, eyelashes, spotted body, white body, spotted fur, markings, white fur, grey hair, long hair
+(splash woman:1.25), blue body, armor, blue eyes
+(squid humanoid:1.25), humanoid pointy ears, hair, green hair, pseudo hair, green eyes, teal hair, eyelashes, long hair
+(stoat humanoid:1.25), whiskers, white body, tuft, white fur, chest tuft, brown fur, brown eyes, brown body, cheek tuft, multicolored body, facial tuft, slim, multicolored fur, pink nose, markings, shoulder tuft, biped, inner ear fluff, fluffy
+(tanuki humanoid:1.25), brown eyes, brown body, brown fur, eyebrows, chest tuft, tuft, multicolored body, multicolored fur, hair
+(tiger humanoid:1.25), stripes, orange body, orange fur, blue eyes, striped body, black stripes, pink nose, striped fur, white body, white fur, hair, eyelashes, multicolored body, pink areola, markings, tuft, multicolored fur, black fur, blush, eyebrows, black body
+(tree squirrel humanoid:1.25), hair, green eyes
+(unicorn humanoid:1.25), horn, hair, unicorn horn, blue hair, eyelashes, brown eyes, long hair, eyebrows, girly
+(ursine humanoid:1.25), brown fur, brown body, white body, black nose, tuft, chest tuft
+(wasp humanoid:1.25), antennae \(anatomy\), stripes, yellow eyes
+(winged humanoid:1.25), wings, hair, feathers, feathered wings, brown hair, spread wings, long hair, eyelashes
+(wolf humanoid:1.25), grey hair, hair, silver hair, inner ear fluff, tuft, thigh gap, long hair, eyelashes, eyebrows, orange eyes, grey body, grey fur, tan body, fluffy, fluffy tail, yellow eyes, slim, countershade fur

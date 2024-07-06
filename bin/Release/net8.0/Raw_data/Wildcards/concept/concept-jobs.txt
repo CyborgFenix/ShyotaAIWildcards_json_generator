@@ -1,0 +1,368 @@
+pirate
+explorer
+scientist
+detective
+athlete
+musician
+chef
+politician
+entrepreneur
+artist
+sailor
+soldier
+astronaut
+author
+actor
+dancer
+singer
+architect
+engineer
+doctor
+lawyer
+teacher
+professor
+historian
+philosopher
+mathematician
+programmer
+designer
+journalist
+photographer
+filmmaker
+activist
+environmentalist
+humanitarian
+psychologist
+anthropologist
+sociologist
+economist
+businessperson
+ceo
+marketer
+salesperson
+financial analyst
+economist
+geologist
+biologist
+chemist
+physicist
+veterinarian
+zoologist
+botanist
+ecologist
+ornithologist
+entomologist
+archeologist
+paleontologist
+cartographer
+surveyor
+explorer
+mountaineer
+rock climber
+surfer
+scuba diver
+skydiver
+base jumper
+race car driver
+pilot
+train conductor
+ship captain
+air traffic controller
+firefighter
+paramedic
+emergency medical technician
+police officer
+private investigator
+lawyer
+judge
+legal assistant
+paralegal
+librarian
+museum curator
+gallery owner
+music producer
+sound engineer
+record label executive
+dj
+music journalist
+music critic
+music teacher
+dance teacher
+theater director
+playwright
+set designer
+costume designer
+makeup artist
+fashion designer
+interior designer
+landscape architect
+personal trainer
+yoga instructor
+blacksmith
+baker
+brewer
+butcher
+carpenter
+cook
+cooper
+dockworker
+farmer
+fisherman
+glassblower
+hunter
+innkeeper
+jeweler
+leatherworker
+lumberjack
+mason
+miller
+miner
+potter
+sailor
+shepherd
+shoemaker
+silk weaver
+soldier
+spice merchant
+spinner
+tailor
+tanner
+trader
+vintner
+weaver
+woodcarver
+alchemist
+apothecary
+architect
+artist
+astronomer
+barber
+bookbinder
+calligrapher
+cartographer
+clerk
+clockmaker
+diplomat
+doctor
+engineer
+explorer
+farrier
+geographer
+goldsmith
+historian
+illustrator
+judge
+librarian
+mathematician
+mercenary
+musician
+notary
+painter
+philosopher
+physician
+pilgrim
+pirate
+printer
+professor
+rabbi
+sailor
+sculptor
+scribe
+shipbuilder
+spy
+surgeon
+tax collector
+teacher
+theologian
+town crier
+translator
+traveler
+troubadour
+watchmaker
+weaponsmith
+writer
+bard
+chancellor
+chronicler
+court jester
+executioner
+falconer
+footman
+gardener
+groom
+harpist
+herald
+jester
+lady-in-waiting
+page
+stablehand
+sword bearer
+valet
+knight
+mage
+rogue
+samurai
+barbarian
+assassin
+sorcerer
+paladin
+druid
+gladiator
+pirate
+ranger
+bard
+warlock
+monk
+necromancer
+witch
+alchemist
+summoner
+demon hunter
+archmage
+crusader
+elemental mage
+shadow assassin
+dark knight
+dragon slayer
+illusionist
+beastmaster
+time traveler
+vampire hunter
+blacksmith
+falconer
+astronomer
+herbalist
+inquisitor
+oracle
+scribe
+siege engineer
+swashbuckler
+templar
+thunderer
+warden
+arcanist
+bladesinger
+celestial
+dragon rider
+enchanter
+healer
+jester
+lancer
+marshal
+mystic
+necrophage
+phantom
+rune mage
+sentinel
+shadowmage
+soul reaver
+spellblade
+star mage
+technomancer
+theurge
+titan
+trickster
+valkyrie
+warlord
+weaver
+windcaller
+witch hunter
+abjurer
+arcane trickster
+beast tamer
+blood mage
+bounty hunter
+chaos mage
+chronomancer
+cryptographer
+death knight
+dragon knight
+dreamweaver
+elementalist
+enforcer
+executioner
+explorer
+fire mage
+frost mage
+geomancer
+ghost hunter
+grave robber
+guardian
+gunner
+harbinger
+ice queen/king
+investigator
+judge
+knight errant
+librarian
+loremaster
+mage slayer
+mind reader
+bishop
+cardinal
+chaplain
+deacon
+elder
+friar
+imām
+monk
+nuncio
+pastor
+priest
+rabbi
+reverend
+sister
+vicar
+abbot
+canon
+chancellor
+confessor
+curate
+exorcist
+inquisitor
+lector
+missionary
+papal legate
+private
+private first class
+lance corporal
+corporal
+sergeant
+staff sergeant
+gunnery sergeant
+master sergeant
+first sergeant
+sergeant major
+command sergeant major
+sergeant major of the army
+second lieutenant
+first lieutenant
+captain
+major
+lieutenant colonel
+colonel
+brigadier general
+general
+king
+queen
+lord
+lady
+duke
+duchess
+count
+countess
+baron
+baroness
+nobleman
+vizier
+sultan
+geisha
+yogi
+adventurer
+royalty
+cowboy
+cowgirl
+pop singer
+president
+construction worker
+idol

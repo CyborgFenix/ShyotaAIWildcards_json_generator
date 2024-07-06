@@ -1,0 +1,6 @@
+purple
+dark purple
+light purple
+medium purple
+indigo
+violet

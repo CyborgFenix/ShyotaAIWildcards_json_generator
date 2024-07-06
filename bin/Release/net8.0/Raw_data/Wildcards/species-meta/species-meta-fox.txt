@@ -1,0 +1,31 @@
+(alopex:1.25), blue eyes, white fur, white body, tuft, blue fur, neck tuft, blue body, black nose, fluffy, cheek tuft, chest tuft, facial tuft
+(arctic fox:1.25), white body, white fur, tuft, chest tuft, black nose, detailed, multicolored body, fluffy, cheek tuft, brown eyes, multicolored fur, facial tuft, claws, markings, fluffy tail, grey body, inner ear fluff, neck tuft, black claws, white tail, finger claws, yellow eyes, eyebrows, two tone body
+(bat-eared fox:1.25), tuft, inner ear fluff, orange eyes, black body, whiskers, black fur, cheek tuft, facial tuft, white body, white fur, chest tuft, brown fur, big ears, detailed, brown body, fluffy, pink nose, multicolored body, markings, multicolored fur
+(coyote:1.25), tuft, black nose, white body, white fur, pecs, multicolored fur, neck tuft, brown body, facial tuft, multicolored body, cheek tuft, brown fur, biped, inner ear fluff, orange eyes, chest tuft, detailed, eyebrows, tan body, tan fur, fluffy
+(cross fox:1.25), black body, black fur, black nose, tuft, yellow eyes, cheek tuft, multicolored fur, brown body, multicolored body, facial tuft, brown fur, chest tuft, white body, white fur, markings, orange fur, inner ear fluff, neck tuft, black ears, orange body, detailed, biped, eyebrows, slim, tan fur, eyelashes, grass, fluffy
+(cross-fox:1.25), black body, black fur, black nose, tuft, cheek tuft, facial tuft, yellow fur, markings, multicolored body, yellow eyes, multicolored fur
+(dhole:1.25), orange fur, tuft, orange body, inner ear fluff, white fur, markings, partially submerged tail, cheek tuft, facial tuft, white body, multicolored fur, multicolored body, submerged tail, black nose, eyebrows, chest tuft, countershade fur, fluffy, eyelashes, tail markings, slim
+(diane foxington:1.25), tuft, orange body, orange fur, eyebrow piercing, eyelashes, facial piercing, inner ear fluff, facial tuft, eyebrows, cheek tuft, pink nose, chest tuft
+(fennec:1.25), tuft, big ears, pink nose, chest tuft, whiskers, white fur, white body, inner ear fluff, detailed
+(fox mccloud:1.25), pecs, green eyes, chest hair, body hair, tuft, chest tuft, biceps, black nose, eyebrows, white fur
+(foxy-rena:1.25), hair, blonde hair, tuft, orange body, chest tuft, heterochromia, orange fur, multicolored body, brown eyes
+(fox:1.25), orange fur, orange body, chest tuft, tuft, white fur, white body, markings, tail markings, multicolored tail, gloves \(marking\)
+(gideon grey:1.25), pecs, chest hair, body hair, blue eyes, hair, tuft, biceps, brown fur, eyebrows, brown body, brown hair, hairy, orange fur, facial hair, chest tuft, black nose, orange body, multicolored body
+(grey fox:1.25), white fur, white body, yellow eyes, tuft, grey body, black nose, grey fur, detailed, markings, cheek tuft, facial tuft, black fur, black body
+(grey-headed flying fox:1.25), white body, white fur, tuft, grey body, black body, black nose, black fur, detailed, grey fur, orange eyes, yellow eyes
+(indian flying fox:1.25), orange fur, orange body, whiskers, orange eyes, tuft, cheek tuft, black nose, facial tuft, brown fur, brown body, black body, black fur
+(kittyfox:1.25), orange body, orange fur, hair, tuft, white body, white fur, multicolored body, red hair, multicolored fur, green eyes, inner ear fluff, markings, multicolored tail, eyelashes, chest tuft, tail markings, dipstick tail, eyebrows, orange hair, long hair, gloves \(marking\), fluffy, black nose
+(kurama:1.25), tailed beast, multi tail, orange body, orange fur, tuft, chest tuft, yellow body, yellow fur, markings, red eyes
+(marble fox:1.25), white fur, tuft, white body, chest tuft, brown eyes, inner ear fluff
+(mrs. wilde:1.25), tuft, orange fur, orange body, chest tuft, eyelashes, inner ear fluff, facial tuft, cheek tuft, eyebrows, partially submerged tail, facial piercing, seductive, narrowed eyes, bedroom eyes, submerged tail
+(nick wilde:1.25), orange fur, orange body, green eyes, tuft, gloves \(marking\)
+(nickit:1.25), tuft, orange fur, orange body, chest tuft, orange eyes, inner ear fluff, markings, white body, facial tuft, white fur, cheek tuft, fluffy, black fur, gloves \(marking\), black body, multicolored body, shoulder tuft
+(ninetales:1.25), multi tail, hair, tuft, fluffy, long hair, chest tuft, blonde hair, fluffy tail
+(palamute:1.25), tuft, grey body, chest tuft, grey fur, white fur, white body, cheek tuft, facial tuft, orange eyes
+(red fox:1.25), orange fur, orange body, tuft, white fur, chest tuft, white body, whiskers, markings, partially submerged tail, submerged tail, cheek tuft, multicolored tail
+(silver fox:1.25), black body, black fur, hair, white hair
+(swift fox:1.25), chest tuft, tuft, orange fur, white fur, white body, orange body, cheek tuft, facial tuft, brown eyes, black nose, fluffy, whiskers, brown fur
+(vixey:1.25), chest tuft, tuft, white fur, submerged tail, orange fur, orange body, white body
+(vixy:1.25), blue eyes, hair, red hair, multicolored body, slim, girly, multicolored fur, tuft, white body, black nose, white fur, orange body, red fur, markings, biped, orange fur, eyebrows
+(vulpera:1.25), tuft, facial tuft, cheek tuft, chest tuft, claws, red eyes, inner ear fluff, finger claws, white fur, white body, brown body, brown fur, fluffy, shoulder tuft, multicolored fur, stripes, multicolored body, neck tuft, markings, orange body, orange fur
+(xenia \(linux fox\):1.25), blue eyes, orange fur, orange body, hair, tuft, white fur, black nose, white body, eyelashes, multicolored body, inner ear fluff, multicolored fur, markings, countershade torso, countershade face, facial tuft, cheek tuft, eyebrows, gloves \(marking\), white countershading, pink areola, black body, black fur, two tone body, two tone fur, countershade legs, multicolored tail

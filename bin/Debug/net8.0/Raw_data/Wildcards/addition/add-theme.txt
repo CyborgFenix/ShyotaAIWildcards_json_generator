@@ -1,0 +1,19 @@
+cyberpunk
+steampunk
+middle ages
+sci-fi
+fantasy
+evil
+heaven
+realistic-style
+cartoon-style
+animation-style
+game-style
+japanese-style
+american-style
+african-style
+european-style
+mediterranean-style
+nordic-style
+religious-style
+russian-style

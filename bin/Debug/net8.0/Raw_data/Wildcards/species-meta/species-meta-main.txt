@@ -1,0 +1,119 @@
+(alien:1.25), green body
+(alligatorid:1.25), green body, green scales, green skin, brown eyes, scales
+(alligator:1.25), green body, scales, green scales, yellow eyes, teeth, claws, pecs, green skin
+(android:1.25), blue eyes, white fur, white body, black body, black fur, multicolored body, black nose, multicolored fur
+(arachnid:1.25), red eyes, black body, beak, feathers
+(asinus:1.25), pecs, hair, tuft, chest hair
+(avian:1.25), beak, feathers, white feathers, multicolored feathers, white body, multicolored body, tail feathers, brown eyes, black feathers, red feathers, orange feathers
+(bat:1.25), yangochiropteran, black body, bat ears, phyllostomid, wings, tuft, black fur, cheek tuft, facial tuft, membrane \(anatomy\), fangs, chest tuft, membranous wings
+(bear:1.25), brown body, brown fur, black nose male, musclegut
+(bird:1.25), beak, feathers, blue eyes, chest tuft, tuft, multicolored body, white body
+(bovid:1.25), horn, hair, brown hair, tuft, brown body
+(bovine:1.25), horn, hair, brown hair
+(canid demon:1.25), red eyes, chest tuft, tuft, white fur, white body, black nose, markings, brown fur, brown body, fluffy, orange fur, multicolored fur, cheek tuft, facial tuft, multicolored body
+(canine:1.25), white body, white fur, tuft, chest tuft, multicolored body, teeth, multicolored fur, orange body, orange fur, eyebrows, black nose, claws
+(canis:1.25), tuft, chest tuft, multicolored fur, brown fur, brown eyes, multicolored body, brown body, white fur, tan fur, white body, cheek tuft, black nose
+(caprine:1.25), horn, chest tuft, tuft, caprine horn, bovid horn, ram horn, white fur, white body
+(cattle:1.25), horn, hair, brown hair
+(cat:1.25), whiskers, chest tuft, tuft, pink nose, white fur, white body, orange body, orange fur, blue eyes, inner ear fluff
+(cephalopod:1.25), pseudo hair, tentacle hair
+(cervine:1.25), antlers, horn, chest tuft, white body, brown fur, brown body, white fur, tuft, multicolored fur, multicolored body, black nose, biped
+(cetacean:1.25), 
+(chimera:1.25), tuft, chest tuft, pink nose, brown fur, brown body
+(cow:1.25), horn, hair, brown hair
+(crocodile:1.25), green body, scales, green scales, yellow eyes, pecs, teeth, claws, pupils
+(crocodilian:1.25), green body, pecs, scales, green scales, claws, green skin, teeth, biceps
+(crocodylid:1.25), green body, v-cut, pecs, brown eyes, scales, multicolored body, teeth, green skin, partially submerged tail, tattoo, green scales
+(deer:1.25), antlers, horn, brown fur, brown body, tuft, chest tuft, white body, white fur, multicolored fur, multicolored body
+(demon:1.25), red body, red eyes, horn, hair, red fur, black hair, glowing eyes, pupils, long hair, fangs, tuft, humanoid pointy ears, red scales, glowing, black body, teeth, red skin, claws
+(didelphid:1.25), pink nose, whiskers, black body, black fur, brown eyes, hair, white fur, white body, grey body, pink inner ear, slim, grey fur, tuft
+(digimon \(species\):1.25), black sclera, yellow body, yellow fur, neck tuft, tuft, white body, chest tuft, white fur, markings, head markings, facial markings, claws, multicolored body, multicolored fur
+(dinosaur:1.25), teeth, scales, markings, green body, blue eyes
+(dog:1.25), white body, white fur, multicolored body, multicolored fur, chest tuft, brown eyes, brown fur, brown body, tuft, floppy ears, teeth, black nose
+(dolphin:1.25), fin
+(domestic cat:1.25), tuft, whiskers, chest tuft, white body, pink nose, green eyes, white fur, yellow eyes
+(domestic dog:1.25), brown eyes, white body, white fur, multicolored body, black nose, multicolored fur, floppy ears, brown fur, chest tuft, brown body
+(domestic pig:1.25), slightly chubby, pink body, pink skin, trias
+(domestic rabbit:1.25), pink nose, chest tuft, whiskers, tuft, white body, white fur, multicolored body, multicolored fur, detailed, featureless chest, cheek tuft, facial tuft
+(domestic sheep:1.25), wool \(fur\), white body, horn, white fur
+(draconcopode:1.25), scales
+(dragon:1.25), scales, horn, yellow body, red body, claws, red scales, yellow scales, featureless chest, multicolored body, green body, green scales
+(earth pony:1.25), ball, blue hair, hair, holding ball, blue eyes, eyelashes
+(eastern dragon:1.25), horn, green body, scales, green scales, yellow body
+(eeveelution:1.25), tuft, chest tuft, blush, yellow fur, yellow body, brown body, brown fur
+(equid:1.25), hair, black hair, blue eyes, white markings, multicolored body, snout, white body
+(equine:1.25), blue eyes, hair, black hair, multicolored body, white body, brown hair
+(experiment \(lilo and stitch\):1.25), blue nose, notched ear, head tuft, blue body, blue fur, black eyes, tuft, chest tuft, head markings, small tail, blue claws, markings, facial markings, chest markings, biped, antennae \(anatomy\), claws, eyebrows, back markings
+(extraterrestrial:1.25), green eyes, green body, thigh gap, chest tuft, slim, antennae \(anatomy\), tuft
+(fanged wyvern:1.25), scales, horn, claws, spikes, teeth, spikes \(anatomy\), yellow body, slit pupils, pupils, fangs, sharp teeth, green scales
+(feathered dragon:1.25), horn, green body, blue body, scales, hair, white body, green hair, tuft, chest tuft
+(felid:1.25), whiskers, stripes, chest tuft, tuft, white body, white fur, orange body, pink nose, green eyes, orange fur, multicolored body, striped fur, multicolored fur, striped body, yellow eyes, black stripes
+(feline:1.25), whiskers, chest tuft, pink nose, tuft, blue eyes, white fur, stripes, white body, orange fur, orange body, inner ear fluff, multicolored fur, multicolored body, cheek tuft, facial tuft
+(felis:1.25), whiskers, tuft, chest tuft, pink nose, brown fur, inner ear fluff, white fur, brown body, white body, orange body, multicolored body, multicolored fur, orange fur
+(fox:1.25), orange fur, orange body, chest tuft, tuft, white fur, white body, markings, tail markings, multicolored tail, gloves \(marking\)
+(frog:1.25), green body, spotted skin, green skin, yellow body, spots, spotted body
+(furred dragon:1.25), tuft, chest tuft, brown eyes, neck tuft, white fur, white body
+(ghost:1.25), white pupils, slim, featureless chest, white body, blue body, chest tuft, tuft, blue eyes, white fur, glowing eyes, long ears, multicolored body, white eyes
+(giant panda:1.25), black body, white body, black fur, white fur, hair, multicolored body, black areola
+(giraffid:1.25), horn, head markings, facial markings, ossicone
+(goat:1.25), horn, chest tuft, tuft, white body, white fur
+(gryphon:1.25), tuft, chest tuft, hair
+(horse:1.25), pecs, hair, body hair, black hair, brown body, animal genitalia
+(human:1.25), hair, brown hair, wavy hair, long hair
+(hybrid:1.25), chest tuft, tuft, brown eyes, black fur, white fur, white body, brown fur, black body
+(inkling:1.25), pseudo hair, orange eyes, tentacle hair, orange hair, hair, tentacles, humanoid pointy ears
+(insect:1.25), antennae \(anatomy\), tropical, black eyes, tuft, brown eyes, biped
+(kangaroo:1.25), chest tuft, tuft, white body, white fur
+(kemono:1.25), blush, female anthro, hair, tuft, chest tuft, blonde hair, white body, white fur, yellow fur, yellow body, yellow eyes, multicolored body, multicolored fur, brown fur
+(lagomorph:1.25), chest tuft, whiskers, tuft, pink nose, multicolored body, white body, multicolored fur, white fur, blue eyes, brown fur, brown body, facial tuft, cheek tuft, featureless chest
+(leopard:1.25), yellow body, yellow fur, spots, white body, white fur, spotted body, whiskers, spotted fur, tuft, black spots, multicolored body, yellow eyes
+(leporid:1.25), whiskers, chest tuft, tuft, pink nose, multicolored body, white body, white fur, multicolored fur, brown fur, brown body
+(lion:1.25), mane, pecs, body hair, biceps, hair, tuft, hairy
+(lizard:1.25), green body, green scales, yellow eyes, eyelashes
+(lynx:1.25), tuft, spots, chest tuft, spotted body, spotted fur, ear tuft, whiskers
+(macropod:1.25), tuft, chest tuft, brown body, brown fur, multicolored body, white body, multicolored fur, white fur, tan fur, tan body
+(mammal:1.25), orange fur, orange body, tuft, chest tuft, whiskers, white fur, blue eyes, white body, inner ear fluff, markings, multicolored fur, multicolored body, cheek tuft, facial tuft, stripes, eyebrows, brown fur, teeth, pink nose
+(marine:1.25), blue body
+(marsupial:1.25), whiskers, tuft, brown fur, pink nose, brown body, chest tuft, white fur, white body, multicolored body, multicolored fur, cheek tuft, tan body, facial tuft, tan fur, eyebrows, black body, black fur, biped
+(mephitid:1.25), cheek tuft, facial tuft, tuft, white body, white fur, multicolored body, multicolored fur, brown eyes, whiskers, chest tuft, markings, black fur, brown fur, eyebrows, brown body, fluffy, black body, biped, pink nose, hair, fluffy tail, black nose, facial markings, head markings, shoulder tuft
+(mollusk:1.25), 
+(monkey:1.25), hair, green eyes
+(monster:1.25), horn, teeth, claws, pecs, fangs
+(mouse:1.25), whiskers, pink nose, tuft, chest tuft, slim
+(murine:1.25), whiskers, chest tuft, tuft, pink nose, white fur, brown eyes, white body, brown fur, brown body
+(mustelid:1.25), whiskers, blue eyes, brown fur, white body, tuft, white fur, chest tuft, brown body, pink nose
+(oceanic dolphin:1.25), 
+(otter:1.25), webbed hands, whiskers, chest tuft, brown fur, tuft, brown body, shoulder tuft, biped, tan body, white body, eyebrows, multicolored body, tan fur, white fur, facial tuft, multicolored fur, cheek tuft, pecs
+(pantherine:1.25), whiskers, black body, black fur, pecs, sheath, biceps, claws, animal genitalia
+(pig:1.25), hair, pink nose, pink skin, brown hair
+(pokemon \(species\):1.25), chest tuft, tuft, facial tuft, cheek tuft
+(ponyta:1.25), fire, flaming hair, white body, pseudo hair, tuft
+(pony:1.25), hair, blue hair, purple eyes, eyelashes, eyebrows, blush
+(primate:1.25), hair, brown eyes, pecs
+(procyonid:1.25), ringtail, ring \(marking\), white body, markings, white fur, multicolored body, tail markings, multicolored fur, striped tail, black body, tuft, black fur, striped markings, brown body, cheek tuft, brown fur, facial tuft, brown eyes, chest tuft, black nose, facial markings, head markings, eyebrows, fluffy, biped
+(rabbit:1.25), chest tuft, whiskers, tuft, pink nose, white body, white fur, multicolored fur, multicolored body, featureless chest, brown fur, facial tuft, cheek tuft, brown body
+(raccoon:1.25), whiskers, ring \(marking\), ringtail, tuft, markings, chest tuft, striped tail, white body, striped markings, black fur, black body, white fur, multicolored body, cheek tuft, tail markings, facial tuft, head markings, facial markings, multicolored fur, brown fur, stripes, brown body, brown eyes, countershade torso, detailed, biped, black nose, shoulder tuft, inner ear fluff, white countershading
+(rat:1.25), whiskers, pink nose, buckteeth, tuft, white fur, brown eyes, white body, rat tail
+(reptile:1.25), green body, green scales, green skin
+(robot:1.25), machine, glowing eyes, glowing, blue eyes, metallic body, thigh gap
+(rodent:1.25), whiskers, pink nose, chest tuft, tuft, white fur, white body, brown fur, brown body, buckteeth, facial tuft, cheek tuft, multicolored body, multicolored fur, tan fur, tan body
+(scalie:1.25), horn, scales, green scales, green body, yellow body
+(sciurid:1.25), tuft, chest tuft, orange fur, orange body, whiskers, facial tuft, pink nose, cheek tuft, brown eyes, white fur
+(shark:1.25), hair, fin, teeth, brown hair, shark tail, sharp teeth, stripes, white skin, multicolored skin, grey skin, short hair
+(sheep:1.25), wool \(fur\), nipple tuft, white body, white fur, horn, brown eyes
+(skunk:1.25), white hair, hair, white body, white fur, purple eyes, black body, multicolored body, black fur, tuft, multicolored fur, eyebrows, fluffy, pink nose, cheek tuft
+(slug:1.25), chest tuft, brown body
+(snake:1.25), scales, yellow body
+(spirit:1.25), blue eyes, tuft, black fur, black body, chest tuft, multicolored body, black nose, cheek tuft, multicolored fur, facial tuft
+(syngnathid:1.25), antennae \(anatomy\), blue body, yellow eyes, insect wings
+(taur:1.25), orange fur, orange body, tuft, brown fur, chest tuft, brown body, green eyes, white fur, white body
+(theropod:1.25), scales, yellow eyes, green scales, green body, pupils, markings, claws, biped
+(tiger:1.25), stripes, pecs, white body, orange body, white fur, black stripes, biceps, striped body, striped fur, orange fur, black body, body hair, pink nose, tuft, black fur, multicolored body, claws, chest hair, multicolored fur, v-cut
+(unicorn:1.25), horn, hair, white body, blue hair, unicorn horn, multicolored hair, grey eyes, long hair, pond, eyelashes, white fur, slim, eyebrows
+(werecanid:1.25), black nose, pecs, claws, detailed, black fur, black body, tuft, detailed fur, white body, white fur, black claws, orange eyes, brown body, body hair, multicolored body, brown fur, yellow eyes, multicolored fur, chest hair, fangs, biceps
+(werecanine:1.25), black body, black nose, black fur, pecs, detailed, tuft, claws, v-cut, brown body, detailed fur, brown fur, white body, multicolored body, black claws, neck tuft, white fur, multicolored fur, fangs, chest tuft, biceps, yellow eyes, brown eyes, body hair, chest hair
+(werewolf:1.25), black body, black fur, black nose, claws, orange eyes, pecs, fully sheathed, detailed, fangs, detailed fur, sheath, tuft, brown body, yellow eyes, animal genitalia, brown fur, black claws, amber eyes, biceps
+(western dragon:1.25), horn, scales, blue eyes, red body, claws
+(wingless dragon:1.25), horn, green body, scales
+(wolf:1.25), tuft, white body, white fur, black nose, detailed, facial tuft, cheek tuft, pecs, neck tuft, grey body, grey fur, multicolored body, multicolored fur, fluffy, detailed fur, eyebrows, v-cut, inner ear fluff, chest tuft, fluffy tail, blue body, yellow eyes, orange eyes tuft, glistening eyes, black fur, black body, claws, markings, countershade torso, blue fur, biped
+(wyvern:1.25), horn, wings, membrane \(anatomy\), scales, yellow eyes, claws, membranous wings, pupils

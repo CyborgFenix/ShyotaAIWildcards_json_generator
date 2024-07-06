@@ -1,0 +1,38 @@
+(araneomorph:1.25), blue body, blue fur, tuft, chest tuft
+(bee:1.25), antennae \(anatomy\), wings, insect wings, yellow body, brown eyes
+(bumble bee \(species\):1.25), antennae \(anatomy\), tuft, yellow body, chest tuft, neck tuft, insect wings, wings
+(cecropia moth:1.25), antennae \(anatomy\), black body
+(centipede:1.25), stripes, fangs, orange body, black body, claws, striped body, sabertooth \(anatomy\)
+(cockroach:1.25), antennae \(anatomy\), mandibles, multicolored antennae, blattodea, compound eyes, brown body, multi limb, multi arm, tuft, dipstick antennae, biped, depth of field, black eyes, shadow, exoskeleton, 4 arms
+(crayfish:1.25), red body, orange scales, scales, orange body, claws
+(flower mantis:1.25), antennae \(anatomy\), floral, tuft, red eyes, slim, flower hair accessory, thigh gap, mouthless, chest tuft, featureless chest
+(galvantula:1.25), antennae \(anatomy\), yellow body, tuft
+(grasshopper:1.25), antennae \(anatomy\), green body, scales, mandibles, horn, green skin
+(honey bee:1.25), yellow body, chest tuft, tuft, antennae \(anatomy\), yellow fur, black eyes, stripes
+(hymenopteran:1.25), antennae \(anatomy\), tropical, yellow body, tuft
+(insect:1.25), antennae \(anatomy\), tropical, black eyes, tuft, brown eyes, biped
+(isopoda:1.25), antennae \(anatomy\), tropical, mandibles, black eyes
+(jewel the beetle:1.25), necklace, jewelry, purple eyes, blue body, eyewear, gem
+(jumping spider:1.25), red eyes, antennae \(anatomy\), tuft, black body, beak, chest tuft, slim, blush
+(ladybug:1.25), antennae \(anatomy\), chest tuft, tuft, red body, white body, markings, multicolored body, pokeball, blush, white fur, orange body
+(lobster:1.25), red body, machine
+(luna moth:1.25), green body, tuft, green fur, antennae \(anatomy\), chest tuft
+(lurantis:1.25), mouthless
+(mantis shrimp:1.25), antennae \(anatomy\)
+(mantis:1.25), antennae \(anatomy\), green body, mandibles, pecs
+(master mantis:1.25), antennae \(anatomy\), green body, mandibles, pecs, green skin
+(mothman:1.25), black body, red eyes, beak, black feathers, feathers, black fur, wings, antennae \(anatomy\)
+(mothra:1.25), wings, insect wings, yellow body, antennae \(anatomy\), tuft, yellow skin, neck tuft, chest tuft
+(moth:1.25), antennae \(anatomy\), tuft, neck tuft, black sclera, white body, yellow body, wings, chest tuft, multicolored body, brown body
+(muffet:1.25), purple body, multi eye, hair accessory, hair, fangs, hair ribbon, black hair, ribbons, accessory, multi limb, purple skin, hair bow, bow ribbon, bow accessory, bow \(feature\), 5 eyes, multi arm, short hair, pigtails, purple eyes, purple hair, straight hair
+(queen bee:1.25), antennae \(anatomy\), wings, yellow body
+(scarabaeid:1.25), antennae \(anatomy\), black body, tropical, markings, beak, sea, feathers, tuft
+(scolipede:1.25), horn, yellow eyes
+(scorpion:1.25), horn, yellow eyes, pecs
+(serilde:1.25), hair, black hair
+(shrimp:1.25), antennae \(anatomy\), tuft, stripes, pink nose, chest tuft, striped body, white body, multicolored body, markings, white fur, slim, striped fur, chest markings
+(tarantula hawk wasp:1.25), antennae \(anatomy\), beak
+(tarantula:1.25), red eyes, black fur, black body, tuft, brown fur, brown body, chest tuft, multicolored fur, multicolored body
+(venipede:1.25), horn, yellow eyes
+(vexus:1.25), green body, yellow eyes, seductive
+(wasp:1.25), antennae \(anatomy\), stripes, insect wings, yellow body

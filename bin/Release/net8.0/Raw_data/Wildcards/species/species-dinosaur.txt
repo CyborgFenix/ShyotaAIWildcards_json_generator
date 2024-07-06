@@ -1,0 +1,47 @@
+allosaurus
+ankylosaurus
+apatosaurus
+baryonyx
+blue \(jurassic world\)
+brachiosaurus
+brontosaurus
+carcharodontosaurid
+carnotaurus
+ceratosaurid
+ceratosaurus
+dinosaur
+dromaeosaurid
+feathered dinosaur
+feathered raptor
+indominus rex
+indoraptor
+jaggi
+jurassic park
+jurassic world
+mosasauroid
+ornithischian
+pachycephalosaurus
+parasaurolophus
+plesiosaurus
+plesiosaur
+pterosaur
+ruuhtian \(kig-yar\)
+salmonid \(fish\)
+sauropod
+saurus
+snorkasaurus
+spinosaurid
+spinosaurus
+stegosaurian
+stegosaurus
+styracosaurus
+theropod
+thyreophoran
+triceratops
+troodontid
+troodon
+tyrannosaurid
+tyrannosaurus rex
+tyrannosaurus
+utahraptor
+velociraptor

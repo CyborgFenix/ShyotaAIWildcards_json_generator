@@ -1,0 +1,67 @@
+__color-basic__ {1$$light|sky|water|glow}
+aurora
+bioluminescence
+blizzard
+building
+burning
+city
+cloud
+cloud emanata
+crepuscular ray
+dinner
+fire
+fireworks
+flare
+flood
+flower
+fog
+foggy
+forest
+garden
+grassland
+hologram
+house
+hurricane
+leaf
+lens flare
+light
+light beam
+light rays
+lightening
+moonlight
+motion lines
+mountain
+nebula
+ocean
+plant
+rain
+raining
+reflection
+reflective floor
+river
+rock
+sand
+shadow
+sky
+snow
+snowing
+snowstorm
+spark
+spotlight
+starry
+steam
+storm
+street
+sun rays
+sunlight
+sunrays
+tornado
+tower
+town
+tree
+underwater
+vine
+water
+watercraft
+waterfall
+waterline view

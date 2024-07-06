@@ -1,0 +1,5 @@
+{1$$standing|sitting|squatting|kneeling}
+{1$$standing|sitting|squatting|kneeling} {0-2$$__pose-looking__|__pose-limbs__}
+__pose__ {0-2$$__pose-looking__|__pose-limbs__}
+__pose-body__ {0-2$$__pose-looking__|__pose-limbs__}
+{1-2$$__pose__|__pose-body__} {0-2$$__pose-looking__|__pose-limbs__}

@@ -1,0 +1,14 @@
+D:\Diego\Varios\Proyectos de Programacion\C#\ShyotaAIWildcards_json_generator\bin\Debug\net8.0\ShyotaAIWildcards_json_generator.exe
+D:\Diego\Varios\Proyectos de Programacion\C#\ShyotaAIWildcards_json_generator\bin\Debug\net8.0\ShyotaAIWildcards_json_generator.deps.json
+D:\Diego\Varios\Proyectos de Programacion\C#\ShyotaAIWildcards_json_generator\bin\Debug\net8.0\ShyotaAIWildcards_json_generator.runtimeconfig.json
+D:\Diego\Varios\Proyectos de Programacion\C#\ShyotaAIWildcards_json_generator\bin\Debug\net8.0\ShyotaAIWildcards_json_generator.dll
+D:\Diego\Varios\Proyectos de Programacion\C#\ShyotaAIWildcards_json_generator\bin\Debug\net8.0\ShyotaAIWildcards_json_generator.pdb
+D:\Diego\Varios\Proyectos de Programacion\C#\ShyotaAIWildcards_json_generator\obj\Debug\net8.0\ShyotaAIWildcards_json_generator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diego\Varios\Proyectos de Programacion\C#\ShyotaAIWildcards_json_generator\obj\Debug\net8.0\ShyotaAIWildcards_json_generator.AssemblyInfoInputs.cache
+D:\Diego\Varios\Proyectos de Programacion\C#\ShyotaAIWildcards_json_generator\obj\Debug\net8.0\ShyotaAIWildcards_json_generator.AssemblyInfo.cs
+D:\Diego\Varios\Proyectos de Programacion\C#\ShyotaAIWildcards_json_generator\obj\Debug\net8.0\ShyotaAIWildcards_json_generator.csproj.CoreCompileInputs.cache
+D:\Diego\Varios\Proyectos de Programacion\C#\ShyotaAIWildcards_json_generator\obj\Debug\net8.0\ShyotaAIWildcards_json_generator.dll
+D:\Diego\Varios\Proyectos de Programacion\C#\ShyotaAIWildcards_json_generator\obj\Debug\net8.0\refint\ShyotaAIWildcards_json_generator.dll
+D:\Diego\Varios\Proyectos de Programacion\C#\ShyotaAIWildcards_json_generator\obj\Debug\net8.0\ShyotaAIWildcards_json_generator.pdb
+D:\Diego\Varios\Proyectos de Programacion\C#\ShyotaAIWildcards_json_generator\obj\Debug\net8.0\ShyotaAIWildcards_json_generator.genruntimeconfig.cache
+D:\Diego\Varios\Proyectos de Programacion\C#\ShyotaAIWildcards_json_generator\obj\Debug\net8.0\ref\ShyotaAIWildcards_json_generator.dll

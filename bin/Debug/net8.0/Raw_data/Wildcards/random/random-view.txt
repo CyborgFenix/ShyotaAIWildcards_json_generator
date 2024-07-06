@@ -1,0 +1,8 @@
+__camera-portrait__, __camera-view-e621__, __pose-looking__, __pose-limbs__
+{1$$half-length|three-quarter} portrait, {1$$front|three-quarter|side} view, looking at viewer, {1$$hands {1$$behind head|between legs|down|up}|hand on {1$$hips|legs|thigh|head|chest}|hands on {1$$hips|legs}|spread legs}
+{1$$half-length|three-quarter} portrait, front view, low-angle view, looking at viewer, {1$$hands {1$$behind head|between legs|down|up}|hand on {1$$hips|legs|thigh|head|chest}|hands on {1$$hips|legs}|spread legs}
+front view, {1$$half-length|three-quarter|full-length} portrait, looking {1$$at viewer|away|aside|down at viewer}, {1$$hands {1$$behind head|between legs|down|up}|hand on {1$$hips|legs|thigh|head|chest}|hands on {1$$hips|legs}|spread legs}
+three-quarter view, {1$$half-length|three-quarter|full-length} portrait, looking {1$$at viewer|away|aside|down at viewer}, {1$$hands {1$$behind head|between legs|down|up}|hand on {1$$hips|legs|thigh|head|chest}|hands on {1$$hips|legs}|spread legs}
+side view, {1$$half-length|three-quarter|full-length} portrait, looking {1$$at viewer|away|aside}, {1$$hands {1$$behind head|between legs|down|up}|hand on {1$$hips|legs|thigh|head|chest}|hands on {1$$hips|legs}|spread legs}
+front view, low-angle view, {1$$half-length|three-quarter|full-length} portrait, looking {1$$at viewer|away|aside|down at viewer}, {1$$hands {1$$behind head|between legs|down|up}|hand on {1$$hips|legs|thigh|head|chest}|hands on {1$$hips|legs}|spread legs}
+three-quarter view, low-angle view, {1$$half-length|three-quarter|full-length} portrait, looking {1$$at viewer|away|aside|down at viewer}, {1$$hands {1$$behind head|between legs|down|up}|hand on {1$$hips|legs|thigh|head|chest}|hands on {1$$hips|legs}|spread legs}

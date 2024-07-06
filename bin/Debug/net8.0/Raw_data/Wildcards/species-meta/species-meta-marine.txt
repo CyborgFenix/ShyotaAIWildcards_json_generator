@@ -1,0 +1,55 @@
+(axolotl:1.25), featureless chest, pink eyes
+(baleen whale:1.25), blue body, white body, multicolored body, grey body
+(beluga:1.25), white body, albino
+(betta \(genus\):1.25), hair, red eyes, red hair, eyelashes, eyebrows
+(billfish:1.25), blue body, pecs
+(blacktip reef shark:1.25), slim
+(blue whale:1.25), blue body, white skin, blue skin
+(bottlenose dolphin:1.25), fin
+(cetacean:1.25), 
+(commersons dolphin:1.25), black skin, black body, white body
+(common dolphin:1.25), black skin
+(dj shark \(dj sharkowski\):1.25), teeth, hair, eyebrows, blue hair, blue body, sharp teeth, fin, pecs
+(dolphin:1.25), fin
+(furred shark:1.25), chest tuft, hair, tuft, brown hair, white body, multicolored body, biped, brown body, markings, short hair, blue eyes, grey body, cheek tuft, brown fur, eyebrows
+(glaucus atlanticus:1.25), blue eyes, blue body, hair, claws, slim, white body, feathers, eyelashes, antennae \(anatomy\), blue fur
+(goldfish:1.25), orange body
+(great white shark:1.25), white body, stripes, multicolored body, markings, slim, brown eyes, fin
+(greenland shark:1.25), pecs
+(humpback whale:1.25), fin, white body, blue eyes, black body, white skin, black skin
+(king shark:1.25), pecs, grey skin, biceps, horn, white skin, stripes, fin, black skin, scar, grey body, chest scar, big muscles
+(koi:1.25), amur carp, typical carp, carp, white body, blue eyes, orange body, white fur, multicolored body, biped
+(leopard seal:1.25), spots, white body, whiskers
+(lionfish:1.25), tribal, 4 ears, multi ear, feathers, white body, multicolored body, stripes, markings
+(loggerhead sea turtle:1.25), green body, yellow body, pecs
+(mako shark:1.25), fin, white skin, multicolored skin, multicolored body, yellow eyes
+(megalodon:1.25), pecs, biceps, stripes, blue body, blue skin, claws, scar, topless male, serratus
+(mr. shark \(the bad guys\):1.25), teeth, pecs, grin, musclegut
+(narwhal:1.25), horn, hair, tuft, tail tuft, chest tuft, black hair, white body, girly, slim
+(neo-spacian aqua dolphin:1.25), blue body, blue skin, fin
+(oceanic dolphin:1.25), 
+(orca:1.25), black skin, black body
+(orchid mantis:1.25), pink eyes, horn, eyelashes, girly, pink body, white body
+(pinniped:1.25), whiskers, ladder
+(primarina:1.25), starfish \(accessory\), blue hair, pearl \(gem\), hair, blue eyes, long hair, white skin, white body, split form, pink nose, eyelashes, blue body
+(razor the shark:1.25), green body, stripes, markings, green skin, fin, multicolored body
+(reef shark:1.25), slim
+(requiem shark:1.25), blue eyes, jewelry
+(riptide \(riptideshark\):1.25), black hair, hair, fin, teeth, green eyes, multicolored skin, sharp teeth, grey body, grey skin, biped, short hair, black body, white body
+(salmon shark:1.25), markings, stripes, multicolored body, yellow eyes, slim, eyelashes
+(sea turtle:1.25), green body, scales, green skin
+(seahorse:1.25), blue eyes, frill \(anatomy\), featureless chest, fin
+(seal:1.25), blue eyes, whiskers
+(shannon shark:1.25), eyelashes, horn, orange eyes, multicolored body, blue body, collarbone, red eyes, two tone body
+(sperm whale:1.25), pecs
+(spotted seal:1.25), spots, whiskers, spotted skin, spotted body, white body, pecs, chest hair, spotted fur, body hair, multicolored body
+(stingray:1.25), 
+(striped dolphin:1.25), black body, white body, blue body
+(syngnathid:1.25), antennae \(anatomy\), blue body, yellow eyes, insect wings
+(syrena \(riptideshark\):1.25), hair, black hair, fin, brown hair
+(thresher shark:1.25), blue body
+(toothed whale:1.25), white body, blue eyes, beak, multicolored body
+(tortoise:1.25), green body, scales, green skin, green scales, pecs, yellow body, spots, spotted skin
+(turtle:1.25), turtle shell, green body, green skin, scales, shell
+(whale shark:1.25), blue body
+(whale:1.25), 

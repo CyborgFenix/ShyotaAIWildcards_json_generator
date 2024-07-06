@@ -1,0 +1,8 @@
+standing
+sitting
+{1$$laying|lying} on {1$$down|back|front|side}
+squatting
+kneeling
+kneeling on one leg
+crouching
+reclining

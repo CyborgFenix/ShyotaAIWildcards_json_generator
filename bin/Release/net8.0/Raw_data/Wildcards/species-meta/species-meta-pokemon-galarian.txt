@@ -1,0 +1,20 @@
+(galarian Meowth:1.25), toony, claws, grey body, teeth, toes, feet, grey fur, sharp teeth, 3 toes, yellow eyes, toe claws, yellow sclera, tuft
+(galarian Ponyta:1.25), two tone mane, multicolored mane, horn, quadruped, purple tail, white body, feathering, blue eyes, mane, multicolored horn, hooves, white fur, two tone horn, unicorn horn, blue mane, fluffy, blue tail, pink mane, two tone tail, hair, black horn, green tail, markings, tuft
+(galarian Rapidash:1.25), horn, two tone mane, hooves, white body, blue eyes, multicolored mane, hair, pink mane, mane, multicolored hair, white fur, unicorn horn, grey hooves
+(galarian Slowpoke:1.25), pink body, yellow body, fangs, toony, on front, black eyes, pink skin
+(galarian Slowbro:1.25), toony, white claws, purple body, claws, multicolored body, countershade torso, shell, fangs, biped, tan countershading, looking down, feet, toe claws, on model, 3 toes, toes, spikes, two tone body, countershade face, black eyes, frown, shadow, size difference
+(galarian Farfetchd:1.25), feather tuft, yellow beak, vegetable, beak, feathers, food, white feathers, webbed feet, unibrow, feathered crest, tail feathers, head tuft, white body, eyebrows, multicolored body, tuft, feet, head crest, biped, lighting, black markings, shadow, toes, brown body, wings, holding food, brown eyes, eye markings, 3 toes, holding object, brown feathers, feather hands, smug, thick eyebrows, narrowed eyes
+(galarian Weezing:1.25), headgear, multi head, suspended in midair, headwear, smoke, fangs, toony, cannon, teeth, green body, open frown
+(galarian Mr-Mime:1.25), spread arms, blue body, blue skin, toony, shell
+(galarian Slowking:1.25), fangs, purple body, gem, teeth, horn, purple skin, 3 toes, feet
+(galarian Corsola:1.25), on model, :<, frown, pink eyes, featureless feet, toony, multicolored body, purple eyes, grey body, simple shading
+(galarian Zigzagoon:1.25), claws, black body, toony, pink tongue, suspended in midair, teeth, on model, fangs, feet, toes, 3 toes, pink eyes, toe claws
+(galarian Linoone:1.25), grey body, black body, teeth, claws, black fur, sharp teeth, grey fur, multicolored body, toony, white body
+(galarian Darumaka:1.25), toony, blue body, wide eyed, ice, spread arms, blue horn, multicolored body, teeth, white body
+(galarian Darmanitan:1.25), blue eyes, blue body, white body, blue sclera, ice, shell
+(galarian Darmanitan Zen:1.25), white body, orange eyes
+(galarian Yamask:1.25), toony, black body, black eyes, rock creature, fist
+(galarian Stunfisk:1.25), toony, wide eyed, green body, teeth, grey body, black body, multicolored body
+(galarian Articuno:1.25), feathers, wings, feathered wings, winged arms, beak, tail feathers, black feathers, multicolored feathers, grey beak, suspended in midair, talons, toony, black beak, feather tuft, black body, white feathers, black tail, eye markings, multicolored wings, grey feathers, multicolored body, spread wings, toes, two tone wings, feet, feathered crest, flying, frown, two tone tail, head crest, green feathers, multi tone body, folded wings, white body, grey body, grey feet, black wings, biped, monotone wings, cere \(anatomy\), blue sclera, markings, long tail, black eyes, purple feathers
+(galarian Moltres:1.25), fire, wings, black feathers, claws, talons, black body, feathers, blue eyes, beak, flaming hair, red body, fire manipulation, breath powers, suspended in midair
+(galarian Zapdos:1.25), black body, beak, claws, talons, feathers, feet, anisodactyl, toes, black feathers, yellow eyes, toe claws, orange feathers, tail feathers, wings, eye markings, orange body

@@ -1,0 +1,269 @@
+(absol:1.25), white body, white fur, horn, blue areola, red eyes, neck tuft, tuft, hair
+(aggron:1.25), armor, helmet, headgear, gauntlets, tropical, bone, claws, metallic body
+(alcremie:1.25), white body, blush, white fur, hair, thigh gap, pink hair, pink eyes
+(alolan meowth:1.25), featureless chest, white body, grey eyes, pupils, slim, narrowed eyes, white fur
+(alolan ninetales:1.25), multi tail, hair, blue eyes, white body, blue body, white fur, blue areola, long hair, blue fur, eyelashes, white hair
+(alolan raichu:1.25), yellow body, yellow fur, blue eyes
+(alolan vulpix:1.25), blue eyes, white body, white fur, girly, hair
+(amaura:1.25), blue eyes, blue body, horn, eyelashes, featureless chest, slim
+(ampharos:1.25), yellow skin, yellow body, markings, slim
+(arbok:1.25), snake hood, scales, pupils, slit pupils, purple body, yellow eyes, legless scales, forked tongue, purple scales
+(arcanine:1.25), pecs, black body, tuft, black fur, neck tuft, stripes, mane, orange body
+(arceus:1.25), yellow eyes, glowing, armor, glowing eyes, white body, claws
+(aromatisse:1.25), tuft, neck tuft, yellow eyes, chest tuft, pink body, fluffy, eyelashes, eyebrows, pink fur, hair, white body, black nose, pink hair, white fur, multicolored body, fluffy tail, facial tuft
+(articuno:1.25), feathers, beak, blue body, blue feathers, wings, feather hair, feathered wings, winged arms
+(audino:1.25), pink eyes, pink body, white body
+(baby kangaskhan:1.25), horn, scales, claws, slightly chubby
+(banette:1.25), pupils, red eyes, featureless chest, slit pupils, collarbone, blush, narrowed eyes, black pupils, black body
+(blastoise:1.25), shell, blue body, musclegut, blue eyes, slightly chubby, pecs male, biceps, biped, blue skin
+(blaziken:1.25), red body, yellow sclera, red feathers, feathers, blush, scuted arms, beak, long hair, hair, eyelashes
+(blitzle:1.25), black body, black fur, white body, pecs, white fur
+(braixen:1.25), inner ear fluff, tuft, yellow body, yellow fur, white fur, white body, black body, orange nose, black fur, orange eyes, multicolored body, multicolored fur, chest tuft, shoulder tuft
+(braviary:1.25), feathers, beak, blue body, feathered wings, wings, multicolored feathers, red feathers, blue feathers, winged arms, head crest
+(breloom:1.25), headgear, headwear, green body
+(budew:1.25), green body, horn, hair, blush, green hair, slim, eyelashes, green fur, yellow body, food, glistening, pupils, pseudo hair, yellow eyes, orange eyes
+(buizel:1.25), orange body, yellow body
+(bulbasaur:1.25), green body, slightly chubby
+(celebi:1.25), thigh gap, green body, horn, green tail
+(celesteela:1.25), 
+(ceruledge:1.25), machine, purple eyes, armor, pink eyes
+(charizard:1.25), wings, membrane \(anatomy\), membranous wings, fire, claws, slightly chubby, musclegut, orange body, pecs, horn, scales, orange skin
+(charmander:1.25), fire, orange body, blue eyes, flaming tail, orange skin, fangs, slightly chubby
+(charmeleon:1.25), fire, flaming tail, blue eyes, orange skin, orange body, claws
+(chespin:1.25), featureless chest, brown eyes, yellow body, yellow fur, markings, head markings, facial markings, young, teeth, multicolored body, biped
+(chikorita:1.25), green body, brown eyes, yellow body, blush
+(cinccino:1.25), blush, tuft, pink eyes
+(cinderace:1.25), white body, white fur
+(clefairy:1.25), hair
+(corviknight:1.25), feathers, beak, wings, black feathers, black body, winged arms, feathered wings, purple body, purple feathers, pecs, black beak, blue feathers
+(cosmog:1.25), afro, blue fur, hair, heart nose, blue body, heart \(marking\), pink eyes, chest markings, multicolored body, eyebrows, blue hair, tuft, chest tuft, blush stickers
+(cresselia:1.25), purple eyes, cleavage, horn, eyelashes
+(cubone:1.25), skull, bone, horn, skull mask
+(cyclizar:1.25), yellow eyes, green body
+(darkrai:1.25), red eyes, black body, claws
+(dartrix:1.25), beak, feathers, green body, tuft, chest tuft, green feathers, white feathers, white body, winged arms, wings, multicolored body, multicolored feathers, yellow beak, feathered wings, hair
+(dashing wanderer ampharos:1.25), yellow skin, yellow body, fruit, markings, slim, food, stripes, head markings, biped
+(decidueye:1.25), feathers, beak, green feathers, feathered wings, multicolored feathers, orange eyes, brown feathers, winged arms, wings, red eyes, white body
+(delphox:1.25), inner ear fluff, tuft, yellow fur, red eyes, yellow body, black body, black fur
+(dewott:1.25), blue body, chest tuft, narrowed eyes, tuft
+(dialga:1.25), blue body, armor, machine, horn, blue skin, pond
+(dragonite:1.25), wings, membrane \(anatomy\), membranous wings, horn, scales, glistening, blush
+(drampa:1.25), hair
+(dusk lycanroc:1.25), tuft, chest tuft, white fur, white body, red eyes, black nose, sunset, multicolored fur, multicolored body, hair, claws, neck tuft
+(eelektross:1.25), yellow eyes, snake hood, egyptian, jewelry, gold jewelry
+(eeveelution:1.25), tuft, chest tuft, blush, yellow fur, yellow body, brown body, brown fur
+(eevee:1.25), brown body, neck tuft, brown eyes, brown fur, fluffy tail
+(espeon:1.25), purple eyes, forked tail, purple fur, purple body, unusual tail, gem, collarbone, pink areola, forehead gem
+(fakemon:1.25), 
+(fakeveelution:1.25), purple eyes, tuft, white body, chest tuft, fluffy, white fur, fluffy tail, markings, cheek tuft, facial tuft
+(felipunny:1.25), brown body, brown fur, thigh gap, pink eyes, black sclera, long ears
+(fennekin:1.25), tuft, yellow body, yellow fur, inner ear fluff, chest tuft, white body, white fur, facial tuft, markings, cheek tuft, orange eyes, tail markings
+(feraligatr:1.25), pecs, red eyes, blue body, blue skin, biceps, claws, scales, horn, fangs
+(flareon:1.25), blush, orange body, orange fur, fluffy tail
+(fletchling:1.25), blue eyes, beak, feathers, orange feathers, orange body, tuft, multicolored body, chest tuft
+(floatzel:1.25), orange body, markings, multicolored body
+(froslass:1.25), red eyes, gem, blue body, white body
+(frosmoth:1.25), wings, white body, hair, tuft
+(furfrou:1.25), hair
+(furret:1.25), stripes, brown body, brown fur, markings, tail markings, head markings, facial markings, brown eyes, multicolored body, striped markings, tuft, striped body, brown tail, brown hair, striped tail, multicolored fur, brown stripes, chest tuft, striped fur
+(galarian meowth:1.25), tuft, island, pupils, white body, yellow eyes
+(galarian ponyta:1.25), horn, pink horn, hair, pink hair, pink eyes, white body, unicorn horn, fluffy, fluffy tail, thigh gap, pink body, white fur, purple eyes, eyebrows, slim, fleur de lis \(mlp\), tuft, pond
+(galarian rapidash:1.25), horn, unicorn horn, hair, white body, pink horn, chest tuft, tuft, pink tail, multicolored hair, eyebrows, pond, eyelashes, pink areola, long hair, pink hair, fingernails, white fur, white skin, wavy hair, colored nails
+(galvantula:1.25), antennae \(anatomy\), yellow body, tuft
+(garchomp:1.25), pecs, yellow eyes, spikes, claws, black sclera, blue body, horn, biceps
+(gardevoir:1.25), green hair, red eyes, hair, thigh gap, white body
+(gengar:1.25), grin, red eyes, evil grin, teeth, purple body, slightly chubby
+(gible:1.25), blue body, brown eyes
+(glaceon:1.25), blue eyes, blue body, blue fur, dipstick tail
+(glameow:1.25), pink nose, tuft, whiskers, purple eyes, chest tuft, white fur, white body, blue fur, pink eyes, blue body, markings, purple fur, inner ear fluff, hair, multicolored body, multicolored fur, tail markings, pink inner ear, featureless chest, stripes
+(goodra:1.25), green eyes, antennae \(anatomy\), slightly chubby, purple body, slime ball
+(greninja:1.25), blue body, red eyes
+(grovyle:1.25), green body, green scales, red eyes, green skin, claws
+(growlithe:1.25), tuft, pecs, stripes, biceps, chest tuft, neck tuft, brown eyes, orange body, orange fur, tan body, tan fur, multicolored body, markings, multicolored fur, biped, black nose, striped body, striped fur, fluffy, black stripes, hair
+(gyarados:1.25), scales, blue body, pecs, horn
+(haunter:1.25), purple body, red eyes, purple skin, pupils, teeth, grin, fangs, collarbone, slit pupils, claws
+(herdier:1.25), chest tuft, tuft, hair, blue eyes, yellow fur, blonde hair
+(hisuian arcanine:1.25), tuft, orange body, black fur, black body, neck tuft, black nose, stripes, hair, orange fur, fluffy
+(hisuian lilligant:1.25), lilligant, pink eyes, pseudo hair, green body, red eyes, hair
+(hisuian typhlosion:1.25), red eyes, fire
+(hisuian zoroark:1.25), white body, white fur, hair, red markings, claws, tuft
+(hisuian zorua:1.25), pink eyes, neck tuft, tuft
+(ho-oh:1.25), feathers, beak, wings, orange feathers, pecs, white feathers, feathered wings, red feathers, head crest, white body
+(hoothoot:1.25), feathers, beak, brown feathers, white body, multicolored feathers, brown body, white feathers, tuft, tan feathers, wings, brown eyes, multicolored body
+(houndoom:1.25), horn, collar, pecs, bracelet, jewelry, brown body, brown eyes, brown fur
+(houndour:1.25), pecs, collar, bracelet, brown body, brown eyes, brown fur, jewelry, black body
+(hydreigon:1.25), red eyes, hair, black body
+(hypno \(pokemon\):1.25), pecs, yellow body, biceps, yellow fur
+(incineroar:1.25), pecs, black fur, black body, red fur, yellow sclera, fangs, fire, chest hair, claws, red body, teeth, stripes, biceps, green eyes, striped fur, body hair, tuft, red nose
+(infernape:1.25), pecs, white hair, pseudo hair, hair
+(inteleon:1.25), blue body, yellow eyes, railing
+(ivysaur:1.25), slightly chubby, red eyes, green body, horn, wings
+(jigglypuff:1.25), pink hair, hair, blush
+(jirachi:1.25), blush, pupils, collarbone, featureless chest, black pupils, headgear, white body, yellow eyes, headwear, slit pupils
+(jolteon:1.25), yellow body, yellow fur, neck tuft
+(keldeo \(ordinary form\):1.25), blue eyes, hair, collarbone, blue hair
+(kirlia:1.25), green hair, hair, red eyes, green body, green skin
+(komala:1.25), blue body, blue eyes, blue fur, tuft
+(kommo-o:1.25), gem, claws, armor, red eyes, big hands, green body
+(koraidon:1.25), red body, pecs, horn, red eyes, biceps, red scales
+(lapras:1.25), horn, blue body, blue skin, shell, wings
+(latias:1.25), red eyes, red body, wings, multicolored body, eon duo
+(latios:1.25), red eyes, blue body, blue skin
+(leafeon:1.25), leaf tail, light yellow body, brown eyes
+(linoone:1.25), chest tuft, tuft, facial tuft, cheek tuft, markings, white body, multicolored body, brown body, green body, white fur, pupils, multicolored fur, brown fur, fluffy
+(litten:1.25), black fur, black body, yellow sclera, red eyes, collarbone, stripes, red body, markings, red fur, blush, facial tuft
+(lopunny:1.25), brown body, brown fur, pink eyes, black sclera, red eyes, long ears, pink nose, wrist tuft, eyebrows
+(low key toxtricity:1.25), spikes, amped toxtricity, bracelet, pecs, purple body, jewelry, scales, spiked bracelet, spikes \(anatomy\), yellow eyes, horn, claws, spiky hair, biceps
+(lucario:1.25), blue fur, blue body, red eyes, black fur, black body, yellow fur, yellow body
+(ludicolo:1.25), headgear, headwear, tuft, headgear only, headwear only, brown body, brown fur, hat only, multicolored body, featureless chest
+(lugia:1.25), red eyes, blue body
+(lunala:1.25), purple eyes, horn, purple body
+(lurantis:1.25), mouthless
+(luxio:1.25), black fur, black body, blue fur, blue body, multicolored body, yellow eyes
+(luxray:1.25), black fur, black body, tuft, blue fur, hair, red nose, stripes, blue body, multicolored body, multicolored fur
+(lycanroc:1.25), red fur, chest tuft, red body, claws, pink eyes, white body, red eyes, white fur
+(machamp:1.25), pecs, biceps, serratus, big muscles
+(machoke:1.25), pecs, biceps, purple body, scar, big muscles, red eyes, fangs, serratus
+(machop:1.25), pecs, brown eyes
+(mareanie:1.25), green eyes, hair
+(mawile:1.25), hair, black hair, long hair, ponytail, eyelashes, yellow body, accessory
+(meloetta \(aria form\):1.25), green eyes, thigh gap, white body
+(meloetta:1.25), green eyes, thigh gap, horn
+(meowscarada:1.25), green fur, green body, furball \(artist\), pink eyes, head markings, facial markings, black fur, black body, under boob, facial tuft, finger claws, claws
+(meowstic:1.25), scarf, blue eyes, white body, white fur, blue body, yellow sclera, blue fur, multicolored body
+(meowth:1.25), narrowed eyes
+(mew \(pokemon\):1.25), blue eyes, pink body, white body
+(mew tuely \(fan character\):1.25), pink hair, pink nose, purple eyes, hair, slim, pink body, girly, pink eyes, pink fur, white body, tuft, pink tail, eyelashes
+(mewtwo:1.25), purple eyes, purple body
+(midday lycanroc:1.25), neck tuft, tuft, white body, white fur, chest tuft, pink eyes, red eyes, facial tuft, cheek tuft, multicolored body
+(midnight lycanroc:1.25), red fur, hair, claws, white body, red body, white fur, chest tuft, red eyes, pink eyes
+(mienshao:1.25), makeup
+(mightyena:1.25), red eyes, black hair, hair, tuft, black fur, fluffy, black body, fluffy tail, markings, white body, grey body
+(milotic:1.25), thigh gap, red eyes, curvy figure, small waist
+(miltank:1.25), blue eyes, slightly chubby, horn female, blush
+(mimikyu:1.25), cloak, yellow body, costume
+(minun:1.25), yellow body, yellow fur
+(miraidon:1.25), horn, yellow eyes, blue body, purple body, pecs
+(mismagius:1.25), headwear, headgear, cape, purple eyes, mostly nude, purple body, magic user, gem, pupils, yellow sclera
+(moltres:1.25), fire, flaming tail, pseudo hair, slim, collarbone, yellow eyes, fire manipulation
+(mudbray:1.25), hair, horn, blue eyes, brown hair, multicolored body
+(mudsdale:1.25), headgear, pecs, helmet, biceps, headwear, brown body, headgear only, armor, wristband, body hair
+(murkrow:1.25), feathers, beak, table, wings, blue body, black feathers, blue feathers
+(natural furfrou:1.25), white body, white fur, horn, hair
+(nickit:1.25), tuft, orange fur, orange body, chest tuft, orange eyes, inner ear fluff, markings, white body, facial tuft, white fur, cheek tuft, fluffy, black fur, gloves \(marking\), black body, multicolored body, shoulder tuft
+(nidoking:1.25), horn, machine, purple body, fangs
+(nidoqueen:1.25), shell, eyelashes, horn, machine, blue body
+(nidoran:1.25), horn, featureless chest, purple body, blue body, yellow eyes
+(nidorina:1.25), horn, blue body, purple eyes
+(nidorino:1.25), horn, purple body, spikes, spikes \(anatomy\), featureless chest, yellow eyes, blue body
+(ninetales:1.25), multi tail, hair, tuft, fluffy, long hair, chest tuft, blonde hair, fluffy tail
+(noibat:1.25), purple body, red eyes, yellow sclera, narrowed eyes, horn, seductive
+(noivern:1.25), wings, membrane \(anatomy\), membranous wings, black body, pupils, multicolored body, red eyes, slit pupils, green body, purple body
+(numel:1.25), yellow body, yellow fur, featureless chest, multicolored body
+(obstagoon:1.25), pecs, hair, black body, black hair, white body, armor, black fur, white fur, humanoid hands, multicolored body, biceps, chest markings, red eyes, markings, claws, big muscles, multicolored fur, triceps, grey body, big pecs
+(pachirisu:1.25), blue body, white body
+(palkia:1.25), pink eyes, horn, purple eyes, claws
+(pancham:1.25), young, blush, black body, black fur, multicolored body, brown eyes, red eyes, facial tuft, cheek tuft, multicolored fur, teeth, markings
+(pangoro:1.25), black body, black fur male, musclegut, black nose, white body, humanoid hands, pecs, body hair
+(passimian:1.25), green fur, white body, green body
+(patrat:1.25), brown fur, tuft, brown body, chest tuft, teeth
+(pawmot:1.25), chest tuft, blue eyes, tuft, orange body, orange fur, white body, white fur, multicolored body, multicolored fur
+(phantump:1.25), horn, yellow eyes, headgear, tuft, neckwear
+(pheromosa:1.25), pink eyes, antennae \(anatomy\)
+(pichu:1.25), yellow body, yellow fur, cleft tail, markings, multicolored ears, brown eyes, multicolored body, hair, yellow tail
+(pidgeot:1.25), beak, feathers, brown eyes, brown feathers
+(pidove:1.25), beak, feathers, chest tuft, eyelashes, tuft, eyebrows
+(pikachu:1.25), yellow body, yellow fur, cleft tail, pecs, brown eyes
+(piplup:1.25), beak, feathers, blue body, blue eyes, blue feathers, white feathers, white body, yellow beak, feathered wings
+(ponyta:1.25), fire, flaming hair, white body, pseudo hair, tuft
+(poochyena:1.25), black fur, black body, cheek tuft, facial tuft, tuft, grey body, grey fur, markings, shoulder tuft, black nose, black tail, neck tuft, multicolored body, fluffy, chest tuft, gloves \(marking\), multicolored fur, fluffy tail, white body, smirk, eyebrows, white fur, black ears, yellow eyes, tail markings, fur markings, biped, fur tuft, multicolored tail
+(popplio:1.25), blue body, collar
+(porygon2:1.25), blue body, glistening
+(porygon:1.25), blue body, feathers
+(primarina:1.25), starfish \(accessory\), blue hair, pearl \(gem\), hair, blue eyes, long hair, white skin, white body, split form, pink nose, eyelashes, blue body
+(purrloin:1.25), pink eyes, tuft, chest tuft, thigh gap, claws, facial tuft, cheek tuft
+(purugly:1.25), whiskers, heterochromia, stripes, pink nose, tuft, grey body, white body
+(quagsire:1.25), table, blue body, blue skin, horn, slightly chubby, brown eyes, shell, biped
+(quilava:1.25), red eyes, multicolored body
+(raichu:1.25), yellow body, yellow fur, pecs, markings, yellow eyes, biped, hair, alolan raichu
+(ralts:1.25), thigh gap, collarbone, featureless chest, slim, hair, white body, narrowed eyes, green body, red eyes
+(rattata:1.25), whiskers, pink hair, purple body, featureless chest, pink eyes, purple eyes, purple fur, hair
+(rayquaza:1.25), green body, yellow eyes, horn, garden
+(remoraid:1.25), fin, green body, blue body, hair
+(reshiram:1.25), white body, blue eyes, white fur, wings, feathers, choker, white feathers, white hair
+(rhydon:1.25), horn, scales, smirk, yellow eyes, grin, spikes, biped
+(rhyhorn:1.25), horn, spikes, claws, spikes \(anatomy\), fangs, scales, grey body, teeth
+(ribombee:1.25), wings, antennae \(anatomy\), insect wings, yellow body, tuft
+(rillaboom:1.25), pecs, facial hair, green body, brown body, mane, green fur, brown eyes, musclegut, humanoid hands, hair, eyebrows, brown fur
+(riolu:1.25), blue body, red eyes, blue fur, black body, black fur
+(rockruff:1.25), brown body, brown fur, brown eyes, bracelet, tuft, tan fur
+(roserade:1.25), green body, rose \(flower\), yellow eyes, green fur
+(ruins style lucario:1.25), blue body, blue fur, egyptian, yellow body, jewelry, yellow fur, black fur, black body, red eyes, pecs, bracelet
+(salandit:1.25), black body
+(salazzle:1.25), purple sclera, purple eyes, slit pupils, pupils, eyelashes, black body, scales, multicolored body
+(samurott:1.25), armor, helmet, gauntlets, blue body, horn, blue skin, pecs, shell, headgear, biceps, white body
+(sandshrew:1.25), brown eyes
+(sawsbuck:1.25), antlers, horn, pecs, brown body, brown fur, white body, white fur, tuft, biped, black nose, multicolored fur, biceps, eyebrows, multicolored body, brown eyes
+(scolipede:1.25), horn, yellow eyes
+(scorbunny:1.25), white body, white fur
+(seismitoad:1.25), blue body, pecs, blue skin
+(serperior:1.25), green body, yellow eyes, pecs
+(shaymin:1.25), green fur, green body
+(shinx:1.25), blue body, blue fur, yellow eyes, star, multicolored body, black body, black fur, collar, markings, multicolored fur
+(skeledirge:1.25), horn, multicolored body, scales
+(skiploom:1.25), green body, blonde hair, hair
+(sky forme shaymin:1.25), green fur, green body, brown eyes, tuft, hair
+(sliggoo:1.25), glistening
+(slowpoke:1.25), pink body, slightly chubby
+(smeargle:1.25), headgear, headwear, brown eyes, collar, white body, multicolored body, white fur
+(sneasel:1.25), blush, gem, tuft, green body, eyelashes, facial tuft
+(snivy:1.25), green body, yellow eyes
+(snorlax:1.25), slightly chubby, narrowed eyes
+(solgaleo:1.25), pecs, white body, white fur, black body, biceps, mane
+(spinda:1.25), red body, multicolored body, markings, head markings, facial markings, brown eyes
+(spiritomb:1.25), purple body, purple fur, yellow eyes, tuft, purple tail, forehead gem, facial tuft, glowing, cheek tuft, glowing eyes, markings, eyelashes, evergreen tree, purple hair, black body, purple ears, pine tree, chest tuft, multicolored body
+(sprigatito:1.25), green body, green fur, tuft, facial tuft, cheek tuft, pink nose, neck tuft, multicolored body
+(squirtle:1.25), turtle shell, shell, blue eyes, blue body, blue skin
+(suicune:1.25), hair, purple hair, long hair, blue body, blue eyes
+(sylveon:1.25), white body, blue eyes, ribbons, pink fur
+(tangela:1.25), hair, blue eyes, wavy hair, blue hair, long hair, eyelashes
+(tapu fini:1.25), headwear, headgear, black body, makeup, <3, black fur, headwear only, headgear only, dark body, eyeshadow, long ears, hat only, dreadlocks
+(tapu lele:1.25), pseudo hair, black body, tentacle hair, thigh gap
+(tauros:1.25), horn, brown hair, hair, pecs, long hair, tuft, biceps, brown body, body hair, brown fur, biped
+(tinkaton:1.25), pink eyes, thigh gap, <3, long ears
+(torchic:1.25), beak, feathers, yellow feathers, yellow body, tuft, orange feathers, blush, brown eyes, orange body
+(torracat:1.25), black fur, black body, bell, collar, yellow sclera, stripes, bell collar, tuft, red fur, markings, multicolored fur, red body, multicolored body
+(totodile:1.25), red eyes, blue body, slightly chubby, horn
+(toxtricity:1.25), amped toxtricity, spikes, purple body, spikes \(anatomy\), pecs, horn, scales
+(treecko:1.25), green body, orange eyes, green skin, red eyes, biped
+(turtwig:1.25), green body, brown eyes, scales, shell, green skin, horn
+(typhlosion:1.25), pecs, red eyes, blue body, yellow body, biceps
+(tyranitar:1.25), pecs, green body, claws, biceps
+(tyrantrum:1.25), claws, horn, red body, pecs, teeth, scales, sharp teeth, red scales, biceps, fangs, manly, red skin, body hair
+(umbreon:1.25), black body, black fur, red eyes, yellow markings, red sclera
+(ursaring:1.25), brown body, brown fur male, black nose, claws, musclegut, humanoid hands
+(urshifu:1.25), pecs, black body, brown body, facial hair, multicolored body, white body, black fur, multicolored fur, brown fur, tattoo, white fur, hair
+(vanillite:1.25), white body, blue eyes, white fur, narrowed eyes, featureless chest, blue body, half-closed eyes
+(vaporeon:1.25), blue body, blue eyes, frill \(anatomy\), membranous frill, fin
+(venipede:1.25), horn, yellow eyes
+(venusaur:1.25), green body, leaf hair, plant hair, slightly chubby, necklace, red eyes, jewelry
+(vulpix:1.25), multi tail, orange body, orange fur, orange hair, hair, blush, multicolored body, short hair, tuft, chest tuft, multicolored fur, fluffy tail, orange eyes, markings, brown body, fluffy, gloves \(marking\), slim, brown fur
+(weavile:1.25), red eyes, black body, blush
+(whimsicott:1.25), green eyes, pupils, horn
+(whiscash:1.25), blue body, beak
+(white kyurem:1.25), armor, blue body
+(wooloo:1.25), brown areola, wool \(fur\), brown nipples, dark skin, dark body, horn, brown body, black areola, wrist tuft, horizontal pupils, pupils, brown skin, brown fur, black skin, neck tuft
+(xerneas:1.25), horn, blue body, antlers, blue fur, red eyes, forest, eyelashes
+(yamper:1.25), brown eyes, yellow body, yellow fur, slightly chubby
+(yveltal:1.25), red eyes, red body, black body, claws
+(zacian:1.25), blue fur, blue body, multicolored fur, multicolored body, tuft, pecs, white body, black fur, neck tuft, white fur, yellow fur, black body
+(zamazenta:1.25), red fur, white body, white fur, red body, blue fur, multicolored body, multicolored fur, pecs, blue body, hair, claws, tuft, black fur, neck tuft, black body, black nose, facial tuft, finger claws, cheek tuft, long hair, blue hair
+(zangoose:1.25), red markings, markings, white body, white fur, chest markings, red eyes, head markings, facial markings, pecs, red fur, multicolored body, red body, claws, multicolored fur, two tone body
+(zapdos:1.25), feathers, beak, yellow body, wings, orange eyes, claws, green body
+(zebstrika:1.25), black body, yellow eyes, pecs, horn
+(zekrom:1.25), horn, claws, pecs, black sclera, armor, black body
+(zeraora:1.25), blue eyes, black body, claws, yellow body, black fur, yellow fur, big hands
+(zigzagoon:1.25), red eyes, facial tuft, brown body, cheek tuft, multicolored body, brown fur, multicolored fur, tuft, black fur, black nose, markings
+(zoroark:1.25), hair, claws, black fur, black body, long hair, red hair, red eyes, grey fur, grey body
+(zorua:1.25), red eyes, black body, black fur, tuft, neck tuft, red body, multicolored body, red fur
+(zygarde:1.25), green body, green eyes, black body, blush

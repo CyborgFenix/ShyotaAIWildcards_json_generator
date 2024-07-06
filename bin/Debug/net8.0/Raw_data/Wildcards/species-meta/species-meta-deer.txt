@@ -1,0 +1,30 @@
+(bambi:1.25), featureless chest, tuft, eyelashes, brown fur, chest tuft, multicolored body, brown body, brown eyes, multicolored fur, bambi \(film\)
+(bucky oryx-antlerson:1.25), horn, hair, antlers, brown hair, white body, red eyes, long hair, white fur
+(camelid:1.25), chest tuft, tuft, white body, multicolored body, brown body, hair, white fur
+(camel:1.25), brown fur, brown body, chest tuft, tuft, white body, multicolored body
+(cervine:1.25), antlers, horn, chest tuft, white body, brown fur, brown body, white fur, tuft, multicolored fur, multicolored body, black nose, biped
+(chinese water deer:1.25), tuft, slim, black nose, brown eyes, multicolored fur, multicolored body, chest tuft, brown fur
+(comet \(reindeer\):1.25), antlers, horn, white body, white fur, brown body, brown fur, tuft, detailed, biped, chest tuft
+(deer-spangle:1.25), antlers, horn, tuft, brown fur, brown body, chest tuft, multicolored fur, multicolored body, white body, white fur
+(deer:1.25), antlers, horn, brown fur, brown body, tuft, chest tuft, white body, white fur, multicolored fur, multicolored body
+(elds deer:1.25), antlers, horn, brown fur, brown body, tuft, white body, white fur, pecs, chest tuft, multicolored fur, teeth
+(elk:1.25), antlers, body hair, horn, chest hair, pecs, brown body, hairy, brown fur, biceps, facial hair
+(fallow deer:1.25), antlers, horn, brown fur, brown body, white body, white fur, multicolored fur, pecs, multicolored body, tuft, black nose, tan body, tan fur, chest tuft
+(giraffe:1.25), ossicone, horn, long neck, featureless chest, brown eyes
+(giraffid:1.25), horn, head markings, facial markings, ossicone
+(moose:1.25), antlers, horn, pecs, animal genitalia, brown body, chest hair, brown fur, brown eyes, sheath, body hair
+(mule deer:1.25), antlers, horn, brown fur, brown body, multicolored fur, white body, white fur, multicolored body, black nose, tan body, tan fur, two tone fur, two tone body
+(pronghorn:1.25), antlers, horn, white body, pecs, white fur, brown body, multicolored fur, multicolored body, brown fur, biped, black nose
+(red deer:1.25), antlers, horn, pecs, biceps, brown fur, body hair, black nose, brown body, forest, tuft, teeth, detailed
+(reindeer:1.25), antlers, horn, brown body, brown fur, white body, white fur, biped, blue eyes, forest
+(roe deer:1.25), antlers, horn, eyelashes, multicolored body, multicolored fur, collarbone, brown fur, brown body, white body, tan body, tan fur, white fur, countershade torso, black nose, two tone body, barely visible genitalia
+(rudolph the red-nosed reindeer:1.25), antlers, horn, chest tuft, colored nails, tuft, brown body, brown fur, white body
+(sawsbuck:1.25), antlers, horn, pecs, brown body, brown fur, white body, white fur, tuft, biped, black nose, multicolored fur, biceps, eyebrows, multicolored body, brown eyes
+(sika deer:1.25), antlers, horn, eyelashes, yellow eyes, brown body, brown fur, multicolored body, tan body, detailed, multicolored fur, tuft, glistening, slim, tan fur, amber eyes, black nose, eyebrows
+(spiral-horned antelope:1.25), horn, brown eyes, tuft, multicolored body, white body, multicolored fur, detailed, biped, white fur, brown horn
+(the stag:1.25), antlers, horn, body hair, pecs, brown body, brown fur, chest hair, forest, detailed, hairy
+(tsunoda \(aggretsuko\):1.25), eyelashes, brown eyes, multicolored body, white body, orange body, multicolored fur
+(tufted deer:1.25), tuft, horn, brown eyes, brown fur, brown body, antlers, chest tuft, black nose, inner ear fluff, multicolored fur, multicolored body, tan body, white body, tan fur, white fur
+(water deer:1.25), tuft, brown eyes, multicolored fur, multicolored body, eyebrows, orange fur, tan fur, black nose, tan body, inner ear fluff, orange body
+(wendigo:1.25), antlers, horn, red eyes, skull, skull head, bone, black fur, black body
+(white-tailed deer:1.25), antlers, horn, multicolored fur, brown eyes, multicolored body, white body, brown fur, brown body, tuft, white fur, lighting

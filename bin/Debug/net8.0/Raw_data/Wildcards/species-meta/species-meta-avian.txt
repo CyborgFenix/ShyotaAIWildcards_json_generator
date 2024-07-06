@@ -1,0 +1,140 @@
+(afrotropical parrot:1.25), feathers, neotropical parrot, beak, macaw, tropical, green body, blue eyes, green feathers
+(albatross:1.25), beak, white body, feathers
+(american eagle:1.25), beak, feathers, white feathers, white body, multicolored body, multicolored feathers, yellow beak, black body, pecs, two tone feathers, tuft, grey eyes, brown body
+(atlantic puffin:1.25), beak, feathers, white body, chest tuft, multicolored body, tuft, red eyes
+(australian magpie:1.25), beak, feathers, black beak, white body, black body, multicolored body, brown eyes, blue body, black feathers, claws, eyebrows, tuft, white feathers, multicolored feathers
+(avali:1.25), 4 ears, multi ear, feathers, winged arms, wings, purple eyes, tuft, feather hair, blue body, black body
+(avian \(starbound\):1.25), beak, feathers, red feathers, eyelashes, red body, tail feathers, yellow beak, featureless chest, orange feathers
+(avian:1.25), beak, feathers, white feathers, multicolored feathers, white body, multicolored body, tail feathers, brown eyes, black feathers, red feathers, orange feathers
+(bald eagle:1.25), beak, feathers, pecs, tattoo, white feathers, brown eyes, white body, brown body
+(barn owl:1.25), beak, feathers, white body, tuft, chest tuft, white feathers, brown feathers, brown body, multicolored body, yellow eyes, eyelashes
+(bearded vulture:1.25), beak, feathers, pecs, black body, serratus, biceps
+(berdly:1.25), beak, feathers, blue feathers, blue body
+(big bird:1.25), beak, feathers, blue eyes, eyelashes, yellow body, chest tuft, eyebrows, yellow feathers, wings, tuft
+(blue jay:1.25), feathers, beak, blue feathers, blue body, blue eyes, white body, multicolored body
+(blue macaw:1.25), feathers, beak, blue body, blue feathers, pecs, spa, tail feathers, wings, white body, multicolored body
+(bluebird:1.25), beak, feathers, blue body, chest tuft, blue feathers, eyelashes, tuft, multicolored body, white body, feather tuft
+(brogulls:1.25), beak, feathers, blue eyes, blue body, chest tuft, white body, tuft
+(bubo \(genus\):1.25), tuft, chest tuft, beak, feathers, white body, multicolored body, eyelashes, orange eyes
+(burrowing owl:1.25), beak, feathers, white body, yellow eyes
+(buteo:1.25), beak, chest tuft, feathers, tuft, brown body, brown feathers, white body
+(cacatua:1.25), beak, feathers, white body, necklace, jewelry, eyelashes, tuft, multicolored body, tail feathers, white feathers
+(cardinal \(bird\):1.25), beak, feathers, red feathers, red body
+(chicken:1.25), avian caruncle, beak, head crest, feathers, dewlap \(anatomy\)
+(chinstrap penguin:1.25), beak, white body, black body, feathers, multicolored body, white feathers
+(chocobo:1.25), beak, feathers, yellow body, yellow feathers, claws, tuft, orange feathers, tail feathers, chest tuft, eyebrows, multicolored body
+(cockatoo:1.25), beak, feathers, brown eyes, tuft, eyelashes, white body, eyebrows, chest tuft
+(common pheasant:1.25), beak, feathers, orange body, orange feathers
+(common pigeon:1.25), beak, feathers, white body, brown eyes
+(corvid:1.25), feathers, beak, black body, yellow eyes, black beak, black feathers
+(cramorant:1.25), feathers, beak, blue feathers, blue body, wings
+(crane \(bird\):1.25), feathers, beak, red eyes, white feathers, wings, black feathers, tail feathers, white body, black body, feathered wings, multicolored feathers, yellow beak, winged arms
+(crow:1.25), beak, feathers, black body, yellow eyes
+(dabbling duck:1.25), beak, feathers, blue eyes
+(daffy duck:1.25), beak, narrowed eyes, half-closed eyes, seductive, bedroom eyes, black body, black feathers, feathers
+(della duck:1.25), beak, hair, green eyes, green body, white hair, eyelashes, feathers
+(dodo:1.25), beak, feathers, narrowed eyes, brown eyes, seductive
+(domestic pigeon:1.25), beak, feathers, brown eyes, white body, eyelashes
+(drake mallard:1.25), beak, feathers, pecs, purple body
+(duck:1.25), beak, orange beak, feathers, chest tuft, blue eyes, eyelashes, green feathers, tuft, green body, eyebrows
+(eagle:1.25), beak, feathers, brown eyes, white feathers
+(eastern bluebird:1.25), feathers, beak, blue body, blue feathers, multicolored body, blue eyes, orange feathers, chest tuft
+(egyptian vulture:1.25), beak, feathers, white body, egyptian, white feathers, multicolored body, yellow eyes, claws, neckwear, detailed, egyptian headdress, jewelry, brown body, biped, two tone body, finger claws, tuft
+(emperor penguin:1.25), beak, white body, black body, feathers, multicolored body
+(eurasian eagle-owl:1.25), beak, feathers, white body
+(eurasian magpie:1.25), beak, feathers, black beak, black body, white body, blue body, yellow eyes, multicolored body, black feathers, white feathers
+(eva \(ozawk\):1.25), beak, feathers, wings, white feathers, blue eyes, feathered wings, white body, eyelashes, tuft, chest tuft, eyebrows
+(falco lombardi:1.25), beak, feathers, blue body, pecs, blue feathers
+(falconid:1.25), beak, feathers, blue eyes, chest tuft, tuft, multicolored body, white body, white feathers, biped
+(falcon:1.25), beak, feathers, scuted arms, yellow eyes, multicolored body, white body, brown body, tuft, multicolored feathers, white feathers, scutes, biped
+(flamingo:1.25), featureless chest, beak, eyelashes, slim, pink feathers, pink hair, eyebrows, pink body, small waist, white body
+(fletchling:1.25), blue eyes, beak, feathers, orange feathers, orange body, tuft, multicolored body, chest tuft
+(golden eagle:1.25), beak, feathers, brown body, brown feathers, pecs, yellow eyes
+(golden pheasant:1.25), beak, feathers, orange feathers, yellow body, yellow feathers, eyelashes
+(goshawk:1.25), beak, feathers, white body, white feathers, multicolored body, grey body, multicolored feathers, tuft, black beak, eyebrows, grey feathers
+(great horned owl:1.25), feathers, beak, white body, yellow eyes, white feathers, brown feathers, black beak, brown body, detailed, tuft
+(gull:1.25), beak, feathers, white body, eyelashes, eyebrows, white feathers, chest tuft, tuft, claws, grey eyes
+(gyrfalcon:1.25), beak, feathers, spots, pecs, white body, white feathers, spotted body, yellow eyes, multicolored body, tuft
+(harpy eagle:1.25), feathers, beak, white feathers, white body, wings, grey body, yellow eyes, feathered wings, grey feathers, winged arms, black beak, multicolored feathers, multicolored body, pecs
+(Helmeted guineafowl:1.25), beak, feathers, jewelry, necklace
+(heron:1.25), feathers, beak, white feathers, white body, wings, multicolored feathers, red eyes, black feathers, feathered wings, multicolored body, tail feathers
+(holarctic magpie:1.25), beak, feathers, blue eyes, black body, multicolored body, white body, chest tuft, tuft, eyebrows, black feathers
+(hornbill:1.25), beak, feathers, white body, narrowed eyes
+(hummingbird:1.25), feathers, green feathers, beak, green body, blue eyes, red feathers, multicolored feathers, feather hair, tail feathers, multicolored body, eyelashes, white body, white feathers, tuft, feather tuft, winged arms
+(jay \(bird\):1.25), beak, blue body, feathers, blue eyes, blue feathers
+(kass \(tloz\):1.25), feathers, beak, pecs, blue body, blue feathers, blue eyes, biceps, yellow body, yellow feathers, multicolored body, orange feathers, white body, white feathers
+(kazooie:1.25), beak, feathers, orange feathers, chest tuft, eyelashes, red feathers, red body, tuft
+(keel-billed toucan:1.25), feathers, beak, yellow body, multicolored body, red body, orange eyes, red eyes, multicolored feathers, narrowed eyes
+(kingfisher:1.25), feathers, beak, blue body, blue eyes, blue feathers, pecs, white body, feather tuft, multicolored body
+(kiwi \(bird\):1.25), feathers, beak, green body, tuft, multicolored body, green feathers
+(kwaza \(ozawk\):1.25), beak, feathers, blue eyes, white feathers, white body, wings, pecs, tuft, feathered wings, chest tuft, grey feathers, neck tuft
+(leghorn chicken:1.25), beak, feathers, head crest, avian caruncle, pecs, white body
+(loon:1.25), black body, beak, brown eyes, black feathers, feathers, hot tub
+(louie duck:1.25), beak, eyelashes, feathers, eyebrows
+(lyrebird:1.25), feathers, beak, orange eyes, brown body, yellow eyes, orange feathers
+(macaw:1.25), feathers, beak, blue body, blue feathers, red feathers, white feathers, wings, multicolored feathers, multicolored body, white body, orange feathers, feathered wings, tail feathers
+(magpie \(corvid\):1.25), feathers, beak, black body, black feathers, white body, black beak, brown eyes, multicolored body, white feathers
+(mallard:1.25), beak, feathers, eyelashes
+(masked owl:1.25), beak, feathers, white feathers, brown feathers, white body, yellow eyes, multicolored body, multicolored feathers
+(motmot:1.25), blue body, blue fur, beak, orange body, pecs, orange fur, multicolored body
+(murkrow:1.25), feathers, beak, table, wings, blue body, black feathers, blue feathers
+(mute swan:1.25), beak, feathers, eyelashes, white body, black beak
+(nargacuga:1.25), feathers, beak, red eyes, black body, blue body, red body, black beak, scuted arms
+(neotropical parrot:1.25), feathers, beak, green feathers, macaw, green body, multicolored body, orange feathers, multicolored feathers, red feathers, black body, blue body
+(nevrean:1.25), feathers, beak, green body, wings, feathered wings, green feathers, blue body, white feathers
+(new world ground cuckoo:1.25), beak, feathers, blue body, blue feathers
+(northern cardinal:1.25), beak, red body, feathers, red feathers, blue eyes
+(old world vulture:1.25), beak, feathers, brown eyes, pecs, tuft, black body, black beak, white body
+(ornate hawk-eagle:1.25), beak, feathers, white feathers, white body, scuted arms, brown feathers, multicolored feathers, multicolored body, pecs, brown body, detailed, scutes, wings, feathered wings, biped
+(osprey:1.25), beak, chest tuft, tuft, feathers, brown eyes, nipple tuft, white body, eyelashes, multicolored body, eyebrows, claws, grey body
+(ostrich:1.25), feathers, beak, white feathers, orange feathers, white body, tail feathers, wings, multicolored feathers, yellow beak, pelecaniform, multicolored body
+(owl demon:1.25), feathers, beak, red eyes, tuft, white body, chest tuft, eyelashes
+(owlbear:1.25), beak, feathers, brown body, brown feathers
+(owl:1.25), beak, feathers, tuft, white body, island, chest tuft, brown body, yellow eyes, white feathers
+(parakeet:1.25), beak, yellow body, green body, feathers
+(parrot:1.25), beak, feathers, green body, orange feathers, green feathers
+(peafowl:1.25), feathers, beak, blue feathers, green feathers, feather hair, blue body, blue eyes, wings, eyelashes, tail feathers, green body, winged arms
+(pelican:1.25), beak, feathers, white body, white feathers, pelecaniform, blue eyes
+(penguin:1.25), beak, feathers, white body, blue body, multicolored body
+(peregrine falcon:1.25), beak, feathers, yellow eyes, white feathers, scuted arms, white body, necklace, multicolored body, pecs, jewelry, v-cut, spots, multicolored feathers, biped, grey feathers, black beak, yellow body, spotted body, tuft
+(perry the platypus:1.25), beak, feathers, blue body, yellow beak, biped, head crest, green feathers, white feathers, eyebrows, multicolored body
+(philippine eagle:1.25), beak, tattoo, feathers, body hair
+(pigeon:1.25), feathers, beak, chest tuft, brown eyes, white feathers
+(pileated woodpecker:1.25), red eyes, beak, feathers, black body
+(pirate eagle:1.25), beak, feathers, pecs, scuted arms, white feathers, brown feathers, scutes, multicolored feathers, brown body, biceps, serratus, body hair, tropical, chest hair, tail feathers, feathered wings, white body, black body, multicolored body, black feathers
+(potoo:1.25), beak, feathers, orange eyes
+(puffin:1.25), beak, feathers, white body, multicolored body, red eyes, brown eyes
+(quail:1.25), feathers, beak, white body, multicolored feathers, white feathers, tuft, multicolored body, feather hair, black feathers
+(raven:1.25), purple body, feathers, beak, yellow eyes, black body, claws, black claws
+(red-billed hornbill:1.25), beak, feathers, black feathers
+(red-crowned crane:1.25), beak, feathers, red feathers
+(red-tailed hawk:1.25), beak, feathers, brown eyes, multicolored body, brown feathers, tuft, brown body, white body, multicolored feathers, chest tuft, biped, tan feathers
+(revali:1.25), feathers, beak, blue feathers, eyelashes
+(rito:1.25), beak, feathers, multicolored feathers, winged arms, white feathers, blue feathers, blue body, eyelashes, white body, black beak, feather hands, yellow eyes, tuft, tail feathers, multicolored body, green eyes, chest tuft, wings
+(saewin:1.25), beak, feathers, tail feathers, chest tuft, brown body, black feathers, tuft
+(scarlet macaw:1.25), beak, feathers, red body, red feathers, neotropical parrot, macaw, hair
+(sea eagle:1.25), beak, feathers, white feathers, white body, brown eyes
+(secretary bird:1.25), feathers, beak, white feathers, white body, black feathers, eyelashes, multicolored feathers, yellow eyes, tail feathers, black beak, winged arms, wings
+(shorebird:1.25), beak, feathers, black beak, black feathers, black body, brown eyes, narrowed eyes, eyelashes, multicolored body, white body, seductive, bedroom eyes, white feathers
+(snowy owl:1.25), feathers, beak, white body, white feathers, black beak, spots, wings, feathered wings, spotted body, yellow eyes
+(spix's macaw:1.25), beak, feathers, blue body, blue eyes, blue feathers
+(spixs macaw:1.25), feathers, beak, blue body, blue feathers, tail feathers, biped, animal genitalia, multicolored feathers, white feathers, multicolored body
+(stork:1.25), feathers, beak, white body, white feathers, albino, claws, red eyes, eyelashes, tail feathers, slim
+(sulphur-crested cockatoo:1.25), white body, feathers, beak, hair, eyebrows, white feathers, pecs, blonde hair
+(swallow \(bird\):1.25), blue eyes, beak, feathers, eyelashes, tuft, chest tuft, multicolored body, eyebrows, blue body
+(swan:1.25), beak, eyelashes, white body, one eye closed, feathers, multicolored body, eyebrows
+(teba \(tloz\):1.25), feathers, jewelry, white body, beak, necklace, pecs, ring, claws
+(terror bird:1.25), beak, feathers
+(thrush \(bird\):1.25), beak, feathers, multicolored body, eyelashes
+(toco toucan:1.25), beak, feathers, white body, multicolored body, feather hands, black body, biped, looking away, black feathers, white feathers, multicolored feathers
+(toucan sam:1.25), beak, feathers, red eyes, white body, feather hands, black body, multicolored body, black feathers
+(toucan:1.25), beak, feathers, white body, feather hands, multicolored body, white feathers, black body, red eyes, multicolored feathers, black feathers, biped, looking away
+(trinidad motmot:1.25), beak, blue eyes, feathers, blue body, blue feathers
+(true eagle:1.25), beak, feathers, black body, white feathers
+(true owl:1.25), beak, white body, feathers, tuft, island, multicolored body
+(true parrot:1.25), feathers, beak, green feathers, neotropical parrot, green body, red feathers, macaw, multicolored feathers, multicolored body, white body
+(turkey:1.25), feathers, beak, orange feathers
+(tweetfur:1.25), feathers, beak, wings, blue body, blue feathers, feathered wings, chest tuft, eyebrows, tuft, white feathers
+(vulture:1.25), beak, feathers, red eyes, black body
+(woodpecker:1.25), feathers, beak
+(yellow-billed magpie:1.25), beak, feathers, black body, black feathers, yellow eyes, white body, white feathers, multicolored body

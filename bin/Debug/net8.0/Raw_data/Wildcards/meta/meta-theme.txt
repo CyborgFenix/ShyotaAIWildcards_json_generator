@@ -1,0 +1,6 @@
+card \(medium\), card
+comic, text, speech bubble
+bed sheet, dakimakura \(medium\), dakimakura design
+icon, profile picture, bust portrait, headshot portrait, front view
+model sheet, reference sheet, multiple angles
+photo \(medium\), photography \(artwork\), photography \(artwork\), photo background

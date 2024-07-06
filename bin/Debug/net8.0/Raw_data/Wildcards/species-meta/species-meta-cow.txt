@@ -1,0 +1,23 @@
+(american bison:1.25), horn, hairy, body hair, pecs, chest hair, brown body, brown fur, biceps, hair, biped
+(bison:1.25), horn, pecs, hair, hairy, biceps, body hair, brown body, brown fur, chest hair, brown hair, biped
+(cattle:1.25), horn, hair, brown hair
+(chief bogo:1.25), horn, chest hair, musclegut, facial hair, pecs, facial piercing, body hair, nose piercing, beard, hair, biceps, nose ring, hairy, ring piercing, blue body
+(cow:1.25), horn, hair, brown hair
+(gnu:1.25), horn, body hair, hair, pecs, hairy, brown hair, island, chest hair
+(hereford cattle:1.25), horn, hair, brown eyes
+(highland cattle:1.25), horn, hair, brown fur, tuft, brown body, chest tuft, orange fur, brown hair, orange body, blue eyes
+(highmountain tauren:1.25), horn, braided hair, hair, pecs, brown body, brown fur, brown hair, biceps, biped, tuft, white body
+(holstein friesian cattle:1.25), horn, white body, blue eyes, eyelashes, multicolored body
+(jersey cattle:1.25), horn, multicolored body, spots, eyelashes, spotted body, eyebrows, multicolored fur
+(lactaid cow:1.25), horn, blue eyes, hair, white body, blue body
+(miltank:1.25), blue eyes, slightly chubby, horn female, blush
+(minotaur:1.25), horn, pecs, hair, brown body, brown fur, biceps, ring piercing, body hair, biped, nose piercing, hairy, facial hair
+(raricow \(mlp\):1.25), hair, blue eyes, eyelashes, black hair, horn, eyebrows, translucent, multicolored body, black areola, curvy figure, braided hair
+(tauren \(feral\):1.25), horn, hooves, brown fur, brown body, blue eyes, brown hair
+(tauren:1.25), horn, hair, blue eyes, brown hair, brown body, brown fur
+(tauros:1.25), horn, brown hair, hair, pecs, long hair, tuft, biceps, brown body, body hair, brown fur, biped
+(the laughing cow:1.25), horn, shadow, hair
+(true buffalo:1.25), horn, chest hair, hairy, pecs, body hair, facial hair, brown eyes, biceps, brown body, beard, hair, brown fur
+(water buffalo:1.25), horn, body hair, pecs, chest hair, hairy, biceps, brown body, facial hair
+(yak:1.25), horn, brown body, brown fur, hair
+(yona yak \(mlp\):1.25), hair, horn, brown eyes, brown nipples, red hair, brown body, hair accessory, pigtails, brown fur, brown hair, brown areola, curvy figure

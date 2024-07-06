@@ -1,0 +1,269 @@
+absol
+aggron
+alcremie
+alolan meowth
+alolan ninetales
+alolan raichu
+alolan vulpix
+amaura
+ampharos
+arbok
+arcanine
+arceus
+aromatisse
+articuno
+audino
+baby kangaskhan
+banette
+blastoise
+blaziken
+blitzle
+braixen
+braviary
+breloom
+budew
+buizel
+bulbasaur
+celebi
+celesteela
+ceruledge
+charizard
+charmander
+charmeleon
+chespin
+chikorita
+cinccino
+cinderace
+clefairy
+corviknight
+cosmog
+cresselia
+cubone
+cyclizar
+darkrai
+dartrix
+dashing wanderer ampharos
+decidueye
+delphox
+dewott
+dialga
+dragonite
+drampa
+dusk lycanroc
+eelektross
+eeveelution
+eevee
+espeon
+fakemon
+fakeveelution
+felipunny
+fennekin
+feraligatr
+flareon
+fletchling
+floatzel
+froslass
+frosmoth
+furfrou
+furret
+galarian meowth
+galarian ponyta
+galarian rapidash
+galvantula
+garchomp
+gardevoir
+gengar
+gible
+glaceon
+glameow
+goodra
+greninja
+grovyle
+growlithe
+gyarados
+haunter
+herdier
+hisuian arcanine
+hisuian lilligant
+hisuian typhlosion
+hisuian zoroark
+hisuian zorua
+ho-oh
+hoothoot
+houndoom
+houndour
+hydreigon
+hypno \(pokemon\)
+incineroar
+infernape
+inteleon
+ivysaur
+jigglypuff
+jirachi
+jolteon
+keldeo \(ordinary form\)
+kirlia
+komala
+kommo-o
+koraidon
+lapras
+latias
+latios
+leafeon
+linoone
+litten
+lopunny
+low key toxtricity
+lucario
+ludicolo
+lugia
+lunala
+lurantis
+luxio
+luxray
+lycanroc
+machamp
+machoke
+machop
+mareanie
+mawile
+meloetta \(aria form\)
+meloetta
+meowscarada
+meowstic
+meowth
+mew \(pokemon\)
+mew tuely \(fan character\)
+mewtwo
+midday lycanroc
+midnight lycanroc
+mienshao
+mightyena
+milotic
+miltank
+mimikyu
+minun
+miraidon
+mismagius
+moltres
+mudbray
+mudsdale
+murkrow
+natural furfrou
+nickit
+nidoking
+nidoqueen
+nidoran
+nidorina
+nidorino
+ninetales
+noibat
+noivern
+numel
+obstagoon
+pachirisu
+palkia
+pancham
+pangoro
+passimian
+patrat
+pawmot
+phantump
+pheromosa
+pichu
+pidgeot
+pidove
+pikachu
+piplup
+ponyta
+poochyena
+popplio
+porygon2
+porygon
+primarina
+purrloin
+purugly
+quagsire
+quilava
+raichu
+ralts
+rattata
+rayquaza
+remoraid
+reshiram
+rhydon
+rhyhorn
+ribombee
+rillaboom
+riolu
+rockruff
+roserade
+ruins style lucario
+salandit
+salazzle
+samurott
+sandshrew
+sawsbuck
+scolipede
+scorbunny
+seismitoad
+serperior
+shaymin
+shinx
+skeledirge
+skiploom
+sky forme shaymin
+sliggoo
+slowpoke
+smeargle
+sneasel
+snivy
+snorlax
+solgaleo
+spinda
+spiritomb
+sprigatito
+squirtle
+suicune
+sylveon
+tangela
+tapu fini
+tapu lele
+tauros
+tinkaton
+torchic
+torracat
+totodile
+toxtricity
+treecko
+turtwig
+typhlosion
+tyranitar
+tyrantrum
+umbreon
+ursaring
+urshifu
+vanillite
+vaporeon
+venipede
+venusaur
+vulpix
+weavile
+whimsicott
+whiscash
+white kyurem
+wooloo
+xerneas
+yamper
+yveltal
+zacian
+zamazenta
+zangoose
+zapdos
+zebstrika
+zekrom
+zeraora
+zigzagoon
+zoroark
+zorua
+zygarde

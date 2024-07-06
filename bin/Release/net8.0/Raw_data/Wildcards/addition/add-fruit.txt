@@ -1,0 +1,36 @@
+apple
+apricot
+avocado
+banana
+bell fruit, wax-apple
+berry
+blackberry
+blueberry
+cherry
+cherry tomato
+citron
+coconut
+dragon fruit
+durian
+flat peach
+grapefruit
+green apple
+guava 
+kiwi
+lemon
+loquat
+mango
+melon
+mulberry
+orange
+papaya
+peach
+pear
+persimmon
+pineapple
+pomelo
+raspberry
+star fruit
+strawberry
+tomato
+watermelon

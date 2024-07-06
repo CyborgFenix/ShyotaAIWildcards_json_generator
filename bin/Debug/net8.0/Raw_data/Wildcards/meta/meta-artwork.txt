@@ -1,0 +1,17 @@
+[(black and white, monochrome:1.3):(watercolor \(artwork\), digital painting \(artwork\):1.15):0.35]
+digital painting \(artwork\), photoshop \(medium\), painttool sai \(medium\)
+digital painting \(artwork\),
+pixel \(artwork\), pixel art
+traditional media \(artwork\)
+watercolor \(artwork\), watercolor \(medium\)
+oil painting \(medium\), oil painting \(artwork\)
+3d
+blender \(software\)
+unreal engine
+realistic
+cel shading
+soft shading
+simple shading
+manga
+low poly
+sketch

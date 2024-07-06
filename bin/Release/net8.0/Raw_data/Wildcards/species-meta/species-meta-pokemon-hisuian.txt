@@ -1,0 +1,16 @@
+(hisuian Growlithe:1.25), hair over eyes, fangs, claws, feet, 3 toes
+(hisuian Arcanine:1.25), fangs, fluffy, red body, red fur, fluffy tail, quadruped, feet, teeth, fusion, toes, black fur, 3 toes, black body, multicolored body, grey eyes
+(hisuian Voltorb:1.25), black eyes, grey eyes, icon, orange body, machine, multicolored body
+(hisuian Electrode:1.25), black eyes, teeth
+(hisuian Typhlosion:1.25), fire, red eyes, fusion, flaming hair, purple body, flaming mane, pseudo hair, colored fire, yellow body, pseudo mane, tan body, multicolored body, purple fur, semi-anthro
+(hisuian Qwilfish:1.25), toony, frown, black eyes, multicolored body, suspended in midair, black body, spikes, two tone body
+(hisuian Sneasel:1.25), long claws, red eyes, purple body, pupils, claws, 3 toes, forehead gem, toes, feet, slit pupils, 2 fingers, fangs, smug, purple fur, semi-anthro, multicolored body, gem, toe claws, toony, on model, 2 toes, grey body, cute fangs, markings
+(hisuian Samurott:1.25), red eyes, blue body, frown, fangs, fusion, toony, facial hair, blue skin, quadruped, blue fur, multicolored body, claws, white body
+(hisuian Lilligant:1.25), lilligant, green body, pink eyes, purple eyes, mouthless
+(hisuian Zorua:1.25), white body, quadruped, white fur, multicolored body, markings, tuft, red fur, red body, toony, multicolored fur, yellow eyes, neck tuft, tendrils, looking away, leg markings, white tail, orange eyes, socks \(marking\), two tone tail, fluffy, grey body, red tail, looking aside, looking up, facial tuft, head tuft
+(hisuian Zoroark:1.25), claws, grey body, white body, yellow eyes, grey fur, white fur, tuft, hair, red body, markings, toe claws, red fur, multicolored body, quadruped, red claws, fusion, white hair
+(hisuian Braviary:1.25), beak, feathers, talons, wings, feathered wings, cere \(anatomy\), grey feathers, white feathers, tail feathers, yellow beak, open beak, anisodactyl, winged arms, claws, multicolored feathers, green eyes, feathered crest, grey body, flying, spread wings, scutes, toes, toe claws, grey wings, feet, head crest, feather tuft, blue eyes, white body, 3 toes, pink tongue, purple feathers
+(hisuian Sliggoo:1.25), antennae \(anatomy\), green eyes, slime
+(hisuian Goodra:1.25), antennae \(anatomy\), slime, curled tail, multicolored body, purple body, toony, two tone body, purple skin, countershade torso, looking away, blue eyes, tendrils, black eyes, suspended in midair, feet, 2 fingers, narrowed eyes, grey eyes, grey body, looking aside, countershade face, toes, long tail, 2 toes, long neck, alolan meowth, half-closed eyes, cheek spots, glistening
+(hisuian Avalugg:1.25), toony, on model, rock, multicolored body, yellow eyes, ice, spots, grey body, spotted body, looking away, claws
+(hisuian Decidueye:1.25), feathers, beak, wings, feathered wings, orange feathers, orange markings, talons, eye markings, red eyes, white body, brown feathers, white feathers, biped, mask \(marking\), tail feathers, toes, feet, multicolored feathers

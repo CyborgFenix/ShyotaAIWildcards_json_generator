@@ -1,0 +1,54 @@
+alice blue
+aqua blue
+aquamarine
+azure
+beige
+black
+blue
+blue violet
+brown
+cyan
+dark blue
+dark gray
+dark green
+dark magenta
+dark purple
+dark red
+dark yellow
+dim gray
+fuchsia
+gradient
+gray
+green
+indigo
+iridescent
+ivory
+light blue
+light gray
+light green
+light magenta
+light purple
+light red
+light yellow
+lime green
+magenta
+maroon red
+medium purple
+navy blue
+olive green
+orange
+orange red
+pink
+purple
+red
+sky blue
+slate blue
+slate gray
+tan
+teal
+turquoise blue
+violet
+white
+yellow
+yellow green
+grey

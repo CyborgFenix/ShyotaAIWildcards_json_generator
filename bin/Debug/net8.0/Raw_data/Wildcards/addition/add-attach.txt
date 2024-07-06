@@ -1,0 +1,58 @@
+bed
+bell
+bench
+billboard
+bookshelf
+box
+cabinet
+ceil
+chair
+chandelier
+chest
+clock
+computer
+curtain
+doghouse
+door
+floor
+furniture
+flower
+gift box
+lamp
+lantern
+obelisk
+ornaments
+paint
+pillar
+potted plant
+refrigerator
+relief
+shelf
+sofa
+speakers
+stairs
+statue
+stove
+table
+telephone
+television
+tent
+toilet
+torch
+treasure chest
+tub
+urinal
+wall
+window
+dressing table
+water dispenser
+well
+geyser
+disk
+tube
+tree
+paper
+bouquet
+book
+valve
+potted plant

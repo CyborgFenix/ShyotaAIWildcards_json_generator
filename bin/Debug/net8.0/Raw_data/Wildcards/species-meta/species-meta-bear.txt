@@ -1,0 +1,37 @@
+(american black bear:1.25), brown body, black body, brown fur, black nose, black fur
+(ashigara:1.25), facial hair, chest hair, body hair, musclegut, brown body, beard, arm hair, hairy, humanoid hands, stubble, pecs, thick eyebrows, brown fur male, black nose, hair
+(baloo:1.25), musclegut male, chest hair
+(bear:1.25), brown body, brown fur, black nose male, musclegut
+(black bear:1.25), black body, brown body, black nose, black fur, brown fur
+(brown bear:1.25), brown body, brown fur, black nose male, blue eyes
+(bugbear:1.25), body hair, chest hair, facial hair, beard, brown body, brown fur, hair, hairy, musclegut male
+(carly bear:1.25), brown fur, brown body, chest tuft, brown eyes, hair, tuft, brown hair
+(giant panda:1.25), black body, white body, black fur, white fur, hair, multicolored body, black areola
+(grizzly \(shirokuma cafe\):1.25), brown body, brown fur, black nose, humanoid hands male, black body
+(grizzly bear:1.25), brown body, brown fur, black nose, detailed
+(howlitebadger:1.25), stripes, hair, blue eyes, white body, blue fur, blue body, white fur, multicolored body, black nose, multicolored fur, tuft, chest tuft, striped body, eyebrows, striped fur
+(ice bear:1.25), white body, white fur male, black nose, slightly chubby
+(kermode bear:1.25), white fur, white body, tuft, chest tuft, eyebrows
+(koala:1.25), brown eyes, black eyes, white body, tuft, feathers, black body, grey body, blue body, beak, head tilt, white fur
+(kodiak bear:1.25), chest hair, facial hair, beard, body hair, hairy, pecs, black nose, brown body, brown fur, blue eyes, hair, eyebrows, biceps
+(master po ping, @ male, black body, black fur
+(nadeena:1.25), hair, brown body, brown fur, chest tuft, tuft, black body, black areola
+(orthros:1.25), facial hair, hairy, chest hair, body hair, beard, pecs, brown body, brown fur, biceps, black nose, eyebrows, teeth
+(pancham:1.25), young, blush, black body, black fur, multicolored body, brown eyes, red eyes, facial tuft, cheek tuft, multicolored fur, teeth, markings
+(panda \(wbb\):1.25), slightly chubby, white body, black body, black fur, young, white fur
+(pandaren:1.25), hair, brown fur, brown body, brown hair, white fur, white body, black nose
+(pandawa:1.25), white body, white fur, black body, blue eyes, multicolored body, black fur, multicolored fur
+(pander \(lostpander\):1.25), blue eyes, musclegut male, white body, chest hair, white fur, black nose, black body, eyebrows, hair
+(pangoro:1.25), black body, black fur male, musclegut, black nose, white body, humanoid hands, pecs, body hair
+(partran \(red panda\):1.25), orange fur, orange body, white fur, white body, black body
+(polar bear:1.25), white body, white fur, black nose, pecs, slightly chubby, body hair, humanoid hands, musclegut
+(qinling panda:1.25), white body, white fur, multicolored body, multicolored fur, black body, black fur, two tone body, black nose, two tone fur, young, brown fur, brown body, brown eyes, fur markings, markings
+(red pandaren:1.25), hair, multicolored body, brown hair, brown fur, white fur, multicolored fur, black nose, white body, markings, black fur, brown body
+(red panda:1.25), orange fur, orange body, tuft, chest tuft, whiskers, white fur, black body, black fur, brown fur, multicolored fur, multicolored body, white body, brown body
+(retsuko:1.25), aggressive retsuko, thigh gap, yellow body, brown eyes, facial piercing, eyelashes, yellow fur
+(sloth bear:1.25), black body, brown body, black fur, brown fur, black nose, brown eyes, humanoid hands, colored nails, tuft
+(spectacled bear:1.25), eyewear, facial hair, beard, hair, chest hair, brown hair
+(teddy bear \(species\):1.25), fursuit, costume, brown body, brown fur
+(ursaring:1.25), brown body, brown fur male, black nose, claws, musclegut, humanoid hands
+(ursine:1.25), brown body, brown fur, blue eyes, tuft, white body, chest tuft, black nose, multicolored body, white fur, multicolored fur
+(yaya panda:1.25), hair, black hair, multicolored body, black body, black nose, black fur, black areola, white body, short hair, multicolored fur

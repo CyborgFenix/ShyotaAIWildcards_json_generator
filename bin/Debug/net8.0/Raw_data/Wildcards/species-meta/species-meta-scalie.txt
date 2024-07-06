@@ -1,0 +1,64 @@
+(alligator:1.25), green body, scales, green scales, yellow eyes, teeth, claws, pecs, green skin
+(anaconda:1.25), scales, yellow eyes
+(anjanath:1.25), scales, tattoo
+(argonian:1.25), horn, green body, green scales, scales, pecs, pupils, red eyes, v-cut, claws, yellow body
+(armadillo:1.25), blue eyes, armor, scales
+(ball python:1.25), yellow body, spotted skin, white body, multicolored body, biped
+(bearded dragon:1.25), yellow body, green body, scales, green scales, detailed, yellow scales, multicolored body, depth of field, pecs, pupils, white body
+(blue anole:1.25), blue eyes, blue body, featureless chest
+(boa \(snake\):1.25), scales, snake hood, yellow body, yellow eyes
+(chameleon:1.25), heterochromia
+(cobra:1.25), scales, yellow eyes, snake hood
+(collared lizard:1.25), blue body, yellow body, yellow eyes, multicolored body, pecs
+(common collared lizard:1.25), blue body, yellow body, pecs, bottomwear
+(crocodile skink:1.25), scales, teeth, green body, green scales, pecs, yellow body, red eyes, claws, tattoo, depth of field
+(crocodile:1.25), green body, scales, green scales, yellow eyes, pecs, teeth, claws, pupils
+(crocodilian:1.25), green body, pecs, scales, green scales, claws, green skin, teeth, biceps
+(desert iguana:1.25), chest markings, featureless chest, markings, biped, scales, pupils, depth of field
+(eel:1.25), scales, multicolored body, biped
+(elapid \(snake\):1.25), scales, snake hood, pupils
+(fire salamander \(salamander\):1.25), yellow body, black body
+(flap-necked chameleon:1.25), blue eyes, green body
+(flat-tailed gecko:1.25), slim, spots, biped, brown eyes, featureless chest, markings
+(frilled lizard:1.25), scales, yellow body, webbed hands, green body
+(furred snake:1.25), chest tuft, tuft, white body, markings
+(gecko:1.25), yellow body, green body, spotted skin, spots, yellow eyes, markings, biped
+(gila monster:1.25), black body, black fur, multicolored body, stripes, brown body, multicolored fur, pecs, black nose, slightly chubby, markings, brown fur, biped, white body, black stripes, detailed, brown eyes
+(gus the gator:1.25), scales, green scales, green body, horn, yellow scales, claws, teeth, grin, yellow body
+(iguanid:1.25), green body, green skin, green scales, scales, hair, yellow body, markings, spots, pecs, red eyes, topless male
+(jar jar binks:1.25), blue eyes
+(komodo dragon:1.25), pecs, biceps, green body, green skin, red eyes, brown eyes
+(kraid:1.25), scales, green body, green scales, horn, teeth, claws
+(kremling:1.25), green body, pecs, scales, claws, green skin, green scales, fangs, biceps, yellow body
+(kroxigor:1.25), chest hair, pecs, body hair, blue eyes, fangs, spots, claws, eyebrows, black nose, teeth, multicolored body, tuft, black body, black fur, multicolored fur, biceps, spotted body, hairy, spotted fur, facial hair
+(krunch the kremling:1.25), green body, scales, green scales, green skin
+(lizalfos:1.25), green body, green scales, scales, green skin, yellow body, markings, yellow eyes
+(lizardfolk:1.25), green body, green scales, markings, scales, yellow body, green skin
+(lizardman \(overlord\):1.25), claws, green body, scales, pecs, green scales, teeth, markings, red eyes, pupils, yellow body, finger claws, yellow eyes, biceps, multicolored body, biped, green skin, countershade torso, white body, slit pupils, long tail, depth of field
+(lizardman:1.25), green body, scales, green scales, yellow eyes, pecs, claws, green skin
+(loch ness monster:1.25), horn
+(mamba:1.25), yellow eyes, scales, pecs, pupils, slit pupils
+(master oogway:1.25), yellow body, green eyes, musclegut, slightly chubby
+(milk snake:1.25), red eyes, multicolored body, eyelashes, white body
+(mole salamander:1.25), multicolored body, spotted skin, chest markings, slim, markings, scales, two tone body
+(monitor lizard:1.25), green body, pecs, tattoo, scales, green scales, yellow eyes
+(moray eel:1.25), green body, yellow eyes, green scales
+(mr. snake \(the bad guys\):1.25), pecs, yellow body, smirk, narrowed eyes, tattoo, scales
+(naga:1.25), snake hood, scales
+(newt:1.25), biped, scales, markings
+(nile crocodile:1.25), green body, yellow eyes, green scales, scales, teeth, pecs, claws, green skin
+(pangolin:1.25), scales, pecs, horn, red eyes
+(pit viper:1.25), eyelashes, teeth, pupils, yellow eyes, slit pupils, green body, markings, multicolored body, scales
+(python \(genus\):1.25), yellow body, spotted skin, scales, depth of field, multicolored body, green body, white body
+(python:1.25), yellow body, spotted skin, scales, green body, depth of field, multicolored body, white body, pupils
+(rattlesnake:1.25), scales, pupils, green scales, brown eyes, slit pupils, eyelashes, yellow body, multicolored body scales
+(salamander \(amphibian\):1.25), featureless chest, scales, markings, biped
+(saltwater crocodile:1.25), green body, scales, green scales, yellow eyes, teeth, claws, pecs, depth of field
+(sangheili:1.25), yellow eyes, pecs, pupils, scales, claws
+(scalie:1.25), horn, scales, green scales, green body, yellow body
+(sharpclaw \(star fox\):1.25), green body, tattoo, pecs, green scales, yellow eyes, fangs, biceps, green skin, scales, yellow body, claws, teeth, sea
+(skink:1.25), blue body, orange eyes, red eyes
+(snake:1.25), scales, yellow body
+(spike \(extreme dinosaurs\):1.25), scales, green body, green scales, teeth, horn, pecs
+(vector the crocodile:1.25), scales, green body, green scales, teeth, yellow eyes, narrowed eyes
+(viper:1.25), scales, yellow body, slit pupils, green body, yellow eyes, pupils

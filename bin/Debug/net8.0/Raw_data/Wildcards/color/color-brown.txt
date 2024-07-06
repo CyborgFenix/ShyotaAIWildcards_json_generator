@@ -1,0 +1,8 @@
+brown
+tan
+gray brown
+light brown
+dark brown
+dark yellow
+dark orange
+dark red

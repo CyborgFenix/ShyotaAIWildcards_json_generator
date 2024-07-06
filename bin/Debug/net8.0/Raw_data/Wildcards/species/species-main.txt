@@ -1,0 +1,119 @@
+alien
+alligatorid
+alligator
+android
+arachnid
+asinus
+avian
+bat
+bear
+bird
+bovid
+bovine
+canid demon
+canine
+canis
+caprine
+cattle
+cat
+cephalopod
+cervine
+cetacean
+chimera
+cow
+crocodile
+crocodilian
+crocodylid
+deer
+demon
+didelphid
+digimon \(species\)
+dinosaur
+dog
+dolphin
+domestic cat
+domestic dog
+domestic pig
+domestic rabbit
+domestic sheep
+draconcopode
+dragon
+earth pony
+eastern dragon
+eeveelution
+equid
+equine
+experiment \(lilo and stitch\)
+extraterrestrial
+fanged wyvern
+feathered dragon
+felid
+feline
+felis
+fox
+frog
+furred dragon
+ghost
+giant panda
+giraffid
+goat
+gryphon
+horse
+human
+hybrid
+inkling
+insect
+kangaroo
+kemono
+lagomorph
+leopard
+leporid
+lion
+lizard
+lynx
+macropod
+mammal
+marine
+marsupial
+mephitid
+mollusk
+monkey
+monster
+mouse
+murine
+mustelid
+oceanic dolphin
+otter
+pantherine
+pig
+pokemon \(species\)
+ponyta
+pony
+primate
+procyonid
+rabbit
+raccoon
+rat
+reptile
+robot
+rodent
+scalie
+sciurid
+shark
+sheep
+skunk
+slug
+snake
+spirit
+syngnathid
+taur
+theropod
+tiger
+unicorn
+werecanid
+werecanine
+werewolf
+western dragon
+wingless dragon
+wolf
+wyvern

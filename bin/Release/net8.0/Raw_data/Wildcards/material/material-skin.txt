@@ -1,0 +1,4 @@
+skin
+scales
+fur
+body

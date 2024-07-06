@@ -1,0 +1,14 @@
+(arctic shrew:1.25), white body, white fur, whiskers, pink nose, tuft, detailed, biped
+(chinchilla:1.25), whiskers, white fur, white body, grey fur, grey body, pink nose, tuft, detailed
+(dormouse:1.25), whiskers, tuft, pink nose, chest tuft, brown eyes, hair, blonde hair, white fur, white body, brown fur, cheek tuft, facial tuft, brown body, multicolored fur, tan fur, tan body, multicolored body, inner ear fluff, pink inner ear, featureless chest, short hair, biped, slim
+(hamster:1.25), whiskers, pink nose, tuft, white fur, white body, brown eyes, brown fur, chest tuft, brown body, detailed
+(jerboa:1.25), tuft, whiskers, chest tuft, pink nose, big ears, white fur, white body, brown eyes, brown fur, brown body, facial tuft, cheek tuft
+(jerry mouse:1.25), whiskers, tuft, chest tuft, blonde hair, hair, featureless chest, brown eyes, buckteeth, pink nose, teeth
+(mad rat dead:1.25), whiskers, buckteeth, tuft, black body, black fur, facial tuft, cheek tuft, brown eyes, pink nose, teeth
+(possum:1.25), whiskers, pink nose, tuft, white fur, white body, chest tuft, buckteeth, brown eyes, colored nails
+(rattata:1.25), whiskers, pink hair, purple body, featureless chest, pink eyes, purple eyes, purple fur, hair
+(rat:1.25), whiskers, pink nose, buckteeth, tuft, white fur, brown eyes, white body, rat tail
+(shrew:1.25), whiskers, pink nose
+(skaven:1.25), yellow eyes, black fur, black body, whiskers, brown body, brown fur, pink nose, tuft, claws, chest tuft
+(thunderbolt the chinchilla:1.25), whiskers, tuft, white body, white fur, pink nose, blonde hair, facial tuft
+(virginia opossum:1.25), pink nose, whiskers, white body

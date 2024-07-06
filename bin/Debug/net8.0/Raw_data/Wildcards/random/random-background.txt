@@ -1,0 +1,1 @@
+__background__ {1-4$$__ambience__|__ambience-add__|__ambience-add__|__ambience-add__}

@@ -1,0 +1,225 @@
+red and red
+orange and red
+yellow and red
+brown and red
+lime green and red
+green and red
+cyan and red
+blue and red
+navy blue and red
+purple and red
+pink and red
+magenta and red
+grey and red
+white and red
+black and red
+red and orange
+orange and orange
+yellow and orange
+brown and orange
+lime green and orange
+green and orange
+cyan and orange
+blue and orange
+navy blue and orange
+purple and orange
+pink and orange
+magenta and orange
+grey and orange
+white and orange
+black and orange
+red and yellow
+orange and yellow
+yellow and yellow
+brown and yellow
+lime green and yellow
+green and yellow
+cyan and yellow
+blue and yellow
+navy blue and yellow
+purple and yellow
+pink and yellow
+magenta and yellow
+grey and yellow
+white and yellow
+black and yellow
+red and brown
+orange and brown
+yellow and brown
+brown and brown
+lime green and brown
+green and brown
+cyan and brown
+blue and brown
+navy blue and brown
+purple and brown
+pink and brown
+magenta and brown
+grey and brown
+white and brown
+black and brown
+red and lime green
+orange and lime green
+yellow and lime green
+brown and lime green
+lime green and lime green
+green and lime green
+cyan and lime green
+blue and lime green
+navy blue and lime green
+purple and lime green
+pink and lime green
+magenta and lime green
+grey and lime green
+white and lime green
+black and lime green
+red and green
+orange and green
+yellow and green
+brown and green
+lime green and green
+green and green
+cyan and green
+blue and green
+navy blue and green
+purple and green
+pink and green
+magenta and green
+grey and green
+white and green
+black and green
+red and cyan
+orange and cyan
+yellow and cyan
+brown and cyan
+lime green and cyan
+green and cyan
+cyan and cyan
+blue and cyan
+navy blue and cyan
+purple and cyan
+pink and cyan
+magenta and cyan
+grey and cyan
+white and cyan
+black and cyan
+red and blue
+orange and blue
+yellow and blue
+brown and blue
+lime green and blue
+green and blue
+cyan and blue
+blue and blue
+navy blue and blue
+purple and blue
+pink and blue
+magenta and blue
+grey and blue
+white and blue
+black and blue
+red and navy blue
+orange and navy blue
+yellow and navy blue
+brown and navy blue
+lime green and navy blue
+green and navy blue
+cyan and navy blue
+blue and navy blue
+navy blue and navy blue
+purple and navy blue
+pink and navy blue
+magenta and navy blue
+grey and navy blue
+white and navy blue
+black and navy blue
+red and purple
+orange and purple
+yellow and purple
+brown and purple
+lime green and purple
+green and purple
+cyan and purple
+blue and purple
+navy blue and purple
+purple and purple
+pink and purple
+magenta and purple
+grey and purple
+white and purple
+black and purple
+red and pink
+orange and pink
+yellow and pink
+brown and pink
+lime green and pink
+green and pink
+cyan and pink
+blue and pink
+navy blue and pink
+purple and pink
+pink and pink
+magenta and pink
+grey and pink
+white and pink
+black and pink
+red and magenta
+orange and magenta
+yellow and magenta
+brown and magenta
+lime green and magenta
+green and magenta
+cyan and magenta
+blue and magenta
+navy blue and magenta
+purple and magenta
+pink and magenta
+magenta and magenta
+grey and magenta
+white and magenta
+black and magenta
+red and grey
+orange and grey
+yellow and grey
+brown and grey
+lime green and grey
+green and grey
+cyan and grey
+blue and grey
+navy blue and grey
+purple and grey
+pink and grey
+magenta and grey
+grey and grey
+white and grey
+black and grey
+red and white
+orange and white
+yellow and white
+brown and white
+lime green and white
+green and white
+cyan and white
+blue and white
+navy blue and white
+purple and white
+pink and white
+magenta and white
+grey and white
+white and white
+black and white
+red and black
+orange and black
+yellow and black
+brown and black
+lime green and black
+green and black
+cyan and black
+blue and black
+navy blue and black
+purple and black
+pink and black
+magenta and black
+grey and black
+white and black
+black and black

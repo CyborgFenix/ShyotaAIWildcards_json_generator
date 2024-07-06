@@ -1,0 +1,17 @@
+blue
+green
+tan
+purple
+grey
+red
+pink
+brown
+yellow
+orange
+teal
+indigo
+magenta
+tan
+{1$$black|dark|tanned}
+{1$$white|light|pale}
+{1$$metal|gold|silver}

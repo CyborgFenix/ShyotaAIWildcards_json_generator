@@ -1,0 +1,28 @@
+(ape:1.25), facial hair, pecs
+(baboon:1.25), mane, pecs, hair, tuft, body hair, biceps, detailed, black nose, black body, claws
+(capuchin monkey:1.25), hair, facial hair
+(chewbacca:1.25), brown body, brown fur, blue eyes, black nose
+(chimpanzee:1.25), pecs, brown eyes, brown body
+(donkey kong \(character\):1.25), blue eyes, musclegut
+(donkey kong \(series\), @
+(druid monkey \(bloons\):1.25), green eyes, brown fur, brown body, hair, biped, tan fur, depth of field, tuft, short hair, tan body, multicolored fur, brown hair, multicolored body
+(japanese macaque:1.25), depth of field, tuft, tan body, black nose, hair, tan fur, brown eyes, white body, biped, white fur
+(king kong:1.25), pecs, biceps, facial hair, hair, body hair
+(kong:1.25), hair, blue eyes, blonde hair, chest tuft, tuft
+(lar gibbon:1.25), beak, white body, orange eyes, tuft, multicolored body, feathers, black body, brown eyes
+(macaque:1.25), tan body, pink nose, brown eyes, tan fur, brown body, hair
+(mandrill:1.25), brown body, beak, orange eyes, multicolored body, feathers, white body, pecs, chest hair, brown eyes, brown fur, hair, tuft, brown feathers
+(megaprimatus kong:1.25), facial hair, pecs, hair, beard, biceps, body hair, brown body, chest hair
+(monkey king:1.25), hair, pecs, body hair, facial hair, chest hair
+(monkey:1.25), hair, green eyes
+(monki:1.25), hair, tuft, green eyes, brown fur, brown body, multicolored body, orange fur, eyebrows, orange body, multicolored fur, chest tuft, tan body, submerged tail, blush, tan fur, brown hair
+(new world monkey:1.25), hair, brown hair
+(old world monkey:1.25), facial hair, hair
+(oozaru:1.25), horn, pecs, black body, fangs, biceps, black fur, body hair, hair, brown body, chest hair, teeth, brown fur, facial hair, biped
+(orangusnake:1.25), chest hair, body hair, brown body, hair
+(orangutan:1.25), chest hair, facial hair, body hair, beard, hair, brown body, detailed, brown fur
+(primate:1.25), hair, brown eyes, pecs
+(sasquatch:1.25), facial hair, chest hair, beard, body hair, hair, hairy
+(spider monkey:1.25), hair
+(wookiee:1.25), brown fur, brown body, black nose, pecs, brown eyes, tan fur, biceps, island, fully sheathed, tan body
+(yeti:1.25), white body, white fur, white hair, beard, pecs, facial hair, biceps, hair, body hair, black nose, chest hair, biped

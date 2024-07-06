@@ -1,0 +1,35 @@
+(abyssal lagiacrus:1.25), horn, bone, skull, pecs, scales, helmet, claws, skull head, blue body, red eyes
+(alatreon:1.25), black body, black fur, yellow eyes, tuft, black hair, claws
+(anjanath:1.25), scales, tattoo
+(bazelgeuse:1.25), yellow eyes, dreadlocks, pecs, braided hair, detailed, biceps
+(brachydios:1.25), horn, spikes, claws, scales, blue body, blue scales, spikes \(anatomy\), armor, yellow eyes
+(deviljho:1.25), red eyes, scales, horn, green scales, pupils, spikes, green body, spikes \(anatomy\)
+(ebony odogaron:1.25), red eyes, black areola, teeth, claws, skull, black body, sharp teeth, fangs
+(fatalis:1.25), horn, scales, yellow eyes, pupils, slit pupils
+(felyne:1.25), whiskers, orange body, orange fur, tuft, white fur, pink nose, white body, chest tuft, inner ear fluff, brown fur, brown body
+(gore magala:1.25), horn, black body, scales, purple horn, yellow eyes, pupils, claws, purple body, teeth, slit pupils, pecs, black scales, wings, yellow sclera, spikes \(anatomy\)
+(jaggi:1.25), yellow eyes, featureless chest, scales
+(jagras:1.25), yellow body, yellow scales, green body, scales, green scales, claws, jewelry, necklace, markings, spots, tribal, pecs, green skin, yellow eyes, biped, yellow fur, brown spots, tropical
+(khezu:1.25), glistening
+(kirin:1.25), horn, tuft, hair, tail tuft, mane, red eyes, black hair
+(kulu-ya-ku:1.25), feathers, beak, claws, multicolored body, white body, orange feathers, red eyes, white feathers, multicolored feathers, finger claws, tuft, yellow body, biped
+(kulve taroth:1.25), horn, yellow eyes, scales, armor, claws, black body
+(kushala daora:1.25), wings, yellow eyes, feathers, pecs, black hair, white body, white feathers, grey body, beak, feathered wings, multicolored body, pupils, winged arms
+(lagiacrus:1.25), horn, scales, pecs, blue body, biceps, spikes, spikes \(anatomy\)
+(legiana:1.25), winged arms, feathers, wings, yellow eyes, beak, thigh gap, white feathers, blue body, eyelashes, multicolored feathers
+(mizutsune:1.25), multi ear, 4 ears, white body, yellow eyes, eyelashes, tuft, small waist, multicolored body, horn, slim, chest tuft
+(namielle:1.25), red eyes, blue body, hair, thigh gap, blue fur, blue hair
+(nargacuga:1.25), feathers, beak, red eyes, black body, blue body, red body, black beak, scuted arms
+(nergigante:1.25), spikes \(anatomy\), spikes, horn, teeth, claws, scales, yellow eyes, sharp teeth, pecs, spiked tail, arm spikes, chest hair, black body, fangs, pupils, serratus, body hair, slit pupils, tuft, facial spikes, multicolored body, countershade scales
+(nightshade paolumu:1.25), purple eyes, hair, black body, black fur
+(odogaron:1.25), red eyes, red body, teeth, claws, sharp teeth, horn, scales, black areola
+(paolumu:1.25), translucent, pink eyes, pink body, pink nose
+(rajang:1.25), horn, hair, pecs, biceps, black hair, biped
+(rath wyvern:1.25), scales, green body, green scales, claws, spikes \(anatomy\), spikes, horn, orange eyes, pecs
+(rathalos:1.25), stripes, fangs, body hair, chest hair, pecs, striped body, chest tuft, striped fur, tuft, teeth, claws, black hair, hair, black body, blue eyes, biceps, chest fur, multicolored body, black fur, chest scar, biped, facial hair, black stripes, markings, scar, white body, hairy, multicolored fur, beard, sabertooth \(anatomy\), red body
+(rathian:1.25), green body, scales, yellow body, green scales, eyelashes, lighting, slim
+(stygian zinogre:1.25), black body, horn, pecs, hair, black hair, black fur, claws, body hair, chest hair, biceps, long hair, facial hair, scales
+(teostra:1.25), horn, red body, tuft, orange eyes, neck tuft, red eyes, orange body
+(tigrex:1.25), stripes, pecs, biceps, blue eyes, body hair, facial hair, claws, beard, white body, big muscles, chest hair, pink nose, striped body, orange body, white fur, striped fur, thong
+(valstrax:1.25), yellow eyes, horn, claws, scales, black body, black sclera
+(zinogre:1.25), pecs, claws, blue body, yellow body, scales, biceps, horn, hair, body hair

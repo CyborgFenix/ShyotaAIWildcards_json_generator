@@ -1,0 +1,41 @@
+(abyssinian cat:1.25), whiskers, pink nose, tuft, white body, brown body, brown fur, white fur, chest tuft, yellow eyes, orange body
+(andean mountain cat:1.25), whiskers, stripes, yellow eyes, brown body, brown fur, tuft, black fur, white body, white fur, black body, striped fur, striped tail, black stripes, inner ear fluff, striped body, pink nose, striped markings, markings, chest tuft
+(bengal cat:1.25), whiskers, stripes, orange body, orange fur, white fur, white body, tuft, straight legs, pink nose, inner ear fluff, striped body, striped fur, multicolored fur, multicolored body, claws, black stripes, markings, teeth, eyelashes
+(blinx:1.25), stripes, chest tuft, tuft, yellow body, yellow fur, white body, whiskers, white fur, striped fur, striped body, orange fur, featureless chest, orange body, black stripes
+(bombay cat:1.25), black body, black fur, yellow eyes, whiskers, tuft, chest tuft
+(calico cat:1.25), white body, white fur, whiskers, multicolored body, multicolored fur, pink nose, tuft, brown eyes, markings, fur markings, brown fur
+(caracal:1.25), tuft, whiskers, white body, white fur, fully sheathed, sheath, ear tuft, chest tuft, inner ear fluff, brown eyes
+(cat-sith:1.25), whiskers, tuft, chest tuft, pink nose, white fur, white body, brown fur, brown body
+(cat:1.25), whiskers, chest tuft, tuft, pink nose, white fur, white body, orange body, orange fur, blue eyes, inner ear fluff
+(chakat:1.25), green eyes, whiskers, stripes, tuft, pink nose, white fur, white body, orange fur, chest tuft, orange body, yellow fur, yellow body, biped, multicolored fur, multicolored body, striped fur
+(chinese mountain cat:1.25), tuft, chest tuft, brown body, brown fur, whiskers, white body, white fur, yellow eyes, black fur
+(duchess \(aristocats\):1.25), blue eyes, pink nose, necklace, whiskers, jewelry, white body, eyelashes, white fur, tuft, collar, thigh gap, collar tag, cheek tuft, collar only, facial tuft, chest tuft, choker
+(exceed:1.25), whiskers, green eyes, white body, white fur, tuft, chest tuft
+(felineko:1.25), whiskers, stripes, pink nose, tuft, chest tuft, white body, white fur, striped fur, striped body, straight legs, cheek tuft, featureless chest, facial tuft, inner ear fluff, yellow eyes
+(felyne:1.25), whiskers, orange body, orange fur, tuft, white fur, pink nose, white body, chest tuft, inner ear fluff, brown fur, brown body
+(gage the panther:1.25), pecs, whiskers, black body, black fur, biceps, purple body
+(glameow:1.25), pink nose, tuft, whiskers, purple eyes, chest tuft, white fur, white body, blue fur, pink eyes, blue body, markings, purple fur, inner ear fluff, hair, multicolored body, multicolored fur, tail markings, pink inner ear, featureless chest, stripes
+(hairless cat:1.25), pink nose, hairless, white body, white fur, brown eyes
+(japanese bobtail:1.25), white body, white fur, tuft, whiskers, chest tuft, spots, multicolored body, multicolored fur, black fur, featureless chest, spotted body, spotted fur, black body, pink nose, biped
+(meowth:1.25), narrowed eyes
+(nekomata:1.25), whiskers, tuft, chest tuft, pink nose, orange fur, orange body, white fur, inner ear fluff, cheek tuft, facial tuft, white body
+(norwegian forest cat:1.25), hair, tuft, chest tuft, white fur, white body, brown hair, orange fur, yellow eyes, brown fur, whiskers, brown body, multicolored fur, orange body, fluffy, multicolored body
+(pallas's cat:1.25), stripes, black stripes, yellow eyes, white body, striped fur, striped body, white fur, tuft, grey body, pink nose, whiskers, black fur, grey fur, black body, multicolored body, inner ear fluff, chest tuft
+(panthera:1.25), black body, black fur, pecs, black nose, biceps, multicolored body
+(persian cat:1.25), whiskers, tuft, pink nose, white body, white fur
+(purrloin:1.25), pink eyes, tuft, chest tuft, thigh gap, claws, facial tuft, cheek tuft
+(ring-tailed cat:1.25), stripes, striped fur, pink nose, striped markings, striped body, striped tail, tuft, black stripes, white body, whiskers, white fur, chest tuft, tail markings, ringtail, black fur, multicolored body, black body, multicolored fur, markings, ring \(marking\), inner ear fluff
+(russian blue:1.25), whiskers, grey body, tuft, yellow eyes, pink nose, grey fur, black body, black fur, white body, white fur
+(rusty-spotted cat:1.25), whiskers, tuft, spots, yellow eyes, chest tuft, white body, pink nose, white fur, brown body, spotted body, brown fur
+(sand cat:1.25), tuft, chest tuft, inner ear fluff, stripes, whiskers, pink nose, white body, striped fur, white fur, yellow eyes, striped body, black stripes
+(savannah cat:1.25), whiskers, spots, spotted body, spotted fur, tuft, yellow fur, white body, pink nose, markings, multicolored body, white fur, inner ear fluff, yellow body, multicolored fur, tail markings, stripes, slim
+(siamese:1.25), tuft, whiskers, white fur, white body, pink nose, yellow eyes, slim
+(siberian cat:1.25), whiskers, yellow eyes, tuft, chest tuft, white body, white fur
+(somali cat:1.25), green eyes, whiskers, orange fur, tuft, orange body, brown fur, chest tuft, brown body, hair, white fur, thigh gap
+(sphynx \(cat\):1.25), hairless, yellow eyes, big ears
+(sprigatito:1.25), green body, green fur, tuft, facial tuft, cheek tuft, pink nose, neck tuft, multicolored body
+(tabaxi:1.25), stripes, tuft, whiskers, pink nose, white body, black stripes, white fur, chest tuft, tail markings, green eyes, markings, biped, striped fur, inner ear fluff, yellow eyes, black fur
+(tabby cat:1.25), whiskers, stripes, pink nose, striped fur, striped body, tuft, yellow eyes, white body, white fur, green eyes
+(the cat returns:1.25), tuft, chest tuft, blue eyes, whiskers, white body, white fur, pink nose, biped, slim, multicolored body, multicolored fur
+(tuxedo cat:1.25), black fur, black body, whiskers, tuft, pink nose, white body, white fur, inner ear fluff
+(wildcat:1.25), stripes, tuft, chest tuft, striped fur, striped body, whiskers, yellow body, white body, white fur, yellow fur, inner ear fluff, exposure variation, black stripes, markings, pink nose

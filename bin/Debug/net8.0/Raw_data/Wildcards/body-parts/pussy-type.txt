@@ -1,0 +1,9 @@
+anatomically correct
+animal
+canine
+cervine
+cetacean
+equine
+feline
+humanoid
+non-mammal

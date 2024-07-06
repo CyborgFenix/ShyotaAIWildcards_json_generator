@@ -1,0 +1,20 @@
+(agumon:1.25), yellow body, scales
+(exveemon:1.25), horn, pecs, blue body, claws, biceps, blue skin, scales, blue scales, white body, white skin
+(flamedramon:1.25), horn, claws, pecs, red eyes, scales, blue body, white body, blue skin
+(gabumon:1.25), claws, horn, markings, white body, fangs, blue body, stripes, pecs
+(gargomon:1.25), white pupils, slightly chubby, yellow body, long ears, narrowed eyes, white body, green body, yellow fur
+(gatomon:1.25), tail ring, tail accessory, tail jewelry, white body, jewelry, furgonomics, white fur, ear tuft, ring, whiskers, bracelet, tuft, featureless chest, accessory, markings, brown eyes
+(growlmon:1.25), markings, claws, horn, red body, scales, fangs, symbol
+(guilmon:1.25), symbol, inverted zero unit, zero unit, digital hazard, markings, head wings, digimorph, fangs, claws
+(impmon:1.25), red eyes, bracelet, purple body, jewelry, blush
+(jellymon:1.25), pool toy, yellow eyes ball, thigh gap, glistening, eyelashes, purple body
+(kumamon:1.25), white body, white fur, blush, markings, head markings, claws, facial markings, facial tuft, cheek tuft, multicolored body, black nose, pecs, tuft, glistening, depth of field
+(leomon:1.25), mane, pecs, tuft, yellow eyes, hair, claws, biceps
+(machgaogamon:1.25), blue fur, blue body, white body, white fur, tuft, multicolored body, multicolored fur, cheek tuft, facial tuft, chest tuft, markings, black nose, inner ear fluff, yellow eyes, neck tuft
+(palmon:1.25), green body, green skin, featureless chest
+(renamon:1.25), yellow fur, yellow body, black sclera, tuft, white body, white fur, neck tuft, blue eyes, head markings, markings, facial markings, chest tuft, multicolored ears, multicolored body, multicolored fur, dipstick ears, black nose, two tone body, purple markings, small waist
+(renimpmon:1.25), yellow body, yellow fur, white body, furball \(artist\), white fur
+(rikamon:1.25), white body, blue eyes, white fur, blue body, tuft, featureless chest, blue fur, chest tuft, markings, facial tuft, cheek tuft, multicolored body, head markings, pupils, neck tuft, facial markings, gloves \(marking\), blue markings, multicolored fur, shoulder tuft
+(terriermon:1.25), green eyes, green body, white body, horn
+(veemon:1.25), horn, blue body, claws, white body, head wings
+(weregarurumon:1.25), pecs, stripes, claws, white body, fangs, white fur, tuft, chest fur, biceps, purple body, markings, striped body, scar, purple fur, striped fur

@@ -1,0 +1,18 @@
+acid
+vaporwave
+steampunk
+horror \(theme\)
+80's theme
+science fiction
+ink
+toony
+cartoon
+sketch
+oil painting
+vector art
+outline
+bleak ambiance
+chinese
+japanese
+(3d \(artwork\):1.25), film photography, {1$$sharp focus|soft focus}, ray tracing, (unreal engine:1.25)
+(ultra realistic:1.25), film photography, {1$$sharp focus|soft focus}, RAW photo, photorealistic, analog style, subsurface scattering, photorealism

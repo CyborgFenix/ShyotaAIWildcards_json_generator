@@ -1,0 +1,335 @@
+abyssinian cat
+albatross
+alligator
+allosaurus
+alpaca
+amberjack
+american shorthair cat
+anaconda
+anchovy
+animal
+ankylosaurus
+ant
+armadillo
+australian shepherd
+baboon
+badger
+badger
+bald eagle
+barramundi
+basilisk
+bass
+bat
+beagle
+bear
+beaver
+bee
+bengal cat
+bichon frise
+bigfoot
+bird
+birman cat
+bison
+blackbird
+blue jay
+bluebird
+bluefish
+bobcat
+bonito
+border collie
+boston terrier
+boxer
+brachiosaurus
+british shorthair cat
+bulbasaur
+bulldog
+bullhead
+burmese cat
+butterfly
+camel
+cardinal
+cardinal
+carp
+cat
+caterpillar
+catfish
+cavalier king charles spaniel
+centipede
+chameleon
+charizard
+cheetah
+chickadee
+chickadee
+chicken
+chihuahua
+chimera
+chimpanzee
+chimpanzee
+chupacabra
+clam
+cobia
+cod
+condor
+cornish rex cat
+cow
+coyote
+crab
+creature
+crocodile
+crow
+cuckoo
+cyclops
+dachshund
+deer
+devon rex cat
+diplodocus
+djinn
+doberman pinscher
+dogfish
+dolphin
+donkey
+dove
+dragon
+dragonite
+duck
+eel
+eevee
+egyptian mau cat
+elephant
+elk
+elk
+english mastiff
+exotic shorthair cat
+falcon
+falcon
+ferret
+finch
+fish
+flamingo
+flounder
+fox
+french bulldog
+frog
+frog 
+gargoyle
+gazelle
+gecko
+german shepherd
+giant ant
+giant bat
+giant bee
+giant scorpion
+giant spider
+giant squid
+giant wasp
+giraffe
+gizzard shad
+goat
+golden eagle
+golden retriever
+goose
+gorgon
+gorilla
+grass carp
+great dane
+griffin
+gulf menhaden
+gyarados
+haddock
+halibut
+hare
+harpy
+hawk
+hedgehog
+heron
+herring
+himalayan cat
+hippopotamus
+horse
+hummingbird
+hydra
+hyena
+ifrit
+imp
+jack russell terrier
+jaguar
+japanese bobtail cat
+jay
+jellyfish
+jersey devil
+jigglypuff
+jinn
+kangaroo
+kappa
+kestrel
+kingfish
+kingfisher
+kitsune
+kiwi
+koala
+korat cat
+kraken
+kraken
+labrador retriever
+ladybird
+lark
+lemur
+leopard
+leviathan
+lion
+lizard
+llama
+lobster
+loch ness monster
+mackerel
+magpie
+maine coon cat
+mallard
+mammoth
+manx cat
+mastodon
+medusa
+megalodon
+mewtwo
+millipede
+mink
+minotaur
+monkfish
+mooneye
+moose
+moose
+moth
+mothman
+mouse
+mule
+naga
+newt
+nightingale
+northern pike
+norwegian forest cat
+ocean pout
+octopus
+oni
+opossum
+orangutan
+oriental shorthair cat
+osprey
+ostrich
+otter
+owl
+oyster
+panther
+panther
+parrot
+peacock
+pegasus
+pelican
+perch
+persian cat
+phoenix
+pig
+pigeon
+pikachu
+pike
+platypus
+pompano
+poodle
+porpoise
+pterodactyl
+puffin
+puppy dog
+python
+rabbit
+raccoon
+raccoon
+ragdoll cat
+rat
+raven
+red snapper
+redfish
+rhinoceros
+robin
+roc
+rock bass
+rottweiler
+russian blue cat
+sabertooth tiger
+saint bernard
+salamander
+salmon
+sardine
+sasquatch
+sauger
+scorpion
+scottish fold cat
+sea serpent
+seagull
+shad
+shar pei
+shark
+sheep
+sheepshead
+shih tzu
+shrimp
+siamese cat
+siberian husky
+skunk
+sloth
+slug
+snail
+snake
+snake
+snapper
+snorlax
+sole
+sparrow
+sphinx
+sphynx cat
+spider
+squid
+squirrel
+squirrel
+squirtle
+starfish
+stegosaurus
+stork
+swallow
+swan
+swordfish
+tanuki
+tapir
+tengu
+tiger
+tilapia
+tilefish
+toad
+tortoise
+toucan
+triceratops
+triggerfish
+trout
+tuna
+turkey
+turkish angora cat
+turkish van cat
+turtle
+tyrannosaurus rex
+unicorn
+velociraptor
+vulture
+wahoo
+wasp
+water buffalo
+weasel
+wendigo
+whale
+wolf
+wombat
+woodpecker
+woolly rhinoceros
+yak
+yellow perch
+yellowtail
+yeti
+yorkshire terrier
+zebra

@@ -1,0 +1,17 @@
+breakfast, {1$$bread|toast|pan cake|waffles|cereal milk|cinnamon rolls|fish and chips|sandwich|croissant bread}
+breakfast, {1-5$$lettuce salad|eggs|hotdog|sausage|bacon|poached eggs|bread|toast|egg roll}
+{1$$fried|roast|steamed|stew|boil|grilled} {1$$turkey|chicken|fish|bread|mushroom|meat|beef|rice|pork|curry|vegetable|egg|sausage|seafood}
+{0-1$$japanese|english|chinese|american|indian} {1$$meal|lunch|dinner|breakfast|BBQ}
+{1$$drinks|beverage|cup of water}
+{1$$beer|wine|red wine}
+{1$$coffee|milk|latte|milk tea|pearl milk tea}
+{1$$juice|tea|black tea|lemonade|coca cola}
+{1$$crisps|popcorn|hotdog|fastfood|box lunch}
+{1$$pizza|hamburger|submarine sandwich|taco|dumpling|fried chicken|chicken nuggets}
+{1$$meal|christmas feast|dessert|offerings|eastern-style food|western-style food}
+{1$$rice|rice roll|sushi|barbecue pork rice|fried rice|rice cake}
+{1$$seafood|grilled fish|salmon}
+{1$$soup|hot pot|gazpacho|borscht}
+{1$$spaghetti|pasta|noodle|ramen|cold noodles}
+{1$$steak|beef|pork|roast meat|kebab|doner kebab|manda roti}
+{1-3$$chocolate|cake|donut|pie|pudding|cookies|candy|christmas candy|pocky}

@@ -1,0 +1,8 @@
+(((rabbit cuddles \(htf\)))) with ((yellow body, pink nose, wear white slippers))
+(((porcupine flaky \(htf\)))) with ((red body, pink nose, red long hair))
+(((bear {1$$flippy|fliqpy} \(htf\)))) with ((green body, pink nose, soldier, beret, camo clothing))
+(((ground squirrel giggles \(htf\)))) with ((pink body, pink nose, red bow ribbon))
+(((reindeer mime \(htf\)))) with ((purple body, pink nose, striped clothing, horn))
+(((tree squirrel nutty \(htf\)))) with ((green body, pink nose, large fluffy tail, candy))
+(((skunk petunia \(htf\)))) with ((blue body, pink nose, large fluffy tail, flower in hair, accessory, green jewelry))
+(((beaver toothy \(htf\)))) with ((purple body, pink nose, large tail, teeth))

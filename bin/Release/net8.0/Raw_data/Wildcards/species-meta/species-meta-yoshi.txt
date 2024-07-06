@@ -1,0 +1,14 @@
+(birdo:1.25), eyelashes, pink body, narrowed eyes, hair, seductive
+(black yoshi:1.25), black body, multicolored body, featureless chest, white body, two tone body
+(blue yoshi:1.25), blue body, multicolored body, narrowed eyes, featureless chest, white body, eyelashes, blue skin, multicolored skin, half-closed eyes
+(bowser jr.:1.25), spikes, spiked collar, bracelet, armband, collar, horn, jewelry, spiked bracelet, spiked armband, hair, spikes \(anatomy\), shell, red hair, pecs, thong, eyebrows, slightly chubby, musclegut, spiked shell, yellow body, thick eyebrows
+(bowser:1.25), spikes, armband, spiked collar, spiked bracelet, bracelet, horn, spiked armband, shell, collar, jewelry, pecs, spikes \(anatomy\), hair, red hair, spiked shell, eyebrows, claws, obliques, biceps, yellow body, big muscles, thong, teeth
+(cyan yoshi:1.25), blue body, blue eyes, featureless chest, multicolored body, shell
+(green yoshi:1.25), green eyes, green body, green skin
+(koopa troopa:1.25), beak, yellow skin, yellow body, black eyes, shell-less
+(koopa:1.25), horn, pecs, hair, yellow body, eyebrows, scales, green body
+(orange yoshi:1.25), orange body, girly
+(pink yoshi:1.25), birdo, pink body, green eyes, bow ribbon, centered hair bow, bow accessory, hair bow, hair ribbon, pink skin, bow \(feature\), white skin, pink scales, ribbons
+(purple yoshi:1.25), purple eyes, featureless chest, purple body, birdo, eyelashes
+(red yoshi:1.25), multicolored body, red body
+(yoshi:1.25), green body, shell-less, green skin, multicolored body, biped, looking away

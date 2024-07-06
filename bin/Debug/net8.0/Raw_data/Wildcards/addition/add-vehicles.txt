@@ -1,0 +1,106 @@
+train
+car
+sports car
+muscle car
+formula 1 car
+ship
+motercycle
+bicycle
+bus
+tram
+plane
+helicopter
+boat
+yacht
+camper
+scooter
+skateboard
+roller skates
+rollerblades
+segway
+snowmobile
+skiis
+snowboard
+sled
+hot air balloon
+parachute
+hang glider
+zip line
+funicular
+gondola
+chair lift
+trolley
+ropeway
+jet ski
+water scooter
+kayak
+canoe
+raft
+paddle boat
+surfboard
+bodyboard
+wind surfboard
+kiteboard
+wakeboard
+water skis
+hovercraft
+millennium falcon
+uss enterprise
+tardis
+battlestar galactica
+thunderbird
+red dwarf
+the heart of gold
+x-wing
+borg cube
+cruise ship
+space shuttle
+aircraft carrier
+oil tanker
+submarine
+mega yacht
+seaplane carrier
+horse-drawn carriage
+icebreaker
+nuclear submarine
+whaling ship
+tractor trailer
+spacecraft
+spaceship
+cable car
+airship
+space shuttle
+container ship
+high-speed train
+oil tanker
+hovercraft
+toyota
+ford
+chevrolet
+honda
+nissan
+bmw
+mercedes-benz
+audi
+volkswagen
+tesla
+porsche
+ferrari
+lamborghini
+aston martin
+jeep
+harley-davidson
+honda
+yamaha
+kawasaki
+ducati
+police car
+ambulance
+fire truck
+tow truck
+garbage truck
+postal delivery truck
+armored vehicle
+snow plow
+tractor trailer
+utility van

@@ -1,0 +1,47 @@
+(allosaurus:1.25), teeth, scales, green body, horn, green scales, markings, multicolored body, biped, pupils, stripes, countershade torso, white body
+(ankylosaurus:1.25), scales, green scales, green body, pecs, horn, claws, spikes, biceps, yellow body, spikes \(anatomy\), green skin, spots
+(apatosaurus:1.25), scales, horn, brown eyes, pecs, green scales
+(baryonyx:1.25), green body, scales, red eyes, green scales, claws
+(blue \(jurassic world\):1.25), blue body, teeth, yellow eyes, eyelashes
+(brachiosaurus:1.25), scales, pecs
+(brontosaurus:1.25), scales, featureless chest, green body
+(carcharodontosaurid:1.25), stripes, multicolored body, white body, markings, featureless chest, striped body, blue eyes, orange body, biped, countershade torso
+(carnotaurus:1.25), horn, pecs, biceps, teeth, scales, claws, spots
+(ceratosaurid:1.25), chest tuft, tuft, stripes, striped fur, orange fur, orange body, white fur, striped body, white body, multicolored fur, multicolored body, whiskers, black stripes, cheek tuft, facial tuft, eyelashes, pink nose, partially submerged tail
+(ceratosaurus:1.25), pecs, teeth, scales, spots, green body, spotted legs, sharp teeth, green scales, biceps
+(dinosaur:1.25), teeth, scales, markings, green body, blue eyes
+(dromaeosaurid:1.25), feathers, beak, chest tuft, tuft, multicolored feathers, multicolored body, white body, stripes, brown eyes, biped
+(feathered dinosaur:1.25), feathers, beak, brown eyes
+(feathered raptor:1.25), feathers, beak, multicolored body, biped, tuft, feather hair, chest tuft, stripes
+(indominus rex:1.25), horn, teeth, white body, scales, pecs, claws, sharp teeth, markings, fangs
+(indoraptor:1.25), feathers, beak, orange eyes, multicolored body, black body, biped
+(jaggi:1.25), yellow eyes, featureless chest, scales
+(jurassic park:1.25), tattoo, teeth, claws, scales, yellow eyes, pupils
+(jurassic world:1.25), teeth, scales, blue body, pupils, eyelashes, green body
+(mosasauroid:1.25), biped, slim, featureless chest
+(ornithischian:1.25), horn, biped
+(pachycephalosaurus:1.25), blue eyes, yellow body, scales, green body, green scales
+(parasaurolophus:1.25), horn, pecs, blue eyes
+(plesiosaurus:1.25), scales, partially submerged tail, blue body, long tail, countershade torso, biped
+(plesiosaur:1.25), green body, horn, green scales, pecs, scales, green skin, brown eyes
+(pterosaur:1.25), green body, feathers, beak, eyelashes, yellow eyes
+(ruuhtian \(kig-yar\):1.25), featureless chest, hair, eyelashes, brown hair, scales, yellow body, claws, green body, mohawk, biped
+(salmonid \(fish\):1.25), green body, scales, teeth, green scales, red eyes, claws, green skin, featureless chest, multicolored body, markings, pupils, biped
+(sauropod:1.25), scales, green scales, green body
+(saurus:1.25), green body, scales, green scales, spots, multicolored body, yellow body, biped, yellow eyes, countershade torso, markings
+(snorkasaurus:1.25), horn, scales, spikes, green body, yellow eyes, purple body, multicolored body, claws, spikes \(anatomy\), green scales, markings, yellow body
+(spinosaurid:1.25), scales, claws, teeth, green body, featureless chest, multicolored body, green scales, markings, countershade torso, biped
+(spinosaurus:1.25), scales, yellow eyes, green scales, teeth, claws, pupils, horn, spikes, green body, tropical
+(stegosaurian:1.25), green body, scales, green scales, yellow body, horn, green skin, multicolored body, claws, countershade torso, yellow scales
+(stegosaurus:1.25), horn, green body, scales, green scales, spikes, claws
+(styracosaurus:1.25), horn, scales, pecs, frill \(anatomy\), blue eyes, membranous frill, green scales, biceps, green body
+(theropod:1.25), scales, yellow eyes, green scales, green body, pupils, markings, claws, biped
+(thyreophoran:1.25), blue eyes, hair, tuft, brown hair, chest tuft, tan body, brown fur, brown body, tan fur, black lips, black nose, white body, white fur, spots
+(triceratops:1.25), horn, blue eyes, scales
+(troodontid:1.25), 
+(troodon:1.25), scales, stripes, multicolored body, markings, teeth, pupils, striped markings
+(tyrannosaurid:1.25), body hair, pecs, chest hair, teeth, green eyes, spots
+(tyrannosaurus rex:1.25), pecs, scales, green body, teeth
+(tyrannosaurus:1.25), pecs, scales, teeth, green body, multicolored body
+(utahraptor:1.25), yellow eyes, scales, pupils, claws, markings
+(velociraptor:1.25), claws, teeth, green body, markings, red eyes, yellow body, scales, biped

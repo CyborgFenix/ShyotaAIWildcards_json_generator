@@ -1,0 +1,16 @@
+(banzai \(the lion king\):1.25), yellow sclera, brown body, brown fur, multicolored body, multicolored fur, tuft, tan fur, tan body, eyebrows, smirk, two tone fur, two tone body, chin tuft
+(cougar:1.25), whiskers, stripes, white body, white fur, yellow body, pecs, yellow fur, tuft, brown body, pink nose, markings, tan body, biped, brown fur
+(fossa:1.25), whiskers, brown body, brown fur, black fur, black body, tuft, pecs
+(kovu:1.25), pecs, body hair, hair, chest hair, brown body, biceps
+(leodore lionheart:1.25), mane, pecs, hair, white body, biceps, white fur, tuft, brown hair, brown mane, body hair, multicolored body, brown body, brown fur
+(lion:1.25), mane, pecs, body hair, biceps, hair, tuft, hairy
+(m'ress:1.25), hair, whiskers, brown hair, chest tuft, yellow eyes, tuft
+(mufasa:1.25), pecs, mane, tuft, biceps, body hair, eyebrows
+(nala:1.25), 
+(pyroar:1.25), hair, tuft, mane, chest tuft, multicolored body, orange eyes
+(sarabi:1.25), brown fur, brown body
+(scar \(the lion king\):1.25), scar, facial scar, mane, pecs, eye scar, tuft, hair, black body, chest tuft, claws, orange body, black hair
+(simba:1.25), pecs, yellow body, hair, yellow fur, tuft, mane, brown hair
+(solaxe:1.25), pecs, tuft, yellow fur, yellow body, biceps, blue eyes, neck tuft, black nose, white fur, white body, chest tuft, white hair, multicolored body, multicolored fur, biped, claws
+(taro \(liontaro\):1.25), brown hair, mane, hair, pecs, yellow fur, yellow body, white body, tuft, biceps, white fur, brown mane, facial hair, beard
+(the lion king:1.25), yellow sclera, tuft, hair, tan fur, tan body, brown body, brown fur

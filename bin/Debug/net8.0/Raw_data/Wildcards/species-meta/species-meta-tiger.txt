@@ -1,0 +1,61 @@
+(aardwolf:1.25), stripes, striped fur, striped body, yellow eyes, black body, black fur, black stripes, tuft, black hair, white body, brown body, cheek tuft
+(amur leopard:1.25), spots, white body, whiskers, yellow fur, yellow body, white fur, spotted body, yellow eyes, spotted fur, tuft, multicolored body, chest tuft, multicolored fur, pink nose, claws
+(bengal tiger:1.25), stripes, blue eyes, pecs, white body, orange body, striped body, striped fur, white fur, orange fur, biceps, black stripes, pink nose, body hair, black body, black fur, multicolored body, whiskers, tuft, biped, multicolored fur, chest hair, claws
+(bobcat:1.25), whiskers, tuft, chest tuft, spots, white fur, white body, spotted body, spotted fur, inner ear fluff, multicolored fur, multicolored body, black fur, black spots, pink nose
+(canadian lynx:1.25), whiskers, tuft, ear tuft, chest tuft, hair
+(cheetah:1.25), yellow body, yellow fur, spots, white body, white fur, yellow eyes, tuft, spotted body, chest tuft, spotted fur, black spots, multicolored body, pecs
+(clawroline:1.25), tuft, whiskers, chest tuft, claws, eyelashes, yellow eyes, yellow sclera, facial tuft, white body, cheek tuft, white fur, orange body, multicolored body, yellow body, orange fur
+(clouded leopard:1.25), spots, spotted body, spotted fur, white body, yellow eyes, whiskers, white fur, pecs, tuft, yellow body, yellow fur, black spots, multicolored body, multicolored fur, pink nose
+(dire leopard:1.25), blue eyes, spots, white body, white fur, whiskers, spotted body, yellow body, spotted fur, yellow fur, pink nose, tuft, multicolored body, multicolored fur, chest tuft, black fur, claws
+(ebon thundermoon:1.25), black fur, black body, black nose, black hair, markings, multicolored fur, multicolored body, pecs
+(egyptian mau:1.25), whiskers, stripes, spots, yellow eyes, white body, white fur, tuft, grey body, inner ear fluff, pink nose, slim, spotted body, markings, grey fur, tail markings, spotted fur, black fur, striped fur
+(eurasian lynx:1.25), tuft, chest tuft, whiskers, yellow eyes, spots, white body, ear tuft, white fur, spotted body
+(fynath:1.25), chest tuft, tuft, whiskers, spots, white body, white fur, stripes, multicolored body, spotted body, pink nose, spotted fur, claws, multicolored fur, yellow fur, inner ear fluff, cheek tuft, facial tuft, yellow body, orange body, markings, striped fur, striped body, orange fur, yellow eyes
+(genet:1.25), whiskers, spots, tuft, chest tuft, multicolored body, white body, markings, multicolored fur, ring \(marking\), white fur, spotted body, spotted fur, black spots, ringtail, black fur, black body, stripes, tail markings, yellow eyes, biped, inner ear fluff, pink nose, striped tail
+(hombretigre:1.25), pecs, hair, biceps, stripes, blue eyes, tuft, white body, body hair, white fur, facial hair, chest hair, beard, chest tuft, orange body, striped fur, claws, black body, multicolored fur, striped body, multicolored body, fangs, black fur, pink nose, quads, orange fur, tan body, chest fur, eyebrows, teeth, biped, big muscles
+(iberian lynx:1.25), whiskers, tuft, chest tuft, spots, white body, yellow eyes, pink nose, white fur, ear tuft
+(jaguar:1.25), spots, white body, pecs, spotted body, yellow body, yellow eyes, white fur, spotted fur, yellow fur, whiskers, black spots, body hair, tuft, biceps
+(karnal \(karnaltiger\):1.25), stripes, pecs, blue eyes, facial hair, pink nose, beard, body hair, biceps, white body, orange body, white fur, black body, hair, striped body, claws, striped fur, black fur, orange fur, biped
+(khajiit:1.25), stripes, yellow eyes, striped body, chest tuft, tuft, striped fur, whiskers, pink nose, white body
+(king cheetah:1.25), spots, pecs, yellow body, yellow fur, white body, white fur, black fur, biped, yellow eyes, hair, black body, spotted body, multicolored body, spotted fur, multicolored fur, biceps, tuft, black spots, stripes
+(kougra:1.25), stripes, striped fur, striped body, white body, black stripes, white fur, pink nose, tuft, blue eyes, orange body, orange fur, multicolored body, markings, eyelashes, multicolored fur, chest tuft
+(leopard cat:1.25), whiskers, tuft, chest tuft, white body, pink nose, inner ear fluff, yellow eyes, cheek tuft, white fur, stripes, facial tuft, multicolored body, spots, striped body, claws, multicolored fur, striped fur, black stripes
+(leopard gecko:1.25), spots, yellow body, yellow fur, spotted body, spotted fur, white body, white fur, multicolored body, markings, tuft, pink nose, black spots, brown spots, biped, multicolored fur, countershade torso, brown eyes, white countershading, claws, whiskers, inner ear fluff, eyebrows, slim, spotted markings
+(leopard shark:1.25), spots, yellow body, spotted body, yellow fur, white body, spotted fur, multicolored body, slim, white fur, black spots, spotted markings, markings, eyebrows
+(leopardus:1.25), spots, yellow body, yellow fur, spotted body, spotted fur, black spots, white body, whiskers, pecs, white fur, tuft
+(liger:1.25), stripes, black stripes, striped body, striped fur, white body, pink nose, whiskers, white fur, orange body, orange fur, tuft, multicolored body, yellow eyes, multicolored fur, teeth, markings, eyebrows, black fur
+(linsang:1.25), whiskers, white body, stripes, white fur, tuft, markings, multicolored body, chest tuft, spots, striped fur, striped tail, ring \(marking\), multicolored fur, pink nose, striped body, striped markings, tail markings, black body, orange eyes, black fur, black stripes, slim, ringtail, biped, spotted body
+(machairodontine:1.25), stripes, white body, white fur, sabertooth \(anatomy\), blue eyes, striped fur, striped body, black stripes, fangs, orange fur, black fur, orange body, multicolored body, eyebrows, black body, multicolored fur, pink nose, hair, tuft
+(maine coon:1.25), whiskers, stripes, tuft, striped fur, striped body, chest tuft, white fur, pink nose, white body, neck tuft, yellow eyes, inner ear fluff, black fur, black body, multicolored body, black stripes
+(margay:1.25), whiskers, white body, orange body, orange fur, multicolored body, tuft, white fur, multicolored fur, chest tuft, stripes, yellow eyes, markings, black fur, striped fur, striped body
+(master tigress:1.25), stripes, striped body, black stripes, striped fur, orange fur, orange body, white body, white fur, multicolored body, multicolored fur, collarbone
+(mobian lynx:1.25), tuft, spots, spotted body, chest tuft, spotted fur, hair
+(ocelot:1.25), whiskers, white body, spots, white fur, multicolored body, spotted body, multicolored fur, spotted fur, tuft, markings
+(partran \(tiger\):1.25), stripes, pecs, white body, orange body, striped body, striped fur, biceps, white fur, body hair, pink nose, orange fur, black body, black stripes, chest hair, facial hair, blue eyes, black fur, tuft, beard, claws, v-cut
+(prionailurus:1.25), stripes, blue eyes, white body, white fur, black stripes, striped body, striped fur, multicolored body, multicolored fur, tuft, black body, black fur, orange body, orange fur, chest tuft, markings, pink nose, cheek tuft, claws, facial tuft, black nose, eyebrows, striped markings, whiskers, striped tail
+(pumapard:1.25), blue eyes, spots, white body, white fur, spotted body, spotted fur, markings, multicolored body, whiskers, multicolored fur, tuft, pink nose, black spots, yellow fur, biped, tail markings
+(pumyra:1.25), yellow eyes, tuft, chest tuft, orange fur, orange body, white body, white fur, eyelashes, stripes, whiskers
+(raptoral \(character\):1.25), tuft, hair, red fur, chest tuft, black nose, red body, blue eyes, cheek tuft, facial tuft, multicolored fur, multicolored body, brown hair, inner ear fluff, eyebrows, eyelashes, markings, red hair, neck tuft, tan body, blue nose, biped, white fur, tan fur, fluffy, fangs, brown fur
+(rey \(animatedmau\):1.25), featureless chest, markings, white body, tuft, multicolored body, white fur, facial tuft, cheek tuft
+(sahara \(nicnak044\):1.25), hair, green eyes, stripes, tuft, pink nose, chest tuft, markings, short hair, multicolored fur, whiskers, multicolored body, striped fur, teeth, orange fur, striped body, orange body, eyebrows, eyelashes, inner ear fluff, white fur, facial tuft, cheek tuft
+(serval:1.25), spots, tuft, inner ear fluff, whiskers, white fur, spotted body, spotted fur, yellow fur, thigh gap, chest tuft, white body, black spots, multicolored body, multicolored fur, yellow body
+(siberian tiger:1.25), stripes, white body, black stripes, white fur, orange body, striped body, striped fur, orange fur, pink nose, pecs, multicolored body, tuft, black body, multicolored fur, black fur, featureless chest, biped, v-cut
+(smilodon:1.25), brown body, brown fur, white body, tuft, white fur, multicolored body, black nose, multicolored fur, pecs, chest tuft, black body
+(snow leopard:1.25), spots, white body, white fur, blue eyes, chest tuft, spotted fur, spotted body, tuft, whiskers, pink nose, eyelashes, markings, grey body, black spots, grey fur, multicolored body, multicolored fur
+(snow serval:1.25), tuft, spots, inner ear fluff, chest tuft, spotted body, whiskers, spotted fur, white fur, white body, black spots, multicolored body, yellow fur, multicolored fur, eyelashes
+(sona \(noxiis\):1.25), chest tuft, tuft, hair, blonde hair, multicolored body, multicolored fur, brown eyes, brown body, black nose, brown fur, girly, markings
+(stripe heeler:1.25), stripes, white body, white fur, tuft, eyebrows, chest tuft
+(tai lung \(kung fu panda\):1.25), spots, whiskers, spotted body, pecs, jungle, white body, teeth, yellow eyes, yellow sclera, spotted fur, claws, white fur, multicolored body, markings
+(thylacine:1.25), stripes, black stripes, white body, white fur, striped fur, striped body, blue eyes, whiskers, multicolored body, multicolored fur, markings, tail markings, orange fur, orange body, teeth, pink nose, eyebrows, striped tail, yellow fur, striped markings
+(thylacoleo:1.25), stripes, pecs, black stripes, white body, biceps, white fur, yellow fur, blue eyes, yellow body, striped body, striped fur, markings, multicolored body, orange fur
+(tiger dancer \(zootopia\):1.25), stripes, pink nose, orange body, white body, purple eyes, black stripes, striped body, white fur, featureless chest, orange fur, striped fur, multicolored body, multicolored fur, eyebrows, tuft, markings
+(tiger:1.25), stripes, pecs, white body, orange body, white fur, black stripes, biceps, striped body, striped fur, orange fur, black body, body hair, pink nose, tuft, black fur, multicolored body, claws, chest hair, multicolored fur, v-cut
+(tiggs:1.25), green eyes, orange body, stripes, orange fur, chest tuft, striped fur, white body, striped body, black stripes, whiskers, white fur, tuft, hair, pink nose, cheek tuft, multicolored body, facial tuft, multicolored fur, brown hair, markings, eyebrows, black fur, biped, black body, fangs, featureless chest
+(tigon:1.25), stripes, yellow body, black stripes, blue eyes, yellow fur, white body, striped body, white fur, striped fur, markings, multicolored body, whiskers, teeth, pink nose
+(tigrex:1.25), stripes, pecs, biceps, blue eyes, body hair, facial hair, claws, beard, white body, big muscles, chest hair, pink nose, striped body, orange body, white fur, striped fur, thong
+(tj hess:1.25), stripes, hair, white fur, white body, brown hair, whiskers, pecs, black stripes, pink nose
+(tony the tiger:1.25), stripes, pecs, orange body, orange fur, white body, biceps, white fur, striped body, black stripes, striped fur, pink nose, multicolored body, big muscles, multicolored fur, claws, whiskers, teeth, black body
+(tygre:1.25), tuft, white fur, white body, stripes, chest tuft, pink nose, black stripes, whiskers, orange fur, orange body, multicolored body, yellow fur, multicolored fur, striped fur
+(viverrid:1.25), spots, tuft, whiskers, white fur, white body, chest tuft, brown fur, yellow eyes, brown body, spotted fur, multicolored fur, spotted body, multicolored body, black fur, inner ear fluff, biped, markings
+(zhali:1.25), hair, stripes, brown hair, black hair, black areola, ponytail, chest tuft, striped body, tuft, claws, striped fur, orange body, fangs, white fur, orange fur, green eyes
+(zig zag:1.25), stripes, white body

@@ -1,0 +1,19 @@
+(alola Rattata:1.25), toony, black body, multicolored body, open frown, feet, toes, 3 toes, tuft, red eyes, pink tongue, quadruped, claws, countershade torso, fangs, grey body, orange eyes, countershade face, grey tail, two tone body, black tail, black fur
+(alola Raticate:1.25), teeth, claws, feet, toes, buckteeth, 3 toes, white claws, multicolored body, tan body, toony, brown body, toe claws, tuft, black body, white body, pink nose, dewlap \(anatomy\), countershade torso, two tone body, multicolored fur
+(alola Raichu:1.25), alolan raichu, blue eyes, toony, multicolored body, 3 toes, feet, toes, tan body, markings, yellow body, two tone body, orange body, long tail, featureless hands
+(alola Sandshrew:1.25), claws, toony, blue body, black eyes, white claws, toe claws, multi limb, exoskeleton, toes, blue eyes, feet, 3 toes, on model, multicolored body, biped, countershade torso, spikes, alternate species
+(alola Sandslash:1.25), claws, blue body, toony, blue eyes, wings, toe claws, white claws, spikes, feet, 3 toes, white eyes, toes
+(alola Vulpix:1.25), multi tail, blue eyes, white body, quadruped, white fur, blue body, blue fur, fluffy, blue nose
+(alola Ninetales:1.25), blue eyes, quadruped, white body, white fur, multi tail, blue body, markings
+(alola Diglett:1.25), rock, black eyes, larva, toony, brown body
+(alola Dugtrio:1.25), brown body, group, multi leg, blonde hair, rock, multi head, evolutionary family, black eyes, conjoined, brown fur, hair, tan body, alternate species, level difference, 2 heads, brown eyes
+(alola Meowth:1.25), alolan meowth, coin, feet, toes, grey body, fangs, narrowed eyes, 3 toes, smug
+(alola Persian:1.25), fangs, forehead gem, claws, slit pupils, grey body, alolan meowth, gem, feet
+(alola Geodude:1.25), rock creature, toony, fist, multi limb, black eyes, grey body, flexing, raised arm, multi arm, feet, flexing bicep, toes, multi leg, pose, multicolored body
+(alola Graveler:1.25), toony, black eyes, multicolored body, 3 toes, feet, lighting, toes, 2 toes, suspended in midair, artsy-theo, on model, rock creature, claws, eye markings, spread arms, grey body, biped, two tone body, open frown, white claws, tendrils, shadow, overweight ambiguous, countershade torso, multi limb, action pose, toe claws, featureless feet, exoskeleton, pink tongue
+(alola Golem:1.25), red eyes, toony, exoskeleton, spikes, claws, quadruped, fangs, alternate species, white claws, roaring, pink tongue, multicolored body, black body, looking away
+(alola Slowbro:1.25), toony, on model, spikes, multicolored body, red body, black eyes, frown, shell, two tone body, suspended in midair, fangs, exoskeleton, artsy-theo
+(alola Grimer:1.25), green body, toony, feet, slime, teeth
+(alola Muk:1.25), open frown, teeth, blue eyes, multicolored body, toony, fangs
+(alola Exeggutor:1.25), toony, fangs, black eyes, brown body, green body, armless, feet, drupe \(fruit\), toes, branch, fusion
+(alola Marowak:1.25), fire, frown, grey eyes, toony, bone

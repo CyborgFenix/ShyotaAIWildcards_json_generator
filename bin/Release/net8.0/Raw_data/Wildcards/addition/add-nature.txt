@@ -1,0 +1,26 @@
+bamboo
+bush
+cloud
+crystal
+flower
+grass
+lake
+leaf
+moss
+mountain
+plant
+river
+rock
+tree
+vine
+water
+waterfall
+nature
+cliff
+cave
+fog, mist
+ambient insect
+ambient flier
+ambient firefly
+ambient butterfly
+ambient bird

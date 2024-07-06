@@ -1,0 +1,33 @@
+(gigantamax Venusaur:1.25), venusaur, teeth, sharp teeth, spikes, claws, fangs, green body, red eyes, thorns, flower \(anatomy\)
+(gigantamax Charizard:1.25), fire, claws, roaring, white claws, breath powers, fire breathing, fire manipulation, flaming tail, toe claws, elemental manipulation, countershade torso, toes, feet, 3 toes, toony, multicolored body, tan countershading, wings, horn, fangs, scales, teeth, open frown
+(gigantamax Blastoise:1.25), machine, blue body, cannon, black body
+(gigantamax Butterfree:1.25), wings, antennae \(anatomy\), insect wings, flying, lepidopteran wings, blue eyes, spread wings, larva, multi wing, suspended in midair, green wings, white wings, green body, reverse countershading, black body, translucent wings, compound eyes, featureless feet, multicolored body, toony, black eyes, blue wings
+(gigantamax Pikachu:1.25), yellow body, electricity, semi-anthro, yellow fur
+(gigantamax Meowth:1.25), pawpads, fangs, paws, brown body, feet
+(gigantamax Machamp:1.25), belt, multi arm, multi limb, feet, 4 arms, pecs, biceps, pose, barefoot, toes, black body, big muscles, flexing, yellow eyes
+(gigantamax Gengar:1.25), teeth, purple body, evil grin, yellow sclera
+(gigantamax Kingler:1.25), toony, suspended in midair, multi leg, feet, spikes
+(gigantamax Lapras:1.25), toony, multicolored body, spikes, quadruped, black body, black countershading, horn, gem, blue body
+(gigantamax Eevee:1.25), brown body, brown fur, markings, brown eyes, 3 toes, feet, tail markings, toes, pokeball
+(gigantamax Snorlax:1.25), red eyes, spikes, claws
+(gigantamax Garbodor:1.25), smoke, trash, group, drugs, plushie, shovel, smoking, marijuana, machine, vehicle, lighter, bone, tools, psychedelic
+(gigantamax Melmetal:1.25), machine
+(gigantamax Rillaboom:1.25), group, brown body, toony, attack, red eyes, evolutionary family, teeth, log, green body
+(gigantamax Cinderace:1.25), fire, wings, feathers, pseudo hair, red body, low-angle view, looking down, frown, crossed arms, flaming hair
+(gigantamax Inteleon:1.25), impalement, pole, dancing, bottomwear, pole dancing
+(gigantamax Corviknight:1.25), wings, feathers, feathered wings, black body, black feathers, talons, flying, red eyes, claws, beak, black fur, suspended in midair, spread wings, black wings, fire
+(gigantamax Orbeetle:1.25), red body, blue eyes
+(gigantamax Drednaw:1.25)
+(gigantamax Coalossal:1.25), machine, fire, teeth, black body
+(gigantamax Flapple:1.25)
+(gigantamax Sandaconda:1.25), brown body, black eyes, markings, black body
+(gigantamax Toxtricity:1.25), spikes, toony, black body, multicolored body, quadruped, pink tongue, attack, red eyes, shadow, fangs, blue body
+(gigantamax Centiskorch:1.25), breath powers, fire, fire breathing, fire manipulation, elemental manipulation, scales, red scales, spikes, red body, spines, wings
+(gigantamax Hatterene:1.25), toony, black body, black eyes
+(gigantamax Grimmsnarl:1.25), claws, eyeless, red eyes, glowing eyes, multi limb, glowing, teeth
+(gigantamax Alcremie:1.25), food, clown, fruit, dessert, strawberry, cherry, cake, star
+(gigantamax Copperajah:1.25), lava
+(gigantamax Duraludon:1.25), macro, vehicle, aircraft
+(gigantamax Eternatus:1.25), ranged weapon, weapon, boots, footwear, gun, gem, armor, spikes, machine, horn
+(gigantamax rapid strike style Urshifu:1.25), feathered crest, beak, claws, white body, blue body, toes, feet, feathers, fighting pose, 3 toes, urshifu, head crest, multicolored body, white feathers
+(gigantamax single strike style Urshifu:1.25), fist, markings, red body, red markings, white body, feet, eye markings, claws, multicolored body, toes, glowing, fire, biped, fighting pose, red fur, toony, head markings, facial markings, black markings, glowing eyes, black body, white fur, multicolored fur

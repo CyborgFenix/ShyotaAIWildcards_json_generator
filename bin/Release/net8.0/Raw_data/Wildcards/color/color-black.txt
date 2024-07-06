@@ -1,0 +1,3 @@
+black
+dark gray
+dim gray

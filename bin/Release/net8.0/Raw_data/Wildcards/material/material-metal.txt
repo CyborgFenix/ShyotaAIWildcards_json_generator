@@ -1,0 +1,11 @@
+copper
+steel
+iron
+silver
+golden
+lead
+metal
+titanium
+brass
+bronze
+iridescent

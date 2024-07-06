@@ -1,0 +1,48 @@
+(mega Venusaur:1.25), toony, blue body, venusaur, claws, quadruped, white claws, green body, fangs, toe claws, feet, multicolored body, toes, blue spots, teeth, spikes, blue tail, 3 toes, flower \(anatomy\), blue skin
+(mega Charizard X:1.25), fire, fire breathing, fire manipulation, breath powers, blue fire, elemental manipulation, colored fire, wings, red eyes, membranous wings, membrane \(anatomy\), claws, flaming tail, blue body, 3 toes, fangs, blue countershading, feet, toes
+(mega Charizard Y:1.25), wings, membranous wings, membrane \(anatomy\), mega charizard y, orange body, fire, blue eyes, flaming tail, claws, orange wings, white claws, orange skin, countershade torso, tan countershading, toe claws, spread wings, 3 toes, frown, feet, toes, two tone wings, orange horn, multicolored body, fangs, horn, orange tail, orange scales, countershade tail, tan scales, two tone body
+(mega Blastoise:1.25), cannon, shell, blue body, toony, ranged weapon, white claws, blue skin, feet, weapon, 3 toes, claws, toes, biped, red eyes, multicolored body, on model, toe claws, wartortle, pink tongue
+(mega Beedrill:1.25), insect wings, wings, red eyes, stinger, antennae \(anatomy\), multi limb, flying, red sclera
+(mega Pidgeot:1.25), feathers, wings, beak, tail feathers, feathered wings, pidgeot, multicolored feathers, open beak, flying, suspended in midair, red feathers, white feathers, talons, spread wings, orange feathers, grey beak, brown feathers, toony, pink tongue, winged arms, multicolored wings, two tone wings, multicolored body, feathered crest, feather tuft, head crest, green feathers, feet, red eyes, toes, yellow feathers, eye markings, blue feathers, white body, grey feathers, red body, looking away
+(mega Alakazam:1.25), spoon, fusion
+(mega Slowbro:1.25), toony, on model, spikes, multicolored body, red body, frown, black eyes, shell, two tone body, exoskeleton, artsy-theo, suspended in midair, fangs
+(mega Gengar:1.25), grin, red eyes, teeth, red sclera, red body, evil grin
+(mega Kangaskhan:1.25), on model, white claws, claws, toe claws, red eyes, toony, multicolored body, 3 toes, toes, feet, fangs, size difference, pink tongue, raised arm, two tone body, countershade torso, tan body, spikes, quadruped, evolutionary family, biped, tan countershading, shadow, yellow body, snout, countershade face, roaring, level difference, pose, blue body
+(mega Pinsir:1.25), toony, claws, wings, yellow eyes, spikes, on model, weapon, toe claws, suspended in midair, attack, white claws, multicolored body, melee weapon, feet, metallic body, toes
+(mega Gyarados:1.25), toony, red eyes, suspended in midair, blue body, fangs, multicolored body, wings, blue wings, flying, fin, teeth, two tone wings, yellow body, spikes
+(mega Aerodactyl:1.25), teeth, spikes, green eyes, sharp teeth, grey body, wings, spiked tail, spikes \(anatomy\), roaring, horn, grey scales, membrane \(anatomy\), purple body, membranous wings, scales, fangs, countershade torso, grey wings, pink tongue, white horn, flying
+(mega Mewtwo X:1.25), blue eyes, biped, feet, pupils, pose, toes, grey body, fusion, blue sclera
+(mega Mewtwo Y:1.25), red eyes, pupils, biped
+(mega Ampharos:1.25), toony, yellow skin, multicolored body, black eyes, yellow body, frown, white body, two tone body, two tone tail, fusion, red eyes, looking away, orb, white tail, countershade torso, grey eyes, biped, feet, tan body, lighting, quadruped, white skin, toes, alternate species, white hair, tan tail, markings, black tail, yellow tail
+(mega Steelix:1.25), blue eyes, on model, toony, teeth, ice, grey body
+(mega Scizor:1.25), blue eyes, wings, insect wings, red body
+(mega Heracross:1.25), toony, exoskeleton, claws, yellow eyes, raised arm, metallic body, spikes, on model, multicolored body, biped, white claws
+(mega Houndoom:1.25), spade tail, fusion, fangs, claws, horn, black body, orange eyes, white horn
+(mega Tyranitar:1.25), red eyes, claws, fangs, spikes, green body, toony, white claws, exoskeleton, toe claws, roaring, multicolored body, teeth, on model
+(mega Sceptile:1.25), green body, toony, green tail, multicolored body, biped, red sclera, fusion, fighting pose
+(mega Blaziken:1.25), yellow sclera, fire, red body, raised leg, blue eyes, claws, fighting pose, fusion, orange body, raised arm, on one leg
+(mega Swampert:1.25), blue body, feet, toes, toony
+(mega Gardevoir:1.25), red eyes, dress, green hair, white body, mega gardevoir, gloves, handwear
+(mega Sableye:1.25), gem, teeth, sharp teeth, red eyes, toony, claws, purple body, artificial intelligence, feet
+(mega Mawile:1.25), multicolored body, on model, toony, fangs, teeth, spikes, black body, red eyes, pink tongue, sharp teeth, pink eyes, grey body, two tone body, yellow body, hair mouth, biped, red body, looking back, yellow eyes, countershade torso, long tail
+(mega Aggron:1.25), toony, on model, claws, blue eyes, metallic body, white claws, spikes, biped, toe claws, grey body, multicolored body
+(mega Medicham:1.25), blue eyes, toony, floating, suspended in midair, insect wings, fusion, antennae \(anatomy\), multi limb
+(mega Manectric:1.25), claws, red eyes, blue body, yellow body, frown, toe claws, quadruped, feet, toes, 3 toes, white claws
+(mega Sharpedo:1.25), toony, teeth, blue body, open frown, sharp teeth, red eyes, multicolored body
+(mega Camerupt:1.25), toony, red body, quadruped, multicolored body, black eyes, grey body, lava, black body, fire, looking away, red fur, teeth, unibrow
+(mega Altaria:1.25), suspended in midair, flying, feathers, blue body, white feathers, blue feathers, beak, toony, tail feathers, feathered wings, white body, black eyes, wings, grey feathers, open beak, blue tail, grey beak, multicolored body, multicolored feathers, feet, jumping, anisodactyl, spread arms, toes, grey body
+(mega Banette:1.25), zipper, fusion, toony, teeth
+(mega Absol:1.25), wings, white body, white fur, red eyes, horn, claws, blue body, tuft
+(mega Glalie:1.25), horn, toony, blue body, blue eyes, red eyes, teeth, spikes
+(mega Salamence:1.25), salamence, blue body, red body, flying, yellow eyes, wings, blue skin, membrane \(anatomy\), suspended in midair, claws, red wings, multicolored body, membranous wings, countershade torso, long tail, red skin, feet, blue wings
+(mega Metagross:1.25), toony, metallic body, on model, claws, machine, blue body, alternate species, multicolored body, exoskeleton, red eyes, suspended in midair, spikes, black sclera, biped, multi limb, feet
+(mega Latias:1.25), yellow eyes, claws, multicolored body, toony, spread arms
+(mega Latios:1.25), toony, suspended in midair, blue body, flying, multicolored body, red eyes, wings, countershade torso
+(mega Rayquaza:1.25), rayquaza, suspended in midair, green body, red eyes, on model, green wings, wings, teeth, fusion, red sclera, green tail, flying, multicolored body
+(mega Lopunny:1.25), pink eyes, brown body, brown fur, fusion, black sclera, long ears
+(mega Garchomp:1.25), teeth, blue body, yellow eyes, sharp teeth, spikes, black sclera, claws, fin, biped
+(mega Lucario:1.25), spikes, blue fur, blue body, yellow fur, black fur, yellow body, black body, orange eyes, red eyes
+(mega Abomasnow:1.25), toony, white body, green body, purple eyes, multicolored body, claws
+(mega Gallade:1.25), red eyes, blue body, fusion
+(mega Audino:1.25), toony, multicolored body, pink eyes, on model, feet, two tone body, toes, white body, tendrils, 3 toes, biped, lighting, tan body, countershade torso, snout, tuft, red eyes, markings, multicolored fur, long tail, pink sclera, looking away, two tone tail, pink body
+(mega Diancie:1.25), gem, fusion, diamond \(gem\), crystal, orange eyes

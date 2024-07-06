@@ -1,0 +1,138 @@
+(101 dalmatians:1.25), spots, spotted body, black spots, spotted fur, white body, white fur, black body, black fur, teeth, eyelashes
+(afghan hound:1.25), brown eyes, brown body, long hair, brown fur, hair
+(african wild dog:1.25), inner ear fluff, tuft, brown body, brown fur, multicolored body, black nose, white body, white fur, black body, markings, tan fur, brown eyes, black fur, multicolored fur, tan body, spots, detailed, shadow, gloves \(marking\), biped, black stripes, stripes, lighting, chest tuft, umbrella
+(akita inu:1.25), brown eyes, tuft, chest tuft, brown fur, multicolored body, brown body
+(akita:1.25), tuft, brown eyes, chest tuft, multicolored body, white body, white fur, multicolored fur, brown fur, black nose
+(alaskan malamute:1.25), black nose, white body, white fur, black fur, multicolored fur, pecs, black body, multicolored body, claws, brown eyes, grey body, grey fur, biceps, tuft, black claws, two tone fur
+(american akita:1.25), brown eyes, tuft
+(american eskimo:1.25), white fur, white body, tuft, chest tuft
+(american pit bull terrier:1.25), pecs, multicolored body, white body, serratus, multicolored fur, white fur, biceps, brown body, black nose
+(anubian jackal:1.25), egyptian, jewelry, gold jewelry, black body, yellow eyes, pecs, black fur, ankh, black nose, bracelet
+(arcanine:1.25), pecs, black body, tuft, black fur, neck tuft, stripes, mane, orange body
+(australian cattle dog:1.25), white fur, white body, multicolored body, tuft, multicolored fur, brown eyes, black nose, eyebrows, chest tuft, markings, cheek tuft, facial tuft, inner ear fluff, detailed, brown fur, two tone body, two tone fur, spots, fur markings, eyelashes, brown body, claws, tan body, white countershading, tan fur
+(australian shepherd:1.25), chest tuft, tuft, white body, white fur, multicolored body, multicolored fur, floppy ears
+(bandit \(holidaypup\):1.25), multicolored fur, multicolored body, black nose, floppy ears, biped
+(basset hound:1.25), blue eyes, floppy ears, white body, white fur, multicolored body, multicolored fur, black nose, two tone body, brown fur, two tone fur
+(bau husky:1.25), tuft, white fur, white body, neck tuft, blue fur, multicolored body, multicolored fur, blue body, black nose, purple fur
+(beagle:1.25), white body, white fur, multicolored body, multicolored fur, blue eyes
+(beauceron:1.25), pecs, brown body, black nose, brown fur, brown eyes, biceps, black fur, multicolored body, black body, multicolored fur
+(belgian shepherd:1.25), black fur, black nose, brown body, black body, tuft, brown fur, v-cut, pecs, body hair, neck tuft, yellow eyes, detailed, multicolored body
+(bernese mountain dog:1.25), brown eyes, white body, white fur, brown fur, brown body, floppy ears, multicolored body, multicolored fur, black body, black fur, black nose
+(bird dog:1.25), blue eyes, chest tuft, white fur
+(black-backed jackal:1.25), tuft, black nose, black hair, white fur, white body, black fur, multicolored fur, brown eyes, multicolored body, black body
+(bloodhound:1.25), brown body, hair, brown fur
+(blue merle:1.25), chest tuft, tuft, white body, white fur, whiskers, multicolored body
+(bolt \(bolt\):1.25), collar, bolt \(film\), white body, white fur, collar tag, pecs, brown eyes, black nose
+(border collie:1.25), chest tuft, brown eyes, black fur, multicolored body, white fur, white body, multicolored fur, black body, tuft, floppy ears, black nose, brown fur
+(borzoi:1.25), white body, white fur, hair, tuft, chest tuft, fluffy, slim, wavy hair, brown eyes, multicolored body, multicolored fur, eyebrows, long hair, eyelashes
+(boston terrier:1.25), black fur, black body, brown eyes, white body, multicolored body, white fur, multicolored fur
+(boxer \(dog\):1.25), pecs, chest hair, body hair, brown eyes, brown fur, brown body, white body, white fur, biceps
+(brown hyena:1.25), brown spots, brown body, brown fur, pecs, black nose, spots, tuft, multicolored body, hair, v-cut, teeth, eyebrows, multicolored fur, tan body, spotted body, orange eyes, biped, tan fur, spotted fur, cheek tuft, facial tuft, markings, inner ear fluff, shadow, black body, brown eyes
+(bull terrier:1.25), pecs, white body, white fur, biceps
+(bulldog:1.25), slightly chubby, mature male, musclegut, facial hair, brown body, brown fur, chest hair, beard
+(caninu:1.25), chest tuft, tuft, orange fur, orange body, white fur, white body
+(caucasian mountain dog:1.25), white body, white fur, black fur, multicolored body, black nose, multicolored fur, black body
+(cavalier king charles spaniel:1.25), brown eyes, brown hair, brown fur, hair, brown body, white fur, multicolored fur, multicolored body, floppy ears, white body
+(cerberus:1.25), black fur, black body, black nose, tuft, black hair, brown fur
+(chihuahua:1.25), brown eyes, eyewear
+(chinese crested dog:1.25), hair, white hair
+(cockapoo:1.25), brown fur, brown eyes, brown body
+(cocker spaniel:1.25), brown eyes, brown fur, brown body, hair, brown hair, wavy hair, curled hair, long hair, slim, black nose
+(collie:1.25), chest tuft, tuft, white fur, white body, multicolored body, floppy ears, multicolored fur, brown eyes, brown fur, neck tuft, black nose, brown body, black body, black fur
+(dachshund:1.25), blue eyes, floppy ears, brown body, brown fur, slim, multicolored body, black nose, collarbone
+(dalmatian:1.25), spots, spotted body, black spots, spotted fur, floppy ears, white body, white fur, black fur, black body, multicolored body, multicolored fur, black nose, two tone body
+(dingo:1.25), yellow fur, yellow body, tuft, white fur, chest tuft, white body
+(dobermann:1.25), pecs, brown body, biceps, black nose, brown fur
+(dog:1.25), white body, white fur, multicolored body, multicolored fur, chest tuft, brown eyes, brown fur, brown body, tuft, floppy ears, teeth, black nose
+(dutch shepherd:1.25), black fur, black body, tuft, black nose, spots, pecs, detailed fur, orange eyes, spotted body, inner ear fluff, detailed
+(dylan \(101 dalmatians\):1.25), black spots, spots, white body, white fur, spotted body, black fur, spotted fur, black body, floppy ears, multicolored body, black nose
+(elkhound:1.25), chest tuft, tuft, hair, black nose, brown fur, brown body, brown hair
+(fay spaniel:1.25), brown eyes, floppy ears, white fur, white body
+(german shepherd:1.25), tuft, black nose, brown body, multicolored body, detailed, brown eyes, brown fur, multicolored fur, tan body, tan fur, eyebrows, inner ear fluff, white body, white fur, black fur, teeth, cheek tuft, facial tuft, detailed fur, fully sheathed, black body, neck tuft
+(gnoll:1.25), body hair, fangs, pecs, brown body, chest hair, brown fur, hairy, black nose, hair, claws, biceps, teeth, facial hair, tuft, beard, depth of field, biped, brown hair, manly, multicolored body, mohawk, black body, pose
+(golden jackal:1.25), tuft, black nose, yellow fur, white fur, chest tuft, white body, yellow body, pecs
+(golden retriever:1.25), blue eyes, yellow fur, floppy ears, chest tuft, yellow body, tuft, tan fur, multicolored body, multicolored fur, tan body
+(great dane:1.25), spots, spotted body, spotted fur, white body, black spots, white fur, pecs, black nose, multicolored body, multicolored fur
+(great pyrenees:1.25), white body, white fur, multicolored body, multicolored fur, chest tuft, tuft, black nose
+(greyhound:1.25), brown eyes, white body, multicolored body, multicolored fur, white fur, two tone body, two tone fur, black nose
+(growlithe:1.25), tuft, pecs, stripes, biceps, chest tuft, neck tuft, brown eyes, orange body, orange fur, tan body, tan fur, multicolored body, markings, multicolored fur, biped, black nose, striped body, striped fur, fluffy, black stripes, hair
+(guard hound:1.25), brown eyes, black nose, multicolored body, multicolored fur, hair, white body, eyebrows, white fur, brown fur, brown body, eyelashes, two tone body, black hair, tan body
+(gypsy vanner:1.25), hair, brown eyes, black hair, brown fur
+(hairless dog:1.25), blue eyes, white fur, white body
+(harlequin great dane:1.25), white body, white fur, black fur, black body, spots, black pussy, black nose
+(hellhound:1.25), red eyes, grey fur, grey body, eyebrows, cheek tuft, facial tuft, black nose, tuft, white fur, white body, multicolored body, multicolored fur, fluffy, eyelashes, fluffy tail, shoulder tuft, inner ear fluff, red sclera, markings, two tone fur
+(herding dog:1.25), white fur, white body, black nose, multicolored fur, multicolored body, tuft, brown fur, black fur, black body, brown body, tan fur, tan body, detailed, chest tuft
+(houndoom:1.25), horn, collar, pecs, bracelet, jewelry, brown body, brown eyes, brown fur
+(houndour:1.25), pecs, collar, bracelet, brown body, brown eyes, brown fur, jewelry, black body
+(huckleberry hound:1.25), blue body, floppy ears, blue fur, black nose, pecs, multicolored body, white body, multicolored fur, two tone body, white fur, eyebrows
+(hunting dog:1.25), white body, white fur, multicolored body, floppy ears, multicolored fur
+(husky:1.25), chest tuft, tuft, white fur, white body, brown eyes
+(hyena:1.25), spots, spotted body, spotted fur, brown spots, pecs, hair, tuft, black nose, multicolored body, brown body, brown fur, multicolored fur, tan body, biped, eyebrows, inner ear fluff, black spots, white body, tan fur, white fur, black fur, black body, brown eyes, markings
+(irish setter:1.25), hair, brown body, brown fur, tuft, orange body
+(jack russell terrier:1.25), brown eyes, white body, white fur, multicolored body, multicolored fur
+(jackal:1.25), pecs, black nose, biceps, brown body, brown fur, brown eyes, detailed, sheath, fully sheathed, biped
+(jacktor:1.25), black nose, pecs, tuft, brown body, body hair, brown fur, yellow eyes, multicolored body, multicolored fur, white body, white fur, neck tuft, black fur, black body, chest hair
+(karelian bear dog:1.25), black fur, white body, white fur, brown eyes, black body, multicolored fur, multicolored body, tuft, chest tuft, black nose, brown fur, brown body, detailed
+(krypto:1.25), white body, white fur, pecs, black nose, biceps
+(kwuff:1.25), black nose, white body, white fur, tuft, multicolored body, pecs, v-cut, multicolored fur, neck tuft
+(labrador:1.25), blue eyes, floppy ears, yellow fur, yellow body
+(leonberger:1.25), brown body, pecs, brown fur, tuft, black nose, mane, body hair, eyebrows, claws
+(livestock guardian dog:1.25), white body, white fur, black nose, multicolored body, detailed, black fur, black body, multicolored fur, brown body, brown fur
+(malinois dog:1.25), black nose, tuft, brown eyes, v-cut, brown body, brown fur, inner ear fluff, detailed, black fur, orange eyes, black body, multicolored body, pecs, teeth, multicolored fur
+(mastiff:1.25), pecs, brown eyes, sheath, chest hair, brown body, brown fur, fully sheathed
+(mightyena:1.25), red eyes, black hair, hair, tuft, black fur, fluffy, black body, fluffy tail, markings, white body, grey body
+(mixed breed:1.25), brown eyes, chest tuft, brown hair
+(mountain dog:1.25), white body, white fur, black fur, black body, black nose, multicolored body, chest tuft, multicolored fur, tuft
+(mr. peanutbutter:1.25), yellow body, yellow fur, pecs, biceps, eyebrows
+(newfoundland dog:1.25), brown fur, brown body, detailed, black nose
+(nordic sled dog:1.25), white fur, white body, black nose, tuft, multicolored body, multicolored fur, chest tuft, black nails, blue fur
+(old english sheepdog:1.25), hair, chest tuft, white fur, white body, floppy ears, tuft, brown eyes, white hair, island, black nose
+(papillon:1.25), brown eyes, tuft, chest tuft, white body, white fur
+(pembroke welsh corgi:1.25), tuft, white fur, white body, black nose, multicolored body, chest tuft, multicolored fur, eyebrows, neck tuft
+(perdita:1.25), blue eyes, white body, white fur
+(pinscher:1.25), black body, black fur, pecs, black nose
+(pit bull:1.25), pecs, serratus, biceps, blue eyes, white body, brown eyes, multicolored body, white fur, multicolored fur
+(police dog:1.25), black fur, black body, tuft, black nose, brown fur, brown body, detailed, multicolored body, inner ear fluff
+(pomeranian:1.25), tuft, brown eyes, chest tuft, hair, blonde hair, white body, multicolored body, tan fur
+(poochyena:1.25), black fur, black body, cheek tuft, facial tuft, tuft, grey body, grey fur, markings, shoulder tuft, black nose, black tail, neck tuft, multicolored body, fluffy, chest tuft, gloves \(marking\), multicolored fur, fluffy tail, white body, smirk, eyebrows, white fur, black ears, yellow eyes, tail markings, fur markings, biped, fur tuft, multicolored tail
+(poodle:1.25), hair
+(primitive dog:1.25), pecs, black nose, brown body, brown fur, v-cut, tan body, multicolored body, tan fur
+(pug:1.25), brown eyes, realistic, slightly chubby, black nose, chest hair, white body, body hair
+(red merle:1.25), chest tuft, brown eyes, tuft, eyebrows, brown fur, hair, white fur, floppy ears, multicolored fur, brown body, multicolored body, white body, black nose, cheek tuft, facial tuft, neck tuft, fluffy, shoulder tuft
+(retriever:1.25), yellow fur, floppy ears, blue eyes, yellow body, tan fur
+(rockruff:1.25), brown body, brown fur, brown eyes, bracelet, tuft, tan fur
+(rokuke shiba \(character\):1.25), tuft
+(rottweiler:1.25), pecs, black body, black fur, chest hair, brown eyes, multicolored body, brown body
+(rough collie:1.25), tuft, chest tuft, orange fur, orange body, white body, white fur, multicolored body, neck tuft, multicolored fur, black nose, submerged tail, partially submerged tail, fluffy
+(ruff bull:1.25), pecs, chest hair, blue eyes, body hair, tuft, biceps, neck tuft, multicolored body, white body, multicolored fur, black nose, white fur, brown fur, brown body
+(saint bernard:1.25), floppy ears, multicolored body, chest tuft, white body, tuft, white fur, multicolored fur, black nose, brown body
+(saluki:1.25), hair, brown eyes, eyebrows, blonde hair, eyelashes, tan body, long hair
+(samoyed:1.25), neck tuft, white body, white fur, tuft, chest tuft
+(samuel dog, @ male, slightly chubby, body hair, musclegut, chest hair, narrowed eyes
+(scent hound:1.25), floppy ears, multicolored body, white body, brown eyes, multicolored fur, white fur, black nose, brown fur, brown body
+(schnauzer:1.25), grey fur, grey body, hair, body hair, brown eyes, chest hair, white fur, white hair, white body, tuft, eyebrows, black nose, grey hair, facial hair, pecs, multicolored body, multicolored fur, animal genitalia, chest fur
+(scottish terrier:1.25), hair, black hair, black fur, black body, yellow eyes
+(setter:1.25), brown eyes, multicolored fur, multicolored body, white fur, tuft, brown fur, black nose, white body, brown body, chest tuft
+(sheepdog:1.25), chest tuft, white fur, white body, tuft, multicolored body, floppy ears, multicolored fur, black nose, blue eyes, black fur, black body, neck tuft, hair, brown fur
+(shenzi:1.25), black hair, hair, brown eyes, teeth, grey body
+(shetland sheepdog:1.25), chest tuft, tuft, orange fur, orange body, white fur, multicolored fur, hair, multicolored body, white body, fluffy, neck tuft, brown fur, brown body, black nose, eyelashes
+(shiba inu:1.25), tuft, chest tuft, brown eyes
+(shih tzu:1.25), yellow fur, yellow body, hair, brown eyes
+(siberian husky:1.25), white fur, white body, multicolored body, multicolored fur, tuft, black fur, chest tuft, black nose, black body
+(sighthound:1.25), floppy ears, hair, brown body, multicolored body, brown fur, multicolored fur, tan fur, tan body, white body, tuft, white fur, black nose, slim, eyelashes, eyebrows, blue eyes
+(spaniel:1.25), brown eyes, brown fur, brown body, brown hair, hair, floppy ears
+(spitz:1.25), blue eyes, tuft, chest tuft, white fur, white body, multicolored fur, markings, black nose, multicolored body, cheek tuft, facial tuft, orange fur, fluffy, orange body, red fur, tail markings, submerged tail, multicolored tail
+(spotted hyena:1.25), spots, spotted body, brown spots, spotted fur, pecs, hair, tuft, black nose, brown body, brown fur, black spots, multicolored body, white body, biped, white fur, black fur, brown hair, black body, multicolored fur, eyebrows
+(streetdog:1.25), black fur, black body
+(striped hyena:1.25), stripes, black fur, black body, black stripes, striped body, v-cut, multicolored body, striped fur, tuft, white body, multicolored fur, orange eyes, black nose, markings
+(swiss mountain dog:1.25), brown eyes, multicolored body, white body, white fur, black fur, multicolored fur, chest tuft, black body, brown fur, floppy ears, brown body, tuft, black nose
+(switch dog:1.25), floppy ears, black body, white body, black fur
+(terrier:1.25), brown eyes, white body, floppy ears, multicolored body, white fur, black body
+(tibetan mountain dog:1.25), brown eyes, hair
+(toy dog:1.25), blue eyes, white fur, white body, chest tuft, floppy ears, multicolored body, multicolored fur, tuft
+(toy poodle:1.25), brown eyes, collar, curled hair, hair, bell, jewelry, wrist tuft, brown body
+(urocyon:1.25), white body, white fur, black nose, tuft, orange body, orange fur, multicolored body, multicolored fur, fluffy
+(welsh corgi:1.25), tuft, neck tuft, chest tuft, eyebrows, black nose, white fur, cheek tuft, facial tuft, white body, multicolored body, inner ear fluff
+(west highland white terrier:1.25), white fur, white body, white hair, hair, pecs, black nose, detailed fur, facial hair, detailed, tuft, body hair, eyebrows, beard, brown eyes
+(whippet:1.25), white body, white fur, brown eyes, black nose, multicolored body, featureless chest, slim, multicolored fur
+(winona \(mlp\):1.25), collar, pink eyes, brown fur, brown body, tuft, bell, chest tuft, collar only, multicolored body, purple eyes, bell collar, eyelashes, multicolored fur, collar tag, narrowed eyes

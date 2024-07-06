@@ -1,0 +1,5 @@
+gray
+light gray
+dark gray
+dim gray
+slate gray
